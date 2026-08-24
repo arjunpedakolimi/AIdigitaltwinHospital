@@ -1,0 +1,501 @@
+event_id,event_type,priority,status,reported_time,response_time_minutes,ambulance_id,location,casualties
+EMG00001,Fire Accident,Medium,In Progress,2025-09-13 12:06:43.556291,16,AMB024,"0812 Collins Parkway, Freemanfurt, MO 66327",7
+EMG00002,Road Traffic Accident,High,Resolved,2026-06-23 00:23:19.767443,9,AMB016,"535 James Route Apt. 459, Johnshire, DE 95452",7
+EMG00003,Respiratory Failure,Low,In Progress,2026-03-30 03:09:23.149954,32,AMB008,"71947 Gary Gateway, New Luisview, DC 29613",4
+EMG00004,Burn Injury,Medium,Dispatched,2025-09-04 17:53:03.946327,19,AMB020,"16928 Green Wells, Sharonhaven, VI 33457",1
+EMG00005,Seizure,Critical,Resolved,2025-12-20 12:48:49.878119,5,AMB024,"Unit 4088 Box 0672, DPO AA 83231",7
+EMG00006,Trauma,Critical,In Progress,2025-12-24 15:54:43.623753,5,AMB003,"34708 Contreras Pass Apt. 534, Judithstad, MD 58284",7
+EMG00007,Road Traffic Accident,Medium,Resolved,2026-01-07 01:03:20.204249,13,AMB003,"33788 Allison Estates, Lake Troy, MI 97540",1
+EMG00008,Poisoning,Medium,Dispatched,2026-01-03 11:50:22.836587,19,AMB020,"539 Ware Ridges, Nicholasland, UT 97179",1
+EMG00009,Poisoning,Medium,Resolved,2025-08-15 19:22:29.580251,16,AMB017,"7445 Kimberly Islands, Villarrealbury, AS 90163",4
+EMG00010,Cardiac Arrest,High,Dispatched,2025-11-13 00:15:13.562992,10,AMB016,"976 Jose Radial, South Brian, WI 37211",5
+EMG00011,Road Traffic Accident,High,In Progress,2026-07-03 09:20:21.898179,8,AMB010,"934 Griffin Club Apt. 042, Williamton, IL 93891",3
+EMG00012,Mass Casualty,Medium,In Progress,2025-08-22 08:24:23.272209,16,AMB014,"236 Jeremy Park, West Dariuston, TN 11906",7
+EMG00013,Burn Injury,High,In Progress,2025-08-24 09:16:20.195903,7,AMB023,"USCGC Bell, FPO AE 57673",5
+EMG00014,Stroke,Low,Resolved,2025-08-23 00:31:47.800327,39,AMB017,"3526 Pittman Motorway Apt. 430, Mckenzieburgh, AK 88105",8
+EMG00015,Cardiac Arrest,Medium,Resolved,2026-04-08 15:31:18.530828,13,AMB020,"9409 Carrie Terrace Suite 224, New Nicolehaven, MN 75109",2
+EMG00016,Trauma,High,Dispatched,2025-11-08 07:43:15.408653,5,AMB014,"541 Gilbert Junctions Suite 726, Lake Victoria, DC 45906",7
+EMG00017,Respiratory Failure,Low,Resolved,2026-04-19 23:44:37.180434,22,AMB004,"34848 Kathleen Corners Apt. 036, Swansonborough, PA 10834",1
+EMG00018,Seizure,Low,Dispatched,2025-11-16 08:11:29.254735,22,AMB020,"6176 Dylan Square Suite 706, Lake Ericport, MI 04564",8
+EMG00019,Poisoning,High,Resolved,2026-05-04 06:49:24.870522,6,AMB002,"0900 Holder Harbors Apt. 786, Brockhaven, IN 41313",5
+EMG00020,Cardiac Arrest,Critical,Resolved,2026-03-30 01:00:11.920910,3,AMB014,"64014 Gonzales Road, New Michaelfurt, TX 89858",2
+EMG00021,Mass Casualty,Low,Resolved,2026-03-17 17:13:33.452189,40,AMB009,"389 James Pines Suite 197, New Adrian, MT 08744",1
+EMG00022,Trauma,Medium,Dispatched,2026-05-09 02:58:44.558335,12,AMB013,"PSC 5697, Box 4950, APO AP 93060",1
+EMG00023,Stroke,Medium,Dispatched,2025-08-17 00:09:37.063380,18,AMB005,"Unit 9091 Box 8458, DPO AE 61914",2
+EMG00024,Seizure,Medium,In Progress,2026-03-12 13:36:12.120428,10,AMB017,"30605 Stephanie Mission, Nicholastown, VI 34361",4
+EMG00025,Fire Accident,Critical,Dispatched,2026-06-22 22:37:11.451746,2,AMB025,"0320 Monique Lights Suite 811, Priceland, MH 31400",1
+EMG00026,Burn Injury,Low,Dispatched,2026-05-24 10:04:50.344895,34,AMB018,"949 Larson Cliff Suite 931, Avilachester, OK 63901",4
+EMG00027,Poisoning,Critical,In Progress,2026-06-06 10:17:27.367913,2,AMB025,"831 White Mountains, North Traciside, WY 46739",5
+EMG00028,Mass Casualty,High,In Progress,2025-09-27 02:05:51.805471,5,AMB022,"6745 Bennett Manors, Port Cassidyfort, MD 81357",7
+EMG00029,Fire Accident,Medium,Resolved,2026-03-21 10:06:05.953496,13,AMB021,"126 Eugene Haven Suite 705, Andreaborough, FM 61028",7
+EMG00030,Respiratory Failure,High,Dispatched,2025-11-26 02:24:47.910874,6,AMB005,"81839 Chavez Route Suite 465, Mcculloughfurt, WI 85126",3
+EMG00031,Respiratory Failure,High,Dispatched,2026-02-23 16:55:19.868635,8,AMB002,"3862 Kristin Harbor, Josephton, NY 26778",1
+EMG00032,Burn Injury,Medium,Resolved,2025-10-19 21:30:17.060922,11,AMB011,"51841 King Shoals, North Laurieshire, PW 26835",3
+EMG00033,Cardiac Arrest,Low,In Progress,2026-01-24 00:15:10.694600,27,AMB006,"54832 Richard Loop, Jorgeborough, CO 96513",2
+EMG00034,Poisoning,Critical,In Progress,2025-08-23 02:27:01.909150,4,AMB004,"1354 Vargas Shore Apt. 055, Andrewport, AL 92408",3
+EMG00035,Fire Accident,Low,Resolved,2026-04-21 12:15:57.400782,35,AMB006,"167 Perez Forges, Lake Betty, PA 29227",2
+EMG00036,Trauma,Medium,Resolved,2025-11-15 06:48:09.983611,14,AMB021,"7430 Mike Squares Suite 571, Keithshire, NV 68741",3
+EMG00037,Respiratory Failure,Medium,In Progress,2025-11-09 15:26:04.819269,11,AMB012,"Unit 7419 Box 6743, DPO AP 72646",2
+EMG00038,Fire Accident,Medium,Dispatched,2025-10-16 11:37:49.176105,10,AMB022,"0929 Jasmine Lane Apt. 083, Josephstad, WI 51523",2
+EMG00039,Stroke,Medium,In Progress,2026-07-18 12:59:40.716276,18,AMB005,"6431 Raymond Crest, Thomasstad, GA 36830",3
+EMG00040,Cardiac Arrest,Medium,Dispatched,2026-04-28 06:46:45.599535,15,AMB004,"558 Ramirez Village, Gonzalesview, IA 70514",5
+EMG00041,Mass Casualty,Medium,Resolved,2026-02-16 06:38:56.030525,17,AMB022,"04885 Michael Street Suite 970, New Anthony, NM 17286",2
+EMG00042,Road Traffic Accident,Medium,In Progress,2025-08-26 14:16:16.139467,19,AMB007,"1554 Olson Alley Suite 946, Teresaport, FM 76178",7
+EMG00043,Seizure,Medium,Dispatched,2026-03-15 08:34:17.563346,11,AMB021,"Unit 1700 Box 8585, DPO AP 75276",1
+EMG00044,Cardiac Arrest,Medium,In Progress,2025-10-27 14:10:36.151826,20,AMB013,"712 Beasley Mountain Apt. 005, Valerieville, OK 34303",3
+EMG00045,Road Traffic Accident,High,Dispatched,2025-11-15 04:40:31.810339,7,AMB012,"4163 Robles Pass Suite 877, New James, WV 71671",2
+EMG00046,Road Traffic Accident,Low,In Progress,2026-07-04 11:49:20.540274,23,AMB002,"040 Jack Radial, Lake Melindaton, WI 43457",5
+EMG00047,Seizure,Medium,Resolved,2026-01-04 05:08:29.349425,11,AMB014,"36400 Herman Island Suite 612, New Jennifer, AR 84267",5
+EMG00048,Stroke,Medium,In Progress,2025-11-16 14:42:12.187391,16,AMB002,"4232 Nicholas Highway, Thompsonfort, CT 46101",3
+EMG00049,Mass Casualty,High,Resolved,2025-10-04 00:02:38.641082,6,AMB020,"PSC 3958, Box 8538, APO AA 77875",8
+EMG00050,Cardiac Arrest,High,Dispatched,2025-09-30 05:15:37.759232,7,AMB009,"95992 David Orchard, Port Roger, VA 02980",4
+EMG00051,Poisoning,Low,In Progress,2026-01-13 03:26:08.434600,24,AMB003,"931 Miguel Hill, East Cheryl, MA 08636",1
+EMG00052,Burn Injury,Medium,In Progress,2025-11-27 23:58:41.555708,10,AMB022,"4502 Carlos Drives, Howellburgh, ID 74075",5
+EMG00053,Fire Accident,Low,In Progress,2026-06-22 23:53:22.117459,32,AMB023,"74203 Warren Turnpike, New Alanfurt, MT 59234",8
+EMG00054,Road Traffic Accident,Low,Resolved,2026-06-22 00:37:36.854295,36,AMB014,"59393 Weiss Road Suite 434, Lake Jessica, NH 32054",3
+EMG00055,Poisoning,Low,In Progress,2026-06-30 23:34:02.031883,33,AMB009,"33542 Mendoza Knoll Suite 764, North Kyle, NH 62240",4
+EMG00056,Fire Accident,Medium,Dispatched,2025-09-04 23:19:23.034530,19,AMB018,"49267 Brian Hills, Port Antonio, AK 32816",5
+EMG00057,Cardiac Arrest,Medium,Dispatched,2025-08-22 08:54:16.089583,15,AMB014,"871 Jones Ramp, Taylorburgh, MN 00753",8
+EMG00058,Stroke,Critical,Resolved,2025-10-14 08:35:22.696293,3,AMB002,"9478 Duncan Track, Danielhaven, SC 30444",2
+EMG00059,Burn Injury,High,Resolved,2025-08-28 02:18:03.281610,10,AMB025,"0261 Jerry Pines, Port Sean, IA 13221",8
+EMG00060,Seizure,Low,Dispatched,2026-06-30 16:32:58.279346,26,AMB003,"910 Porter Stream, West Jodiside, PW 46389",4
+EMG00061,Road Traffic Accident,Medium,Dispatched,2025-11-21 08:27:54.568977,11,AMB022,"PSC 7065, Box 5832, APO AE 17940",4
+EMG00062,Stroke,High,Dispatched,2026-01-03 08:18:22.198423,7,AMB005,"266 Dickerson Pines, Figueroahaven, AL 39281",6
+EMG00063,Fire Accident,Critical,Dispatched,2026-05-08 13:40:43.205847,5,AMB007,"6311 Larsen Drives, Port Christopher, PR 63115",5
+EMG00064,Fire Accident,Critical,In Progress,2025-12-19 10:15:57.752442,4,AMB007,"02828 Brian Vista Suite 194, South Paulview, UT 20003",1
+EMG00065,Poisoning,High,Dispatched,2026-04-01 08:41:23.998571,5,AMB024,"7407 Nguyen Cape, New Kevinport, FM 50854",4
+EMG00066,Burn Injury,Medium,In Progress,2025-11-03 04:26:19.908960,15,AMB017,"339 Lisa Flat, Lake Laura, AK 18546",4
+EMG00067,Seizure,Medium,Dispatched,2026-04-24 03:26:09.683506,19,AMB013,"PSC 3779, Box 5961, APO AA 30595",8
+EMG00068,Stroke,Critical,In Progress,2026-02-23 19:45:04.834486,3,AMB005,"67659 Brown Bridge Suite 354, Ruthstad, PA 03185",1
+EMG00069,Cardiac Arrest,Low,In Progress,2025-12-04 12:46:57.692530,25,AMB018,"426 Jeremy Club, Belltown, IN 04287",5
+EMG00070,Cardiac Arrest,High,Resolved,2025-08-18 21:50:27.238172,10,AMB003,"1465 Beck Landing Apt. 556, West Dariusburgh, OK 41836",7
+EMG00071,Fire Accident,High,Resolved,2025-08-12 23:45:45.557556,9,AMB022,"31004 Ellis Pass, South Kathleentown, GU 80036",6
+EMG00072,Respiratory Failure,High,Resolved,2026-02-15 13:17:18.235213,10,AMB011,"4654 Jerome Streets, Lake Jennifer, MN 60421",2
+EMG00073,Burn Injury,Critical,Dispatched,2025-10-25 18:53:26.652994,5,AMB003,"6839 Carter Ville, Julianfort, VI 21786",1
+EMG00074,Cardiac Arrest,Low,Dispatched,2025-12-28 19:23:14.706624,26,AMB020,"827 Sanchez Overpass, Kevinport, NC 62621",3
+EMG00075,Mass Casualty,High,In Progress,2026-04-25 18:46:13.808815,8,AMB023,"08273 Amanda Avenue, New Melissaside, SD 80452",3
+EMG00076,Road Traffic Accident,High,In Progress,2025-08-07 05:57:38.667889,10,AMB011,"40021 Freeman Ville, Elizabethshire, IN 12508",4
+EMG00077,Road Traffic Accident,Low,Resolved,2025-10-02 22:41:39.419677,29,AMB016,"45080 Christine Dale Apt. 723, Phamstad, TX 96068",1
+EMG00078,Stroke,Medium,Dispatched,2025-10-12 12:02:47.107789,15,AMB025,"37992 Laura Parkway Suite 054, Lake Jesse, PW 37860",2
+EMG00079,Fire Accident,Medium,In Progress,2025-09-25 23:09:32.767831,14,AMB017,"3786 Murray Glens, Adamsbury, TN 12656",4
+EMG00080,Cardiac Arrest,Medium,In Progress,2026-06-23 20:20:16.590580,15,AMB009,"74834 Jeff Union, Shelbyborough, MI 01613",8
+EMG00081,Trauma,Critical,Dispatched,2026-04-24 23:49:32.019676,4,AMB023,"078 Billy Point Apt. 400, West Ashley, MS 69907",4
+EMG00082,Fire Accident,High,In Progress,2025-12-18 20:16:48.974766,10,AMB005,"97258 Francis Fields, Stewartburgh, MH 58516",4
+EMG00083,Seizure,High,Dispatched,2025-12-19 03:00:54.872025,5,AMB017,"32608 Joy Forest Apt. 451, Lake Krista, SC 37461",2
+EMG00084,Trauma,High,Resolved,2025-12-31 00:10:03.539847,8,AMB018,"16127 Christine Inlet, New Michael, MS 24368",5
+EMG00085,Seizure,High,Dispatched,2026-05-11 04:02:26.192176,9,AMB014,"648 Eric Prairie, North Caitlin, TX 01548",2
+EMG00086,Cardiac Arrest,Medium,In Progress,2026-06-05 05:11:12.389011,14,AMB009,"006 Jeremy Burgs, Lake Heidistad, AS 42025",2
+EMG00087,Seizure,Medium,Resolved,2026-01-27 22:16:16.944020,14,AMB022,"8719 Mcdaniel Squares Suite 794, East Victoria, RI 56916",3
+EMG00088,Poisoning,Critical,In Progress,2026-01-12 16:04:24.110033,5,AMB022,"904 Michael Trafficway, West Christine, FM 27165",3
+EMG00089,Fire Accident,Low,Dispatched,2026-01-21 21:26:30.821698,39,AMB018,"9537 Susan Ridges Suite 013, South Martha, NY 41058",4
+EMG00090,Road Traffic Accident,High,In Progress,2025-09-20 01:02:47.302727,5,AMB011,"78268 Wu Meadows, Donnamouth, DE 57929",2
+EMG00091,Fire Accident,Critical,Resolved,2026-07-21 18:30:10.478273,2,AMB012,"20046 Ashley Square Suite 927, Fieldsburgh, TN 96367",6
+EMG00092,Respiratory Failure,Medium,Dispatched,2025-09-17 07:30:08.128062,10,AMB021,"593 Rachel Prairie, North Kristinafort, VA 66070",6
+EMG00093,Fire Accident,Low,In Progress,2026-04-19 19:08:24.506723,26,AMB006,"90937 Sergio Vista Suite 354, Paulastad, MI 01947",2
+EMG00094,Stroke,Medium,Resolved,2026-01-01 15:04:42.368361,13,AMB007,"166 Tammy Divide, East Jordan, AZ 91102",1
+EMG00095,Seizure,Medium,In Progress,2026-07-24 17:13:36.708117,18,AMB005,"92779 Danny Springs, North Jennastad, DC 10765",3
+EMG00096,Seizure,Medium,Resolved,2025-10-15 06:14:57.632459,13,AMB006,"021 Melissa Expressway Apt. 660, Brendafort, AS 56236",3
+EMG00097,Seizure,Critical,Resolved,2025-09-22 08:40:53.395126,4,AMB025,"52850 Johnson Lane Apt. 485, North Timothy, OH 80878",8
+EMG00098,Mass Casualty,Medium,Resolved,2026-04-11 16:13:38.589903,11,AMB004,"USNV Mitchell, FPO AA 24336",8
+EMG00099,Road Traffic Accident,Critical,In Progress,2026-07-27 09:53:36.074116,5,AMB024,"381 Anna Tunnel, South Jeremyshire, KY 13776",7
+EMG00100,Burn Injury,Medium,Resolved,2025-08-16 05:25:04.150773,15,AMB010,"949 Perez Points Apt. 380, East Barbarastad, KS 23844",3
+EMG00101,Poisoning,Medium,In Progress,2026-07-02 09:29:45.206585,19,AMB019,"8410 Matthew View Apt. 108, Santiagoside, WA 17200",4
+EMG00102,Stroke,Medium,In Progress,2026-01-28 21:39:33.190068,18,AMB007,"62805 Barron Track, East Tylershire, KY 96752",8
+EMG00103,Fire Accident,Medium,Dispatched,2025-12-08 01:34:17.788880,15,AMB016,"PSC 1302, Box 9422, APO AE 24341",6
+EMG00104,Cardiac Arrest,High,Dispatched,2025-09-12 01:40:55.830432,5,AMB022,"054 Peter Stravenue, West Dylan, IL 52487",2
+EMG00105,Poisoning,High,Dispatched,2025-11-11 13:18:12.497338,10,AMB011,"PSC 8255, Box 1941, APO AE 47226",4
+EMG00106,Cardiac Arrest,Low,Resolved,2026-02-08 22:05:33.252188,40,AMB021,"34337 Moore Dam Apt. 481, Nicoleland, GA 13641",3
+EMG00107,Fire Accident,Medium,Resolved,2025-12-11 06:02:59.949663,17,AMB024,"86517 Amanda Tunnel, New Paula, NM 08785",6
+EMG00108,Road Traffic Accident,Medium,In Progress,2025-12-06 19:32:12.721874,20,AMB009,"650 Rick Valleys Apt. 154, Dunlapmouth, OK 64322",2
+EMG00109,Seizure,High,Resolved,2026-07-14 17:27:13.059153,5,AMB016,"078 Shane Inlet Suite 695, Lake Justinhaven, VA 69696",8
+EMG00110,Poisoning,High,Dispatched,2025-11-28 02:18:36.222146,9,AMB022,"5767 Ruth Wells Apt. 354, Jacobtown, IN 48784",6
+EMG00111,Seizure,Critical,Dispatched,2025-09-12 17:03:37.966960,2,AMB015,"3177 Crawford Mission Apt. 290, Jennifertown, MD 48597",7
+EMG00112,Respiratory Failure,High,Dispatched,2026-03-22 12:03:18.350158,8,AMB020,"3317 Danielle Islands Apt. 165, Lake Christopherchester, VI 07275",7
+EMG00113,Fire Accident,Critical,Resolved,2026-07-12 09:21:47.719014,3,AMB004,"PSC 8626, Box 3979, APO AA 45609",5
+EMG00114,Poisoning,Medium,Resolved,2026-03-10 05:21:32.291931,15,AMB008,"986 Robert Garden Apt. 415, South Jonathan, PW 61224",6
+EMG00115,Trauma,High,Resolved,2026-02-15 03:31:52.988913,6,AMB001,"688 Brittany Knolls, Edwinberg, FM 50438",5
+EMG00116,Stroke,Low,In Progress,2026-02-15 13:25:14.276279,26,AMB014,"078 Lyons Shore Suite 094, South Neil, KS 56678",3
+EMG00117,Seizure,Medium,Resolved,2026-05-04 14:38:05.803770,19,AMB019,"458 Brittany Square Suite 925, South James, KY 79790",1
+EMG00118,Stroke,High,Resolved,2025-11-10 17:43:33.278897,8,AMB007,"225 Gary Manors, Jasmineside, MD 90362",2
+EMG00119,Respiratory Failure,Medium,In Progress,2025-11-22 20:57:02.004603,11,AMB004,"12585 Hutchinson Parks Suite 706, Morrisbury, TN 80635",8
+EMG00120,Trauma,Medium,Resolved,2026-03-26 11:30:22.734076,15,AMB006,"87946 Hall Gateway Suite 128, South Diane, IA 64802",6
+EMG00121,Fire Accident,Critical,Dispatched,2026-07-04 10:16:37.469687,3,AMB007,"807 Sherri Rapid, Port Adamfurt, SC 38771",4
+EMG00122,Fire Accident,Medium,Dispatched,2025-10-22 07:19:36.792017,13,AMB025,"1249 Jackson Falls, Lake Ashley, FM 93500",4
+EMG00123,Poisoning,High,Resolved,2026-04-30 09:35:23.437454,6,AMB008,"610 Christina Throughway Suite 399, North Laurie, FL 34428",4
+EMG00124,Stroke,High,Dispatched,2026-01-30 12:52:39.099334,5,AMB019,"378 Susan Manor, North Christopherbury, FM 67280",6
+EMG00125,Cardiac Arrest,High,In Progress,2026-06-24 14:26:51.563194,6,AMB021,"65345 David Camp Suite 294, Erikhaven, VI 58180",4
+EMG00126,Poisoning,High,Dispatched,2025-09-30 12:51:58.001854,7,AMB008,"75860 Erickson Valley, Port Melissa, MI 02866",8
+EMG00127,Cardiac Arrest,Medium,Resolved,2026-06-24 12:25:50.164280,15,AMB010,"239 Rodriguez Brooks, Jacquelineville, DC 10084",4
+EMG00128,Road Traffic Accident,High,Dispatched,2026-02-23 22:40:09.727731,8,AMB008,"USS Boone, FPO AA 38454",1
+EMG00129,Stroke,Medium,Resolved,2026-07-10 00:51:34.830772,19,AMB005,"Unit 2248 Box 9905, DPO AE 40515",2
+EMG00130,Seizure,Medium,In Progress,2025-10-23 10:36:28.902328,11,AMB003,"6102 Nelson Squares Apt. 971, Johnsonport, HI 73161",7
+EMG00131,Poisoning,Medium,In Progress,2026-04-26 16:25:14.925266,12,AMB006,"PSC 9252, Box 3173, APO AE 18197",5
+EMG00132,Mass Casualty,Critical,In Progress,2026-05-18 22:50:35.008126,2,AMB005,"4195 Villanueva Roads Suite 910, New Codychester, MO 69293",5
+EMG00133,Mass Casualty,Medium,In Progress,2025-09-09 20:05:04.572308,20,AMB015,"174 Michael Passage, Port Patricia, IA 77556",7
+EMG00134,Mass Casualty,Low,In Progress,2026-01-05 01:51:28.393808,21,AMB005,"9258 Smith Trafficway, South Anthonyburgh, AR 62605",7
+EMG00135,Respiratory Failure,High,Resolved,2025-08-12 18:45:46.100645,5,AMB025,"11621 Mckee Crest Apt. 629, West Michaeltown, ND 83775",4
+EMG00136,Burn Injury,High,Dispatched,2025-10-13 02:09:04.166686,6,AMB012,"313 Christina Tunnel Apt. 996, Pettyburgh, VA 90403",6
+EMG00137,Stroke,Critical,Resolved,2025-11-27 22:53:16.534002,5,AMB015,"504 Mary Freeway Apt. 991, New Andrew, ND 53256",2
+EMG00138,Trauma,High,In Progress,2026-06-09 17:03:14.494489,10,AMB008,"USNS Newman, FPO AP 08606",4
+EMG00139,Road Traffic Accident,High,Resolved,2026-07-13 21:31:22.218703,9,AMB003,"3333 Holland Trace, Kristyhaven, FM 57950",5
+EMG00140,Burn Injury,Critical,In Progress,2025-08-29 16:10:27.124884,4,AMB024,"527 Barnett Coves Apt. 302, South Anna, GA 05994",4
+EMG00141,Trauma,High,In Progress,2026-01-21 18:22:16.443858,9,AMB017,"6140 Stanley Mountains, Bishopburgh, IA 86079",2
+EMG00142,Mass Casualty,Medium,In Progress,2026-03-24 06:23:38.339113,16,AMB024,"11647 Sullivan Summit Suite 112, Port Kristinstad, GA 67774",8
+EMG00143,Mass Casualty,Critical,Dispatched,2026-08-01 20:42:23.772114,5,AMB025,"862 Larry Via, Lake Diana, MA 45741",4
+EMG00144,Mass Casualty,Critical,In Progress,2026-04-18 12:42:16.084177,3,AMB001,"PSC 7319, Box 4936, APO AP 50594",3
+EMG00145,Respiratory Failure,Medium,Dispatched,2025-11-21 22:54:05.631211,18,AMB002,"285 Robin Street, Williamland, MA 49528",5
+EMG00146,Stroke,Medium,Resolved,2026-01-22 05:44:34.348118,18,AMB018,"3521 Huffman Manor, Fergusonchester, WY 73253",6
+EMG00147,Poisoning,Critical,In Progress,2026-07-23 08:58:19.824134,4,AMB017,"2693 Regina Mills Apt. 104, Andreashire, HI 51890",3
+EMG00148,Trauma,High,Resolved,2025-10-10 06:37:41.693123,7,AMB012,"7033 Katherine Course Suite 975, Ayersfort, CT 24489",3
+EMG00149,Stroke,Medium,Dispatched,2026-01-01 20:29:15.698842,14,AMB016,"863 Samantha Drive Apt. 046, South Samantha, NM 17759",8
+EMG00150,Poisoning,High,Resolved,2026-05-14 02:12:52.714314,10,AMB019,"291 Paul Plains Suite 123, Walkerport, MP 03607",5
+EMG00151,Mass Casualty,Medium,In Progress,2025-12-20 15:20:32.576072,12,AMB017,"730 Smith Haven Apt. 918, North Nicoleside, CO 78679",4
+EMG00152,Trauma,Medium,Resolved,2026-06-19 03:00:35.338431,18,AMB020,"694 Hardy Spur, Jeffreyton, WA 78076",7
+EMG00153,Fire Accident,Medium,Resolved,2025-12-30 12:24:47.276733,20,AMB020,"95993 Edwin Creek, Murraytown, AK 98865",4
+EMG00154,Burn Injury,Medium,Resolved,2025-12-10 12:04:28.889982,12,AMB009,"0937 Patterson Ridge, South Mathewfort, DE 79966",3
+EMG00155,Road Traffic Accident,Medium,In Progress,2026-07-03 22:49:21.550950,10,AMB020,"2992 James Spring, Torresmouth, CA 45932",1
+EMG00156,Road Traffic Accident,Medium,Dispatched,2025-09-29 03:50:11.864402,20,AMB010,"189 Robert Cliff Suite 657, South Michael, TN 74505",1
+EMG00157,Cardiac Arrest,Medium,Resolved,2025-12-24 20:33:35.644880,11,AMB003,"29329 Melinda Pass, Port Brandybury, IN 52795",7
+EMG00158,Cardiac Arrest,Critical,Resolved,2026-05-10 02:31:28.269486,2,AMB023,"692 Janet Glens, Stephenville, TX 89536",7
+EMG00159,Mass Casualty,High,Resolved,2025-11-25 18:47:58.596745,5,AMB012,"962 Kaiser Throughway, New Cody, UT 93415",2
+EMG00160,Mass Casualty,Medium,Dispatched,2026-05-20 21:09:54.392019,11,AMB007,"44154 Cain Curve Apt. 609, Claytonshire, VI 55423",2
+EMG00161,Road Traffic Accident,Critical,In Progress,2026-07-07 07:58:13.273125,4,AMB008,"USNV Christensen, FPO AA 40336",6
+EMG00162,Road Traffic Accident,High,Dispatched,2025-10-10 05:04:25.681247,6,AMB020,"4310 Sloan Mission Apt. 354, Kevinview, CT 28786",8
+EMG00163,Seizure,Critical,Resolved,2026-07-01 16:43:47.964391,3,AMB023,"9925 Jennifer Skyway Apt. 750, Danielleberg, LA 24512",6
+EMG00164,Fire Accident,High,In Progress,2025-11-15 09:58:05.680536,10,AMB013,"51196 Mccormick Fall, West Kristieside, WY 01471",6
+EMG00165,Seizure,Low,In Progress,2025-09-24 19:08:41.435141,32,AMB013,"81913 Shane Street Apt. 516, Lawsonland, NV 75901",7
+EMG00166,Road Traffic Accident,Medium,Resolved,2025-12-08 22:54:42.282228,20,AMB017,"347 Robinson Stravenue Suite 030, South Gloria, PW 93847",7
+EMG00167,Road Traffic Accident,Low,Dispatched,2026-03-16 18:34:46.012486,21,AMB011,"4500 Hammond Landing, Colemanton, LA 69527",2
+EMG00168,Stroke,Low,In Progress,2025-08-28 12:20:14.491667,27,AMB011,"0262 Vasquez Corners Apt. 424, West Randy, PR 71792",3
+EMG00169,Cardiac Arrest,Low,Resolved,2025-09-08 15:32:19.740491,40,AMB008,"05650 Tina Village, Williamsonchester, SD 27466",8
+EMG00170,Burn Injury,High,In Progress,2026-07-06 06:39:43.785746,6,AMB017,"791 Copeland Lodge, Carrland, MP 55387",8
+EMG00171,Trauma,Low,Resolved,2025-11-04 03:04:21.345767,33,AMB010,"4054 Williams Streets Suite 983, Lake Christophershire, CT 96615",4
+EMG00172,Mass Casualty,Medium,Dispatched,2026-05-16 11:20:45.041610,16,AMB015,"1002 Nelson Oval Suite 118, Kristaburgh, MP 23158",1
+EMG00173,Cardiac Arrest,Low,Resolved,2026-01-25 05:50:20.677747,28,AMB019,"09793 Wu Cape Suite 498, East Jason, NY 76195",6
+EMG00174,Fire Accident,Medium,Dispatched,2026-01-04 00:37:36.677964,20,AMB003,"5110 Moore Port, New Stevenchester, LA 87276",4
+EMG00175,Poisoning,Low,Dispatched,2025-12-11 09:49:28.540973,38,AMB019,"748 Karen Walks Apt. 065, North Jenniferton, SD 21421",1
+EMG00176,Respiratory Failure,Critical,Resolved,2026-01-21 01:38:27.879050,2,AMB023,"13845 Kenneth Lakes Suite 475, North Lindaville, TN 64755",4
+EMG00177,Respiratory Failure,Medium,Dispatched,2026-07-15 19:07:47.393564,19,AMB008,"59646 Michelle Freeway Apt. 871, Thomastown, ND 34742",2
+EMG00178,Trauma,Medium,In Progress,2025-12-31 00:59:52.044837,20,AMB013,"52114 Johnston Forest, Lake Gregorytown, MH 09633",7
+EMG00179,Stroke,Critical,In Progress,2026-02-05 03:09:26.263354,2,AMB021,"964 Jensen Valleys Suite 479, Lewishaven, VT 27375",3
+EMG00180,Mass Casualty,Critical,Resolved,2025-08-21 08:11:46.310139,3,AMB011,"001 Charles Gateway, South Kristen, FL 74001",1
+EMG00181,Burn Injury,Medium,Dispatched,2025-12-25 05:39:54.576674,13,AMB010,"130 Lindsey Path, Lisashire, MA 63669",6
+EMG00182,Trauma,Critical,Dispatched,2026-02-16 20:40:03.867001,5,AMB024,"914 Kevin Manor, Oscarmouth, NY 63029",5
+EMG00183,Road Traffic Accident,Medium,In Progress,2026-03-10 00:21:01.886158,15,AMB013,"PSC 5395, Box 5733, APO AA 48718",8
+EMG00184,Stroke,Medium,In Progress,2025-10-08 07:06:37.188113,15,AMB001,"75846 Morris Mews Suite 673, Huffmanview, KS 74419",4
+EMG00185,Burn Injury,Low,In Progress,2026-06-07 22:05:36.301676,40,AMB012,"070 Michael Isle, Torresberg, IN 23432",5
+EMG00186,Respiratory Failure,High,In Progress,2025-11-29 08:55:52.680523,6,AMB020,"19353 Elizabeth Course, Johnnymouth, RI 06052",5
+EMG00187,Poisoning,Critical,Dispatched,2025-10-13 18:12:15.225874,2,AMB007,"2570 Monique Overpass Apt. 506, New Christina, NM 40912",2
+EMG00188,Burn Injury,Critical,In Progress,2025-09-04 10:24:43.554997,2,AMB015,"335 Angela Freeway Apt. 679, Rachelview, AS 71838",2
+EMG00189,Road Traffic Accident,Critical,Resolved,2026-03-21 01:55:51.993576,4,AMB025,"12867 Derek Track Suite 436, Barnesbury, IA 91949",1
+EMG00190,Burn Injury,Medium,In Progress,2026-05-26 10:25:36.344701,16,AMB022,"3352 Michael Squares Suite 316, North Matthew, PW 56102",5
+EMG00191,Mass Casualty,Low,Resolved,2025-12-03 16:13:50.229570,36,AMB011,"35131 Cunningham Via, Kellyton, MI 14476",7
+EMG00192,Cardiac Arrest,High,Resolved,2025-12-01 11:37:57.439993,6,AMB014,"065 Lisa Brooks Suite 696, Jameston, PW 02195",2
+EMG00193,Respiratory Failure,Low,Dispatched,2025-12-11 02:05:50.842347,36,AMB025,"454 Michael Loaf Suite 088, Hunterfort, NV 59594",6
+EMG00194,Road Traffic Accident,Medium,Resolved,2025-11-05 10:51:31.662054,12,AMB024,"Unit 7959 Box 0405, DPO AE 93176",4
+EMG00195,Stroke,Critical,Resolved,2026-01-17 19:15:04.442299,3,AMB019,"Unit 3026 Box 6336, DPO AE 83796",4
+EMG00196,Trauma,High,Dispatched,2025-08-29 18:46:13.601767,8,AMB013,"96242 Simmons Divide Suite 776, Port Lisa, RI 60302",4
+EMG00197,Fire Accident,High,Dispatched,2025-10-20 03:37:55.725630,6,AMB020,"30406 Shelia Stravenue Apt. 496, North Teresa, VI 94003",8
+EMG00198,Mass Casualty,High,Dispatched,2026-06-05 20:17:09.249321,5,AMB019,"Unit 3637 Box 3646, DPO AA 90247",2
+EMG00199,Road Traffic Accident,High,Dispatched,2025-11-22 07:39:11.549523,6,AMB019,"887 Smith Ramp, Anthonyhaven, TX 59854",5
+EMG00200,Cardiac Arrest,Critical,Dispatched,2026-01-27 12:11:45.213082,3,AMB003,"246 Massey Wells, Lake Jillianport, WV 77425",4
+EMG00201,Poisoning,Low,Resolved,2025-09-28 15:29:06.313195,38,AMB005,"5883 Dwayne Via, North Michele, RI 06516",3
+EMG00202,Burn Injury,Medium,Dispatched,2025-11-03 09:27:51.467078,19,AMB020,"PSC 5734, Box 6444, APO AE 33024",6
+EMG00203,Poisoning,High,Resolved,2025-12-27 13:49:45.683828,9,AMB017,"46221 Brian Inlet Suite 619, Singletonton, PW 80536",7
+EMG00204,Poisoning,High,In Progress,2026-04-26 23:49:36.740312,5,AMB010,"6034 Thomas Skyway, Dicksonmouth, NC 67761",8
+EMG00205,Cardiac Arrest,Low,In Progress,2026-03-16 15:52:21.435779,23,AMB015,"1238 Sheila Haven Apt. 059, Darrenberg, MS 93679",2
+EMG00206,Respiratory Failure,Critical,In Progress,2026-04-22 09:52:35.075901,5,AMB015,"USS Burke, FPO AE 54246",6
+EMG00207,Seizure,Low,Dispatched,2025-10-19 13:58:12.094175,32,AMB012,"6455 Schroeder Pine, West Ashley, DE 30297",7
+EMG00208,Trauma,Medium,Dispatched,2025-10-26 04:48:51.267786,12,AMB007,"919 Carr Flat Apt. 723, Kentfurt, MP 10346",4
+EMG00209,Poisoning,Medium,Resolved,2025-11-08 17:28:37.388950,20,AMB020,"35189 Miller Motorway, Billville, VA 05059",8
+EMG00210,Poisoning,Critical,Resolved,2025-11-16 00:43:18.821740,4,AMB010,"2598 Miller Tunnel, Brownhaven, ND 11520",2
+EMG00211,Trauma,Critical,Dispatched,2025-11-13 04:00:15.186849,5,AMB006,"34849 Jesus Viaduct Apt. 591, New David, MI 70462",1
+EMG00212,Stroke,Low,Dispatched,2026-05-17 05:39:47.115911,24,AMB007,"1890 Nunez Inlet Suite 542, Port Ryanfurt, MI 14375",1
+EMG00213,Poisoning,Critical,In Progress,2025-12-12 23:13:50.512848,4,AMB020,"3428 Green Club, South Kevin, SC 15681",2
+EMG00214,Poisoning,Medium,Resolved,2026-02-10 02:29:51.004999,17,AMB008,"8665 Travis Village Apt. 248, Lake Chelsey, TX 02496",2
+EMG00215,Road Traffic Accident,Low,In Progress,2025-12-20 05:51:04.593095,36,AMB017,"PSC 8526, Box 0388, APO AA 57891",3
+EMG00216,Fire Accident,Medium,Resolved,2025-11-29 14:32:47.990683,14,AMB007,"35735 Cohen Ridge Apt. 108, Rodriguezmouth, NC 10722",1
+EMG00217,Trauma,Medium,Dispatched,2026-07-16 22:38:48.641685,16,AMB024,"0474 Stephanie Pass Apt. 848, Cardenaston, IN 23510",7
+EMG00218,Poisoning,Medium,Dispatched,2026-05-16 09:55:28.200592,14,AMB019,"43074 King Loaf, East Donna, GA 08505",8
+EMG00219,Stroke,High,Resolved,2025-12-05 21:59:16.333929,10,AMB022,"45249 Molina Fork Apt. 021, Jeffchester, GA 38719",6
+EMG00220,Road Traffic Accident,Low,Dispatched,2025-08-13 01:23:49.393171,35,AMB007,"44639 Margaret Squares Suite 339, New Sabrinamouth, PW 30302",5
+EMG00221,Fire Accident,High,In Progress,2026-04-25 13:33:30.441493,10,AMB014,"3013 Jose Stream Suite 928, Port Sean, MS 81910",8
+EMG00222,Poisoning,Critical,In Progress,2026-01-27 15:49:44.819801,5,AMB004,"USNV Graves, FPO AA 73140",7
+EMG00223,Poisoning,High,Resolved,2025-10-31 19:27:07.945216,10,AMB020,"57973 Pace Squares Suite 253, Port Cheryl, MH 39807",2
+EMG00224,Mass Casualty,Medium,In Progress,2025-12-25 07:26:52.613520,11,AMB018,"9150 Martin Bypass Suite 458, Barnesville, NV 12313",5
+EMG00225,Respiratory Failure,Medium,Resolved,2026-03-26 09:25:35.207562,11,AMB005,"84987 Victoria Avenue Suite 912, South Williamborough, CA 28620",5
+EMG00226,Stroke,Critical,Dispatched,2026-04-05 20:15:19.677080,2,AMB005,"47974 Kelly Highway Apt. 611, Karenmouth, SD 18858",4
+EMG00227,Respiratory Failure,Medium,Resolved,2025-12-04 01:30:16.766376,19,AMB018,"2572 Erika Ridge Suite 024, East Crystal, NV 97510",1
+EMG00228,Seizure,Low,Resolved,2026-02-08 06:12:04.651188,29,AMB021,"765 Callahan Tunnel Apt. 589, Mosesborough, NM 44309",2
+EMG00229,Fire Accident,Low,In Progress,2026-06-24 03:42:38.691548,21,AMB012,"Unit 0704 Box 2588, DPO AP 15672",1
+EMG00230,Fire Accident,Critical,Resolved,2026-05-29 00:57:31.157214,3,AMB005,"46781 Lindsey Trail, Paulburgh, AK 64055",2
+EMG00231,Fire Accident,Critical,In Progress,2026-05-06 01:25:06.541181,3,AMB008,"37036 Stephanie Cliffs, North Autumnmouth, NC 73066",2
+EMG00232,Poisoning,Critical,Resolved,2026-07-18 19:12:44.256914,2,AMB018,"080 Andrew Forest, Douglastown, DE 63214",2
+EMG00233,Respiratory Failure,Low,Resolved,2026-05-22 01:55:47.494452,29,AMB010,"0608 Smith Valleys, New Dalefurt, RI 12768",2
+EMG00234,Stroke,Medium,In Progress,2026-07-06 09:08:31.866717,16,AMB003,"087 James Tunnel Apt. 690, Lake Matthewtown, WA 43979",1
+EMG00235,Road Traffic Accident,Critical,Resolved,2026-04-08 18:20:58.853838,4,AMB006,"3638 Jackson Grove Suite 550, Nathanielview, MO 80708",8
+EMG00236,Cardiac Arrest,Critical,Dispatched,2026-07-10 18:42:42.098846,3,AMB006,"70521 Hannah Haven Suite 398, Sarahmouth, GU 37216",4
+EMG00237,Trauma,High,Resolved,2026-04-28 21:43:48.537789,8,AMB021,"88883 Fernando Stream, Michaelton, AZ 29358",6
+EMG00238,Cardiac Arrest,High,Dispatched,2025-11-10 09:59:59.081203,10,AMB002,"918 Brown Lock Suite 121, Port Corey, MN 96630",1
+EMG00239,Seizure,Medium,Dispatched,2026-03-04 08:40:45.777042,13,AMB018,"1216 Johnson Radial, South Michelle, ID 41694",2
+EMG00240,Mass Casualty,Medium,Resolved,2025-09-02 02:23:38.797354,19,AMB012,"3679 Sanchez Cliff, Blakeborough, RI 92331",1
+EMG00241,Trauma,Low,In Progress,2026-07-19 19:08:09.884686,29,AMB023,"253 Massey Road Apt. 959, Jasminefort, DE 92369",8
+EMG00242,Mass Casualty,High,Resolved,2026-02-01 17:06:57.672249,6,AMB016,"0088 Nancy Row Suite 995, Arthurberg, CA 55707",4
+EMG00243,Seizure,High,Dispatched,2025-10-23 16:30:43.486419,5,AMB019,"181 Boyer Springs, Josephside, CT 30253",8
+EMG00244,Seizure,Low,Dispatched,2026-05-20 11:34:00.572772,20,AMB008,"8176 Nichols Ville, Andrewland, IN 03871",1
+EMG00245,Mass Casualty,Medium,Resolved,2026-04-04 01:45:03.796936,20,AMB007,"1848 Hogan Underpass, Richardbury, IL 92917",5
+EMG00246,Road Traffic Accident,Medium,Dispatched,2026-01-18 06:34:34.377616,18,AMB007,"PSC 0925, Box 2802, APO AE 90070",7
+EMG00247,Trauma,Critical,In Progress,2025-09-04 15:10:22.008954,3,AMB012,"410 Tasha Shores, North Robertahaven, VT 04932",1
+EMG00248,Respiratory Failure,Low,Dispatched,2025-11-26 10:31:46.599932,35,AMB016,"95615 Long Isle Suite 698, North Nathanberg, MD 24013",7
+EMG00249,Poisoning,High,In Progress,2026-03-21 05:33:45.309348,10,AMB020,"USS Thomas, FPO AE 19498",6
+EMG00250,Cardiac Arrest,High,Dispatched,2025-12-02 03:06:52.489522,7,AMB021,"91017 James Forge, North Nancymouth, OH 16568",1
+EMG00251,Burn Injury,Critical,Dispatched,2026-05-29 20:01:18.464284,2,AMB021,"895 Tammy Crossroad Apt. 855, Cowanberg, MP 51952",4
+EMG00252,Road Traffic Accident,Medium,In Progress,2026-02-06 23:44:54.998992,13,AMB017,"78314 Bray Stream Apt. 939, Smithberg, UT 83260",1
+EMG00253,Respiratory Failure,Medium,In Progress,2025-11-12 21:39:30.417781,12,AMB023,"94939 Diana Summit Apt. 393, Davisstad, VI 24347",7
+EMG00254,Poisoning,High,Dispatched,2026-07-30 13:38:09.241001,10,AMB023,"470 Jasmine Via Suite 760, Henryland, RI 03709",5
+EMG00255,Trauma,Low,Dispatched,2026-02-14 12:38:20.103592,35,AMB003,"91040 Petty Mountain, Kelseyshire, SC 68188",7
+EMG00256,Respiratory Failure,High,Dispatched,2025-10-26 01:52:52.711906,8,AMB010,"28449 Curtis Center Apt. 062, South Shellystad, NY 19102",2
+EMG00257,Fire Accident,High,In Progress,2026-07-25 10:43:17.355648,5,AMB021,"PSC 9154, Box 7371, APO AA 00862",6
+EMG00258,Seizure,Medium,In Progress,2025-12-13 12:46:26.537408,12,AMB006,"324 Natasha Mount, Sherriside, KY 36963",2
+EMG00259,Road Traffic Accident,Medium,Dispatched,2026-06-08 01:19:12.384640,16,AMB021,"897 Brown Spurs Suite 631, South John, GA 70260",2
+EMG00260,Seizure,Medium,Dispatched,2026-03-01 13:40:22.613909,15,AMB001,"94046 Bridges Run Suite 813, North Alexander, AL 66086",8
+EMG00261,Mass Casualty,High,In Progress,2026-07-27 11:44:12.015621,10,AMB007,"78133 Jeremy Islands Apt. 817, Davidton, PR 45260",2
+EMG00262,Mass Casualty,Critical,Resolved,2025-12-31 08:37:40.773009,2,AMB002,"721 Caldwell Trafficway Apt. 900, New Brandi, MN 81335",4
+EMG00263,Cardiac Arrest,High,In Progress,2025-12-22 06:00:27.417659,6,AMB002,"046 April Key Suite 178, South Kathy, SD 23240",2
+EMG00264,Fire Accident,Medium,Resolved,2026-01-15 00:12:25.215642,15,AMB004,"13792 Allen Union, Lake Jamesview, KY 51785",4
+EMG00265,Poisoning,High,Dispatched,2025-11-07 16:44:12.714163,6,AMB006,"USCGC Velasquez, FPO AA 48044",7
+EMG00266,Road Traffic Accident,Medium,Resolved,2026-03-23 13:42:59.573513,14,AMB002,"Unit 5718 Box 6713, DPO AP 92097",6
+EMG00267,Seizure,High,Dispatched,2025-09-07 14:11:16.433633,8,AMB002,"26950 Phillip Curve Apt. 281, Rhondastad, NV 21101",4
+EMG00268,Seizure,Critical,In Progress,2025-12-18 04:53:44.035937,3,AMB021,"6077 Vaughn Ferry, South Annashire, CT 85826",4
+EMG00269,Trauma,Medium,Dispatched,2026-06-18 10:14:45.519388,11,AMB018,"442 Blanchard Pine, Danielstad, NJ 03320",3
+EMG00270,Burn Injury,Critical,Resolved,2026-04-03 17:25:17.303205,3,AMB018,"506 Jennifer Cliffs, New Jasminebury, NH 00538",5
+EMG00271,Stroke,Critical,Resolved,2025-10-07 19:00:57.740383,4,AMB004,"973 Elizabeth Mission Suite 908, Port Ryan, OH 31468",6
+EMG00272,Trauma,Critical,In Progress,2026-04-12 14:42:07.477392,2,AMB006,"10864 Bryan Lake Apt. 383, New Rebecca, IN 71384",3
+EMG00273,Cardiac Arrest,High,Dispatched,2025-10-04 05:47:46.279475,7,AMB011,"71501 Robinson Crescent Apt. 505, Pamelastad, GU 64390",4
+EMG00274,Stroke,Critical,In Progress,2026-04-01 01:53:30.866731,2,AMB025,"1861 Cheryl Shore Apt. 686, Brendatown, MA 20076",7
+EMG00275,Stroke,High,Resolved,2026-02-19 14:21:21.679065,10,AMB015,"1717 Jay Expressway, Lake Laurie, IA 41419",3
+EMG00276,Seizure,Medium,Resolved,2026-06-08 12:10:44.766016,14,AMB004,"95336 Quinn Lodge, Karentown, AS 97545",2
+EMG00277,Stroke,Medium,Dispatched,2026-01-29 13:24:55.541291,12,AMB022,"798 Schneider Mountain, South Michael, CA 36536",8
+EMG00278,Burn Injury,Medium,Resolved,2025-12-25 08:13:29.513407,12,AMB012,"62546 Amy Highway, Yangfort, KS 13700",6
+EMG00279,Mass Casualty,High,Dispatched,2026-04-03 14:25:22.251158,5,AMB023,"0967 Brendan Tunnel, Robinsonchester, PR 32377",1
+EMG00280,Trauma,Medium,In Progress,2025-11-25 13:59:42.735387,14,AMB002,"PSC 5043, Box 9329, APO AP 28780",2
+EMG00281,Seizure,Critical,In Progress,2026-01-25 07:43:17.343584,5,AMB014,"5153 Parker Fields Suite 013, Boothchester, MI 89396",7
+EMG00282,Mass Casualty,Medium,Dispatched,2025-10-06 06:35:53.894798,12,AMB010,"7071 Chapman Ports, Grahamton, PA 67250",3
+EMG00283,Burn Injury,Medium,In Progress,2025-10-29 19:17:14.722344,12,AMB009,"0947 Tommy Mount Apt. 404, South Michael, WY 80291",5
+EMG00284,Mass Casualty,High,Dispatched,2026-03-31 09:43:18.555346,7,AMB019,"PSC 1167, Box 7608, APO AE 12637",7
+EMG00285,Respiratory Failure,Critical,In Progress,2026-01-20 03:11:31.981871,3,AMB021,"570 Hernandez Points Apt. 357, North Stephenville, NY 99491",4
+EMG00286,Stroke,Medium,Resolved,2026-02-12 13:57:07.271813,19,AMB015,"41289 Spencer Dam, East Tomhaven, WV 32121",3
+EMG00287,Stroke,High,In Progress,2025-12-13 08:50:34.492316,8,AMB013,"8940 Martin Flat, South Jay, AK 07192",5
+EMG00288,Trauma,High,Resolved,2026-03-30 06:34:49.969182,5,AMB019,"6398 Douglas Crescent, South Jay, ND 79455",5
+EMG00289,Fire Accident,Medium,Resolved,2026-06-03 03:40:01.018037,12,AMB016,"27362 Cole Lodge Suite 946, West Josephchester, CO 33217",2
+EMG00290,Seizure,Critical,In Progress,2025-12-30 10:45:52.000762,2,AMB006,"06585 Daniel Forest Apt. 915, Cherylfurt, AL 96647",7
+EMG00291,Burn Injury,Low,Resolved,2026-07-20 17:40:50.505626,23,AMB021,"124 Becky Tunnel, Jordanbury, OR 68684",5
+EMG00292,Mass Casualty,Medium,Resolved,2026-05-25 00:02:16.723018,11,AMB020,"95551 Sanchez Vista Suite 054, Port Michaelside, RI 70134",7
+EMG00293,Burn Injury,Medium,In Progress,2025-08-10 11:57:09.885695,16,AMB013,"6233 Maynard Canyon Apt. 606, Monicatown, HI 55841",5
+EMG00294,Fire Accident,High,Resolved,2026-03-31 21:26:55.281359,7,AMB013,"864 Courtney Light, Heathermouth, NE 58518",3
+EMG00295,Respiratory Failure,High,In Progress,2026-04-27 17:16:47.517985,7,AMB024,"67612 Castro Valley, East Teresabury, SC 08945",5
+EMG00296,Poisoning,High,In Progress,2025-10-23 05:08:36.841961,10,AMB001,"58189 Rodriguez Glen Apt. 113, Jonathanland, IL 11209",6
+EMG00297,Trauma,Low,Resolved,2025-12-03 08:05:37.658683,25,AMB012,"6114 Jones Springs Suite 106, Downsburgh, MO 26915",1
+EMG00298,Seizure,Low,In Progress,2025-09-30 10:28:11.431055,27,AMB011,"2605 Kimberly Valley, North Cathy, AK 28617",6
+EMG00299,Burn Injury,Critical,In Progress,2026-05-07 01:50:56.816919,4,AMB007,"358 Brandon Spring, Deleontown, IA 21078",1
+EMG00300,Cardiac Arrest,Medium,In Progress,2026-04-07 13:27:49.152968,20,AMB003,"457 Timothy Mall Apt. 592, Sharonhaven, PR 81653",8
+EMG00301,Road Traffic Accident,High,In Progress,2025-11-21 02:51:38.334229,10,AMB006,"0544 Long Tunnel, East Richardfort, FL 44323",2
+EMG00302,Seizure,High,Dispatched,2025-08-21 18:45:49.513568,10,AMB009,"452 Hernandez Drive, Laurenside, MO 27518",8
+EMG00303,Cardiac Arrest,Medium,Resolved,2026-06-03 10:34:54.036114,12,AMB006,"67027 Johnson Place, Dustinland, MA 86384",4
+EMG00304,Trauma,High,Dispatched,2025-08-24 10:29:44.011955,10,AMB001,"USNS Brooks, FPO AA 39432",1
+EMG00305,Poisoning,Medium,Dispatched,2026-03-26 17:16:20.986302,13,AMB006,"648 Curtis Ranch Apt. 907, West Christopher, AZ 96447",1
+EMG00306,Stroke,High,In Progress,2025-10-22 22:15:58.429469,7,AMB003,"5210 Maxwell Squares, South John, VA 01035",1
+EMG00307,Road Traffic Accident,High,Resolved,2025-09-25 14:52:57.522246,7,AMB003,"32177 James Brook Suite 261, Markmouth, ND 48228",4
+EMG00308,Poisoning,Medium,In Progress,2025-12-10 01:21:28.110779,15,AMB003,"3851 Amanda Mountains, Brownchester, WA 44469",3
+EMG00309,Burn Injury,Critical,In Progress,2025-08-25 08:25:09.130200,4,AMB018,"613 Schmidt Row, East Micheletown, TX 71466",5
+EMG00310,Seizure,Low,Resolved,2026-02-25 00:52:16.128329,29,AMB025,"73309 Cain Mountain Apt. 960, Silvaberg, CO 64310",2
+EMG00311,Road Traffic Accident,High,Dispatched,2026-01-10 13:40:47.689119,7,AMB025,"90717 Douglas Highway, Smithmouth, DC 50330",5
+EMG00312,Trauma,Medium,Dispatched,2026-01-15 18:59:47.011757,20,AMB016,"695 Martinez Fords, Donnaburgh, OH 56957",4
+EMG00313,Burn Injury,Critical,Dispatched,2025-08-27 04:02:12.058645,2,AMB007,"5035 Hardy Mall, Kellychester, WY 72489",5
+EMG00314,Cardiac Arrest,High,Resolved,2026-04-26 02:44:40.427847,8,AMB003,"307 Dorothy Courts Apt. 265, Perkinsberg, OK 95641",2
+EMG00315,Seizure,High,Dispatched,2026-06-01 10:06:52.390242,8,AMB010,"9117 Jennifer Run Suite 546, Gwendolynville, NH 58702",5
+EMG00316,Seizure,High,In Progress,2025-11-19 17:17:25.929856,6,AMB022,"USNV Mendoza, FPO AP 71276",3
+EMG00317,Mass Casualty,Critical,In Progress,2025-11-17 14:48:12.415216,5,AMB011,"091 Daniel Heights Apt. 154, South Kyleside, IN 54608",7
+EMG00318,Stroke,High,Resolved,2026-02-17 21:59:04.614077,7,AMB020,"22659 Jackson Falls Apt. 263, Mercertown, NC 68593",5
+EMG00319,Respiratory Failure,Medium,Resolved,2026-08-06 07:12:10.019706,13,AMB023,"933 Petersen Radial, New Darren, SC 03176",5
+EMG00320,Cardiac Arrest,Low,Dispatched,2025-08-28 07:14:56.729578,31,AMB017,"1819 Morales Prairie Suite 509, New Danielle, SC 77253",5
+EMG00321,Burn Injury,Medium,In Progress,2025-10-18 18:40:14.140047,20,AMB024,"USNS Duncan, FPO AA 58142",7
+EMG00322,Poisoning,Medium,Resolved,2026-06-23 22:04:39.047398,10,AMB017,"431 Martinez Inlet Apt. 326, Adrienneland, WY 27514",6
+EMG00323,Burn Injury,Critical,Dispatched,2025-11-13 08:27:33.360452,3,AMB008,"2038 Zhang Spur Apt. 711, Davidberg, VT 50388",4
+EMG00324,Cardiac Arrest,High,Resolved,2026-01-11 04:30:14.299161,10,AMB003,"8272 Curtis Mews Apt. 848, Newmanview, IL 25404",1
+EMG00325,Road Traffic Accident,Low,Dispatched,2026-05-18 22:21:01.063352,35,AMB004,"6147 Davis Flat, Murillofort, FL 15800",4
+EMG00326,Mass Casualty,Low,Dispatched,2025-11-10 21:27:01.956108,26,AMB002,"72395 Angela Trail Suite 696, South Kristinview, VI 38642",4
+EMG00327,Trauma,High,In Progress,2025-09-07 18:53:19.715028,5,AMB011,"PSC 5777, Box 5135, APO AA 96920",4
+EMG00328,Stroke,Medium,In Progress,2026-03-08 16:08:03.601575,13,AMB017,"Unit 2350 Box 0556, DPO AE 69398",6
+EMG00329,Fire Accident,Medium,In Progress,2026-06-17 20:25:53.294973,16,AMB014,"70292 Rice Greens, Port Lisaborough, UT 34424",6
+EMG00330,Poisoning,Low,In Progress,2026-04-08 23:15:01.093047,22,AMB016,"USCGC Jones, FPO AA 11785",8
+EMG00331,Burn Injury,Critical,Dispatched,2026-05-06 17:32:26.875653,4,AMB002,"PSC 1184, Box 7807, APO AP 06213",3
+EMG00332,Burn Injury,Low,Dispatched,2026-02-17 17:48:45.631273,36,AMB016,"50040 Sharp Plaza Apt. 589, New Rebecca, MS 32446",5
+EMG00333,Trauma,Medium,In Progress,2026-05-02 01:46:25.348617,10,AMB002,"Unit 8578 Box 3725, DPO AE 90542",4
+EMG00334,Trauma,Critical,Resolved,2025-12-14 04:56:30.712256,2,AMB017,"35953 Robertson Expressway Apt. 947, Davisville, MT 13915",4
+EMG00335,Poisoning,Low,Resolved,2025-12-19 09:31:47.368560,27,AMB017,"25978 Alex River, Port Joseph, MD 56346",3
+EMG00336,Mass Casualty,Medium,In Progress,2026-06-25 11:22:15.998013,11,AMB004,"0912 Mitchell Gardens, Melanieton, DC 04694",1
+EMG00337,Stroke,High,Resolved,2026-08-05 21:06:24.315238,5,AMB004,"PSC 7310, Box 2205, APO AE 07698",2
+EMG00338,Cardiac Arrest,Critical,Resolved,2026-06-25 14:18:43.164862,3,AMB015,"11577 Ryan Prairie, Port Melissa, NM 76922",3
+EMG00339,Stroke,Medium,In Progress,2025-10-14 06:52:51.074999,15,AMB023,"105 Rose Mountain, West Isaac, NM 88386",3
+EMG00340,Seizure,Low,Dispatched,2025-12-17 11:58:56.268751,38,AMB005,"77792 Beck Lodge, New Christineview, IN 93543",1
+EMG00341,Mass Casualty,Medium,Dispatched,2026-02-06 09:17:19.739374,10,AMB001,"35206 Lopez Flats, South Joshuachester, NV 14607",5
+EMG00342,Poisoning,High,Dispatched,2026-03-08 02:08:38.887200,7,AMB013,"934 Melissa Expressway, Ryanchester, RI 04074",8
+EMG00343,Cardiac Arrest,Medium,In Progress,2025-12-26 21:50:29.682696,18,AMB001,"PSC 4354, Box 3477, APO AP 86986",5
+EMG00344,Mass Casualty,Critical,Resolved,2025-12-24 20:29:37.858449,4,AMB024,"211 Mackenzie Terrace Suite 028, West Jeremy, NC 75644",7
+EMG00345,Stroke,Critical,Resolved,2026-03-23 14:27:10.581784,4,AMB023,"025 Steven Run, Angelabury, MA 86517",2
+EMG00346,Mass Casualty,High,Dispatched,2025-12-06 08:56:13.431021,9,AMB021,"8109 Williams Course Suite 604, Ramirezmouth, MA 67271",2
+EMG00347,Poisoning,Low,Resolved,2026-04-20 01:40:41.043948,35,AMB005,"758 Derrick Fields, Lake Isabelchester, ME 12637",5
+EMG00348,Road Traffic Accident,Medium,In Progress,2026-03-09 07:52:01.282021,13,AMB005,"083 Jacob Prairie, Delacruzland, FM 15316",6
+EMG00349,Mass Casualty,Critical,Resolved,2026-05-17 11:04:41.912822,5,AMB019,"17585 Schwartz Pass, Pachecoville, NH 12383",4
+EMG00350,Trauma,Medium,Dispatched,2025-08-06 22:20:49.511338,14,AMB020,"0839 Richard Station, Browningstad, LA 31996",6
+EMG00351,Respiratory Failure,Low,Dispatched,2025-11-03 09:36:08.377024,40,AMB006,"613 Smith Causeway Suite 028, Millermouth, NJ 92691",7
+EMG00352,Cardiac Arrest,Medium,Dispatched,2026-04-19 18:09:20.465957,16,AMB003,"5224 Jones Bypass, Grayhaven, ME 52472",8
+EMG00353,Poisoning,High,Resolved,2025-10-23 06:43:07.831183,6,AMB020,"508 Rodriguez Radial, North Betty, MP 97724",5
+EMG00354,Cardiac Arrest,Low,Dispatched,2026-01-04 00:38:46.293782,34,AMB001,"325 John Branch, Port Caitlin, WA 81768",3
+EMG00355,Poisoning,Low,Dispatched,2025-10-23 15:30:02.848023,24,AMB017,"2210 Laura Pines Suite 725, Proctorfurt, CT 86859",3
+EMG00356,Stroke,High,Resolved,2025-11-05 02:35:11.491278,8,AMB011,"5145 Williams Green Apt. 690, Terrishire, CA 01828",8
+EMG00357,Fire Accident,Medium,Dispatched,2026-06-25 21:31:00.317517,15,AMB001,"PSC 2043, Box 4501, APO AE 22989",1
+EMG00358,Cardiac Arrest,Medium,In Progress,2026-03-16 02:00:11.407307,17,AMB019,"68016 Katelyn Mountains Apt. 029, New Richard, NV 02675",5
+EMG00359,Seizure,High,Resolved,2026-01-27 03:54:45.466059,6,AMB001,"9851 Glenn Views Apt. 021, West Matthew, PR 27545",7
+EMG00360,Stroke,Medium,Dispatched,2026-07-30 23:05:30.891909,13,AMB008,"2326 Theresa Run, Kiarahaven, WY 78385",8
+EMG00361,Trauma,High,In Progress,2026-01-24 15:40:33.488580,9,AMB024,"14883 Daniel Shores Suite 650, West Josephside, SD 77720",2
+EMG00362,Stroke,High,In Progress,2025-09-06 14:38:35.764247,9,AMB008,"08924 Connie Forge Apt. 738, Gonzalezstad, MS 23167",3
+EMG00363,Poisoning,Critical,In Progress,2025-09-11 05:55:09.539305,2,AMB013,"4722 Beth Forges Suite 783, Thomasmouth, UT 78315",6
+EMG00364,Trauma,High,Resolved,2025-12-13 13:47:35.723753,10,AMB006,"92461 Christine Rapids Suite 608, Port Douglaschester, MD 69962",7
+EMG00365,Fire Accident,Critical,Resolved,2025-11-27 14:06:24.552754,2,AMB014,"9196 James Gardens Apt. 440, Andersonborough, UT 35662",7
+EMG00366,Stroke,Critical,Resolved,2025-09-08 01:47:46.867424,4,AMB020,"5497 Lisa Walk, New Michellemouth, IL 09716",1
+EMG00367,Mass Casualty,High,Dispatched,2025-08-14 19:05:40.162529,6,AMB008,"4324 Turner Crest, Lambertbury, NJ 39585",6
+EMG00368,Trauma,Low,Resolved,2026-04-15 02:26:07.232321,33,AMB024,"8701 Eric Isle Suite 974, Robertfurt, NV 42818",6
+EMG00369,Stroke,Medium,Resolved,2026-06-20 20:11:02.517408,17,AMB001,"231 Kristine Lake, South Anna, AR 66739",7
+EMG00370,Trauma,Critical,Dispatched,2026-07-16 23:45:53.229222,3,AMB006,"86019 Johnson Drives Suite 480, Millshaven, AK 34735",6
+EMG00371,Fire Accident,Critical,Resolved,2025-11-05 05:09:21.126956,5,AMB003,"6182 Graham Mews Suite 916, East Kevinbury, IN 94848",5
+EMG00372,Stroke,Low,Resolved,2026-05-07 01:23:54.045179,33,AMB019,"224 Amanda Turnpike Apt. 222, Kevinborough, AL 05445",5
+EMG00373,Poisoning,High,In Progress,2026-03-19 10:38:03.651344,6,AMB018,"5205 Jennings Avenue Suite 310, Patelstad, VT 81642",8
+EMG00374,Poisoning,Low,Resolved,2025-09-11 08:14:49.366086,40,AMB005,"72698 Michael Shoal Suite 755, Williamsshire, ND 76913",6
+EMG00375,Road Traffic Accident,High,Dispatched,2026-04-26 15:36:10.135424,8,AMB009,"9696 Crystal Tunnel Suite 853, Saratown, OH 58917",6
+EMG00376,Road Traffic Accident,High,Resolved,2026-05-14 13:00:43.004659,6,AMB011,"3025 Mora Burgs Suite 807, North Joseph, NM 62803",3
+EMG00377,Fire Accident,Critical,Resolved,2026-02-07 01:19:44.855491,2,AMB004,"2922 Gardner Expressway Suite 611, Velasquezburgh, AR 30120",6
+EMG00378,Stroke,Medium,In Progress,2025-10-09 15:37:52.070807,18,AMB017,"USCGC Walters, FPO AP 41167",7
+EMG00379,Mass Casualty,Critical,In Progress,2025-08-13 16:08:31.818451,5,AMB018,"Unit 4354 Box 0909, DPO AA 16441",8
+EMG00380,Fire Accident,High,In Progress,2025-09-28 13:06:06.836218,10,AMB022,"46483 Ryan Cliff Suite 320, Port Anthonyfurt, GA 32375",1
+EMG00381,Fire Accident,Medium,In Progress,2026-03-16 19:32:48.657930,19,AMB014,"903 Alyssa Mission Apt. 360, Stephanieshire, KS 90547",3
+EMG00382,Stroke,High,Resolved,2026-01-26 10:12:43.820812,9,AMB005,"5089 Jones Knoll Apt. 382, Port Christopher, MT 89432",2
+EMG00383,Fire Accident,High,Dispatched,2026-07-26 12:22:13.492094,7,AMB022,"967 Peggy Mill Apt. 439, Heatherville, SC 58109",1
+EMG00384,Trauma,High,Resolved,2025-11-16 13:16:15.100992,8,AMB007,"9267 Miller Road Apt. 022, Melissafort, WY 97046",4
+EMG00385,Burn Injury,Low,In Progress,2026-02-12 23:17:40.700819,38,AMB006,"93351 Peter River Suite 802, North Michaelfurt, TX 90629",4
+EMG00386,Burn Injury,Critical,Resolved,2025-08-10 23:42:51.868047,3,AMB023,"843 Johnson Mall Apt. 551, East Vincent, HI 80770",8
+EMG00387,Burn Injury,Medium,In Progress,2025-09-28 17:17:39.465681,14,AMB017,"247 Gina Springs Suite 180, Lake Kathrynshire, GA 01586",1
+EMG00388,Seizure,Medium,Resolved,2026-05-03 14:42:29.317294,11,AMB019,"3462 Franklin Manor, Jeremiahbury, KS 34250",6
+EMG00389,Respiratory Failure,Low,In Progress,2025-08-09 04:04:09.762208,38,AMB006,"489 Knapp Curve, Katiechester, PA 04845",4
+EMG00390,Burn Injury,High,Resolved,2025-12-14 01:51:09.237955,10,AMB011,"USNV Sanford, FPO AP 90371",2
+EMG00391,Stroke,Critical,In Progress,2026-03-04 23:25:10.741115,2,AMB008,"USNV Baker, FPO AP 65906",5
+EMG00392,Trauma,Medium,Dispatched,2026-03-25 16:26:05.894391,20,AMB019,"305 Smith Haven, Aaronport, OK 92645",4
+EMG00393,Cardiac Arrest,Medium,Dispatched,2025-10-11 23:47:25.295663,18,AMB014,"72677 Karen Way, South Gabrielle, KY 43887",1
+EMG00394,Cardiac Arrest,Medium,In Progress,2025-11-09 16:53:54.431687,14,AMB023,"Unit 3551 Box 6095, DPO AE 52720",4
+EMG00395,Fire Accident,Low,In Progress,2025-09-22 02:31:39.898592,30,AMB010,"589 Kevin Grove, East Lauren, MH 70107",8
+EMG00396,Fire Accident,High,Resolved,2025-11-02 18:29:24.853321,5,AMB017,"158 Laura Corner Suite 146, Port John, MP 19556",4
+EMG00397,Respiratory Failure,Medium,Resolved,2025-08-10 19:53:12.771053,13,AMB013,"506 Waller Trace Suite 694, South Ian, MT 26842",7
+EMG00398,Burn Injury,Low,Resolved,2026-01-28 22:50:52.153177,33,AMB009,"15254 Emily Parkway, Williamfurt, HI 51427",2
+EMG00399,Burn Injury,High,Resolved,2026-05-04 20:22:00.582368,5,AMB015,"8656 Lewis Stravenue Suite 016, Seanbury, CA 93358",8
+EMG00400,Respiratory Failure,Critical,Resolved,2025-08-16 06:57:21.329154,2,AMB009,"39466 Lee Groves Suite 567, West Patricia, NY 95377",7
+EMG00401,Road Traffic Accident,Medium,Resolved,2026-06-10 21:36:56.960529,19,AMB013,"95317 Marilyn Junction, Graystad, NY 62625",2
+EMG00402,Cardiac Arrest,Medium,Resolved,2026-03-29 01:43:28.421636,12,AMB002,"269 Nicholas Dale Suite 012, East Mario, FM 13076",1
+EMG00403,Trauma,High,Resolved,2025-11-26 08:23:25.769617,8,AMB019,"4498 Jon Station, West Taylor, OR 66315",2
+EMG00404,Mass Casualty,High,Resolved,2026-01-01 07:55:52.536124,7,AMB020,"052 Wells Locks, Williamsfurt, WY 93326",5
+EMG00405,Seizure,High,Dispatched,2026-07-25 16:34:33.791450,10,AMB007,"157 Sean Roads Apt. 969, North Brandon, VI 38879",8
+EMG00406,Mass Casualty,Low,Resolved,2025-11-25 13:39:43.866227,24,AMB009,"939 Monique Overpass, West Bettyfurt, NJ 52445",7
+EMG00407,Trauma,High,Resolved,2026-07-24 01:00:14.029438,8,AMB003,"1253 Baker Keys Apt. 520, Carlton, PA 53742",7
+EMG00408,Road Traffic Accident,Critical,Dispatched,2025-12-28 06:14:24.962363,5,AMB009,"268 Cruz Road Suite 917, Dyerborough, AS 50922",5
+EMG00409,Poisoning,High,Resolved,2025-12-03 20:32:58.830481,9,AMB017,"59079 Smith Mall, Holmesmouth, NM 05125",7
+EMG00410,Mass Casualty,Critical,In Progress,2026-06-20 22:53:08.796521,5,AMB015,"292 Gutierrez Landing, Watsonfurt, FL 59566",2
+EMG00411,Fire Accident,Critical,Resolved,2026-02-23 19:32:47.482155,5,AMB025,"19143 Pamela Extensions, East Ryanborough, CT 77217",1
+EMG00412,Mass Casualty,Low,Resolved,2025-08-09 20:26:20.545475,25,AMB008,"491 Catherine Fields Apt. 962, Lake Dennis, LA 85546",6
+EMG00413,Cardiac Arrest,Medium,In Progress,2026-06-07 08:17:11.208694,15,AMB005,"36438 Katherine Creek Suite 818, Port Andrew, GA 21384",3
+EMG00414,Respiratory Failure,Medium,Resolved,2026-02-21 00:53:00.517635,10,AMB016,"387 Jones Tunnel, Bryanmouth, NV 11156",3
+EMG00415,Road Traffic Accident,High,Resolved,2025-08-07 15:01:55.814895,10,AMB022,"1699 Monroe Junctions Suite 503, Justintown, FM 82351",8
+EMG00416,Trauma,Critical,Dispatched,2026-07-13 05:24:53.659804,2,AMB006,"073 Ruiz River Suite 132, New Tammychester, KY 80415",3
+EMG00417,Road Traffic Accident,Medium,In Progress,2026-07-28 06:10:24.414394,19,AMB003,"6600 Rivera Walks, Cruzhaven, DC 47221",3
+EMG00418,Seizure,High,Resolved,2025-12-17 02:28:08.916584,6,AMB002,"6643 Davis Shoals, South Laurenside, ME 74981",2
+EMG00419,Respiratory Failure,High,Dispatched,2026-05-08 11:18:49.463077,5,AMB019,"35270 Kimberly Fords, Lake Lori, PR 95262",8
+EMG00420,Burn Injury,Low,Resolved,2026-05-24 23:26:42.909118,31,AMB014,"3064 Turner Estates Suite 470, Hortonland, HI 47150",1
+EMG00421,Seizure,Medium,Dispatched,2025-11-06 19:49:17.787401,17,AMB023,"3453 Debra Mountains Apt. 458, Lake Carlos, DE 19104",8
+EMG00422,Cardiac Arrest,Medium,Dispatched,2025-09-03 13:52:18.489109,18,AMB020,"18256 Green Station Apt. 925, West Collin, LA 54235",1
+EMG00423,Stroke,Medium,In Progress,2025-10-27 08:13:09.425632,10,AMB001,"65409 Amanda Port Suite 486, Kelseystad, VI 25479",4
+EMG00424,Poisoning,Low,Dispatched,2026-02-16 10:51:51.771448,40,AMB011,"840 Denise Lake Apt. 149, New Ryanstad, MO 96053",7
+EMG00425,Seizure,Medium,In Progress,2025-08-30 01:34:30.602299,10,AMB025,"Unit 3630 Box 8066, DPO AE 61851",1
+EMG00426,Respiratory Failure,Critical,Resolved,2025-08-12 12:37:05.029841,2,AMB016,"52381 Gamble Lights, Craigstad, AS 64161",2
+EMG00427,Cardiac Arrest,Low,Dispatched,2026-05-06 06:54:09.109433,39,AMB001,"95968 Stephen Lodge Suite 165, Catherinebury, RI 13811",2
+EMG00428,Burn Injury,Critical,Dispatched,2026-03-16 00:33:04.230512,5,AMB011,"22999 Hernandez Junction Apt. 579, Clarkmouth, ND 19273",5
+EMG00429,Respiratory Failure,Medium,In Progress,2025-09-07 22:20:31.892488,15,AMB009,"193 Elizabeth Village, South Juliaburgh, CT 25807",8
+EMG00430,Trauma,High,Resolved,2025-08-28 21:01:25.061383,9,AMB021,"3429 Megan Tunnel Suite 562, New Jason, WI 87228",5
+EMG00431,Poisoning,High,Dispatched,2026-02-24 03:44:59.197716,7,AMB005,"5747 Claudia Manors, Port Mistyport, MP 80289",3
+EMG00432,Road Traffic Accident,Critical,Dispatched,2026-07-01 18:21:29.649341,3,AMB019,"9885 Erik Burg Suite 861, Hartmanville, ME 29313",5
+EMG00433,Trauma,Medium,In Progress,2026-05-28 02:05:46.730042,15,AMB001,"9337 John Inlet Apt. 253, South Evanchester, FL 21032",2
+EMG00434,Road Traffic Accident,Medium,In Progress,2026-06-02 06:23:45.379942,18,AMB004,"906 Duran Valley, Greeneland, OK 13603",4
+EMG00435,Trauma,High,Dispatched,2026-04-30 17:51:21.481056,8,AMB025,"2190 Parks Forge Apt. 535, East Latoya, ME 04174",7
+EMG00436,Fire Accident,High,In Progress,2025-11-28 16:30:40.399992,8,AMB008,"870 Tracy Stravenue, Ryanport, DE 37118",3
+EMG00437,Trauma,High,Resolved,2026-07-20 10:20:48.760017,8,AMB014,"USNS Hamilton, FPO AP 63693",7
+EMG00438,Seizure,Medium,Dispatched,2026-07-30 15:29:40.666359,18,AMB023,"1266 Green Isle Apt. 612, South Michael, MI 51520",2
+EMG00439,Mass Casualty,High,In Progress,2025-12-12 09:04:32.236319,7,AMB024,"USS Campbell, FPO AE 83422",6
+EMG00440,Fire Accident,High,Dispatched,2025-08-16 18:28:55.959110,10,AMB024,"5658 Herrera Way, North Carla, NC 03049",6
+EMG00441,Seizure,Critical,In Progress,2026-06-17 19:31:28.853425,4,AMB013,"2949 Stanley Isle Apt. 385, Harrisonland, MN 43040",4
+EMG00442,Cardiac Arrest,Critical,In Progress,2025-10-14 15:40:53.078187,3,AMB004,"718 Lee Inlet Apt. 914, Pattersonburgh, PR 97539",8
+EMG00443,Poisoning,Medium,Resolved,2025-11-13 10:19:05.568418,15,AMB004,"69038 Green Crossing Suite 162, Philipmouth, MT 44085",2
+EMG00444,Road Traffic Accident,Medium,Dispatched,2025-08-19 16:59:45.167878,14,AMB018,"44604 Williams Shoals Suite 578, New Colleenfurt, PA 80933",7
+EMG00445,Poisoning,High,Dispatched,2025-09-13 19:46:52.669007,9,AMB020,"3788 David Pine, Russellbury, ME 84151",5
+EMG00446,Trauma,Medium,In Progress,2025-12-12 06:29:05.988162,11,AMB017,"5646 Burns Isle Apt. 535, West Kimberlyburgh, MO 40672",1
+EMG00447,Poisoning,Medium,In Progress,2026-02-23 23:12:06.808547,19,AMB010,"775 Wilson Route Suite 987, Nathanview, NE 28922",6
+EMG00448,Fire Accident,Critical,Dispatched,2025-11-30 13:17:39.369308,3,AMB012,"045 James Views, North Yesenia, LA 44767",2
+EMG00449,Trauma,Medium,Dispatched,2026-03-25 23:00:44.373068,17,AMB020,"351 Drew Ridge Suite 399, Lake Dianastad, MT 03744",7
+EMG00450,Respiratory Failure,Low,Resolved,2026-07-09 12:12:37.835556,20,AMB003,"967 Ellis Prairie Suite 568, Masonport, ID 11203",3
+EMG00451,Fire Accident,Medium,Resolved,2025-10-29 20:23:52.250274,20,AMB009,"065 West Via, Gregoryport, WA 67184",2
+EMG00452,Stroke,High,Dispatched,2025-12-06 05:22:13.540869,8,AMB019,"886 Morse Mill Suite 070, Medinachester, NE 88456",8
+EMG00453,Poisoning,Low,Resolved,2026-04-11 04:02:46.533935,39,AMB010,"23074 Stacey Curve, South Kathryn, MI 02928",2
+EMG00454,Cardiac Arrest,Medium,Resolved,2025-12-13 23:58:02.349286,16,AMB017,"57696 Alyssa Mission, Port Anthony, MA 19862",7
+EMG00455,Fire Accident,High,Resolved,2026-02-12 21:19:12.953886,5,AMB019,"1104 Rivera Camp, South Melissatown, WA 40434",6
+EMG00456,Mass Casualty,Critical,Dispatched,2026-01-15 19:16:31.520100,4,AMB013,"6313 Mann Grove, New Christopher, WV 01949",3
+EMG00457,Road Traffic Accident,Critical,Dispatched,2026-05-30 09:32:40.716976,3,AMB017,"3328 Walter Cliff Apt. 671, Hardymouth, PW 14657",7
+EMG00458,Road Traffic Accident,High,Resolved,2025-08-24 06:36:40.373102,8,AMB020,"336 Frazier Mill Suite 677, Port Anthony, AL 07744",8
+EMG00459,Burn Injury,Low,Dispatched,2025-11-07 06:29:19.789407,38,AMB011,"USCGC Smith, FPO AE 97155",1
+EMG00460,Burn Injury,Medium,Resolved,2025-12-18 08:16:05.328184,14,AMB013,"354 Brian Lights, West Deanport, PR 24120",5
+EMG00461,Burn Injury,High,In Progress,2026-01-23 10:38:19.203776,9,AMB008,"2127 Orr Manors, South John, OR 32553",5
+EMG00462,Mass Casualty,Critical,In Progress,2026-01-27 09:41:43.574846,5,AMB010,"1566 Sullivan Rue Apt. 271, Whitehaven, VI 99316",4
+EMG00463,Burn Injury,Low,Resolved,2025-10-11 00:00:28.478149,28,AMB004,"3250 Potts Ramp Suite 041, Lake Pamelafort, GA 46709",7
+EMG00464,Fire Accident,Critical,In Progress,2026-03-21 22:41:28.405375,4,AMB020,"1682 Matthew Streets Suite 069, Christopherburgh, RI 49774",3
+EMG00465,Poisoning,Critical,In Progress,2025-09-13 15:18:37.725173,4,AMB021,"56808 Jasmin Lakes, Lake Melissa, UT 50731",4
+EMG00466,Respiratory Failure,High,In Progress,2026-04-18 17:29:36.091632,7,AMB001,"22228 Melinda Burg, Amychester, AL 38654",7
+EMG00467,Road Traffic Accident,Critical,Dispatched,2025-12-30 07:10:50.601254,2,AMB020,"666 Catherine Wells Apt. 841, Bobbystad, AR 65491",4
+EMG00468,Seizure,High,In Progress,2026-04-05 01:05:09.130129,9,AMB008,"4407 Arias Wall, West Christopher, MS 65852",7
+EMG00469,Seizure,Medium,In Progress,2025-12-13 21:39:01.946823,15,AMB022,"8477 Werner Meadow Apt. 452, East Sierraberg, FM 16479",8
+EMG00470,Cardiac Arrest,Medium,Resolved,2026-06-19 21:19:40.997997,14,AMB015,"60721 Kelly Mills, Port Lindabury, LA 15233",7
+EMG00471,Poisoning,High,Dispatched,2026-07-09 03:14:21.078159,9,AMB008,"48673 Thomas Expressway Apt. 557, Millerfurt, MN 85527",7
+EMG00472,Road Traffic Accident,High,In Progress,2025-10-29 00:43:33.463070,9,AMB021,"20971 Tony Loop Suite 679, Youngside, MH 58059",5
+EMG00473,Road Traffic Accident,Critical,Dispatched,2026-07-22 06:02:02.558926,4,AMB006,"0587 Joseph Meadow, Victoriaborough, WA 34601",1
+EMG00474,Fire Accident,Medium,Dispatched,2025-10-08 19:18:01.991931,17,AMB024,"333 Jennifer Mountains, Krystalstad, MS 39820",6
+EMG00475,Trauma,High,In Progress,2026-02-11 00:28:41.162658,5,AMB010,"6577 West Pass, South Nathan, MP 20210",8
+EMG00476,Respiratory Failure,High,Resolved,2026-07-10 14:50:40.508954,6,AMB024,"USNS Calhoun, FPO AA 77511",3
+EMG00477,Respiratory Failure,High,In Progress,2025-12-29 03:02:40.001538,8,AMB003,"7679 Warner Coves, Lake Brian, SC 92861",1
+EMG00478,Mass Casualty,Critical,In Progress,2026-06-25 11:45:06.432382,3,AMB007,"93475 Dixon Via Suite 391, Connerfort, ND 82700",6
+EMG00479,Mass Casualty,High,Resolved,2025-09-02 16:46:49.960214,8,AMB019,"28135 Smith Squares, Peterton, NE 14770",5
+EMG00480,Road Traffic Accident,High,Resolved,2025-11-24 13:08:22.344829,6,AMB013,"0045 Munoz Spring Suite 996, Thomasland, CO 34919",2
+EMG00481,Respiratory Failure,Critical,In Progress,2025-10-19 12:37:52.452507,3,AMB013,"USNS Martin, FPO AE 31260",1
+EMG00482,Poisoning,Low,Resolved,2026-03-28 16:56:58.281282,24,AMB007,"94355 Carlos Bypass, East Michelle, OR 30377",6
+EMG00483,Respiratory Failure,High,Dispatched,2025-08-26 21:34:42.925348,6,AMB002,"USCGC Barajas, FPO AP 57903",5
+EMG00484,Seizure,Low,Dispatched,2025-10-18 14:25:36.323215,40,AMB009,"42792 Hawkins Forest Suite 121, Holmesmouth, AR 94286",7
+EMG00485,Respiratory Failure,High,Resolved,2026-08-02 18:48:26.043911,9,AMB025,"6258 Ronald Forest Suite 585, East Melanie, GA 78896",8
+EMG00486,Fire Accident,Critical,In Progress,2026-01-19 05:18:29.328559,3,AMB003,"1951 Richard Vista, East Angelaport, ID 64991",1
+EMG00487,Mass Casualty,Medium,In Progress,2026-06-22 09:50:31.653274,10,AMB022,"843 Smith Mountains Apt. 363, Harpershire, DC 51773",7
+EMG00488,Seizure,High,Resolved,2026-07-07 11:47:43.451382,7,AMB015,"212 Andrea Wells, New Heatherside, WA 45252",3
+EMG00489,Road Traffic Accident,High,In Progress,2025-08-29 15:53:07.854161,10,AMB016,"561 Michelle Plaza, Davidsonview, NY 51884",8
+EMG00490,Stroke,Low,Resolved,2025-11-13 15:52:41.075508,40,AMB024,"299 Dawn Pike, Davisland, MI 57706",8
+EMG00491,Poisoning,Critical,In Progress,2026-04-01 11:02:07.225018,3,AMB024,"6141 Young Radial, East Felicia, NC 64388",2
+EMG00492,Burn Injury,High,Dispatched,2026-03-24 12:31:29.134733,8,AMB002,"6983 Velez Road Apt. 011, Cabreraport, DC 07041",5
+EMG00493,Burn Injury,High,Dispatched,2026-07-19 17:18:44.283327,10,AMB001,"194 Davis Terrace Apt. 044, Jamesland, CT 32035",7
+EMG00494,Road Traffic Accident,Medium,Dispatched,2026-05-22 22:28:47.788729,16,AMB006,"896 Erica Plaza, East Jenniferhaven, LA 84159",5
+EMG00495,Burn Injury,Critical,Resolved,2025-11-27 00:57:54.124372,5,AMB005,"973 Olson Hollow, Bondton, OH 75282",2
+EMG00496,Trauma,Critical,In Progress,2026-02-14 02:30:13.995622,3,AMB012,"97122 Clark Island Apt. 093, South Connie, IN 59548",1
+EMG00497,Fire Accident,High,Dispatched,2026-03-01 09:55:43.091034,5,AMB023,"473 Lopez Mission, Sotoland, SC 09685",2
+EMG00498,Cardiac Arrest,High,In Progress,2025-09-16 09:42:48.913002,9,AMB006,"46941 Melissa Knolls Suite 400, New Christopher, AK 57328",4
+EMG00499,Poisoning,High,In Progress,2025-11-23 21:05:43.566851,8,AMB018,"20828 Smith Rapid Suite 338, Lindachester, FL 62983",8
+EMG00500,Cardiac Arrest,Medium,Dispatched,2025-12-01 02:47:19.528255,11,AMB001,"PSC 8318, Box 3866, APO AP 07835",7

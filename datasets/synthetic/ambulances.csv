@@ -1,0 +1,26 @@
+ambulance_id,vehicle_number,driver_name,paramedic_name,vehicle_type,status,fuel_level,speed_kmph,current_patient,gps_latitude,gps_longitude,last_service_date
+AMB001,KL-07-AMB-1000,Amber Garner,Elizabeth Martinez,Advanced Life Support,At Hospital,88,0,PAT00455,11.032725,76.880527,2026-07-10
+AMB002,KL-07-AMB-1001,John Myers,Gary Short,Advanced Life Support,Available,97,0,,11.052491,76.940238,2026-07-28
+AMB003,KL-07-AMB-1002,Emily Martin,Martin Brady,ICU Ambulance,At Hospital,73,0,PAT01308,10.990207,77.003426,2026-04-17
+AMB004,KL-07-AMB-1003,Lauren Pearson,Scott Reynolds,Basic Life Support,Available,26,0,,10.975731,76.961908,2026-02-11
+AMB005,KL-07-AMB-1004,Gregory Miller,Carol Bowers,Basic Life Support,At Hospital,66,0,PAT01149,10.990203,76.914429,2026-05-06
+AMB006,KL-07-AMB-1005,Christine Rice,William Hall,Basic Life Support,Available,36,0,,11.023886,76.914668,2026-07-31
+AMB007,KL-07-AMB-1006,Joshua Montgomery,Loretta Johnson,Advanced Life Support,Available,38,0,,11.03391,76.93079,2026-05-10
+AMB008,KL-07-AMB-1007,Erik Johnson,Richard Smith,ICU Ambulance,At Hospital,82,0,PAT00025,10.972664,76.875078,2026-07-26
+AMB009,KL-07-AMB-1008,Michael Nguyen,Joseph Martinez,Basic Life Support,En Route,77,41,PAT01452,10.98227,76.866966,2026-05-29
+AMB010,KL-07-AMB-1009,Jason Welch,John Dixon,ICU Ambulance,Available,65,0,,10.97322,76.97405,2026-04-15
+AMB011,KL-07-AMB-1010,Kimberly Turner,Kenneth Braun,ICU Ambulance,En Route,24,73,PAT01411,11.016144,76.918212,2026-07-17
+AMB012,KL-07-AMB-1011,Marissa Daniels,Alice Santiago,Advanced Life Support,Maintenance,44,0,,11.027591,76.903714,2026-03-07
+AMB013,KL-07-AMB-1012,George Randolph,Carmen Wade,Advanced Life Support,En Route,88,71,PAT00679,10.966606,76.922358,2026-05-07
+AMB014,KL-07-AMB-1013,John Johnson,Ryan Terry,Basic Life Support,At Hospital,60,0,PAT00942,11.077607,76.960474,2026-03-02
+AMB015,KL-07-AMB-1014,Rhonda Brooks MD,Travis Sullivan,Basic Life Support,On Call,100,79,,11.040289,77.032412,2026-02-07
+AMB016,KL-07-AMB-1015,Shelley Oliver,Robert Dixon,ICU Ambulance,En Route,44,33,PAT00057,11.015713,77.008567,2026-04-18
+AMB017,KL-07-AMB-1016,Douglas Greene,Samantha Tran,Advanced Life Support,On Call,42,38,,11.024866,76.869361,2026-05-14
+AMB018,KL-07-AMB-1017,Luis Jones,Jimmy Rice,Advanced Life Support,Available,64,0,,10.988237,77.014671,2026-03-10
+AMB019,KL-07-AMB-1018,Pamela Whitaker,Kerry Cervantes,Advanced Life Support,Available,89,0,,11.008363,76.896711,2026-03-13
+AMB020,KL-07-AMB-1019,Peter Stone,Erin Fitzpatrick,Basic Life Support,Available,76,0,,11.045084,76.939829,2026-05-18
+AMB021,KL-07-AMB-1020,Stephanie Ball,Barbara Campbell,ICU Ambulance,On Call,39,89,,11.051167,76.926214,2026-07-13
+AMB022,KL-07-AMB-1021,Thomas Rosales,Veronica Macdonald,ICU Ambulance,En Route,86,31,PAT00305,10.99357,76.989331,2026-02-19
+AMB023,KL-07-AMB-1022,Stacy Henry,Melanie Walls,Advanced Life Support,At Hospital,23,0,PAT00873,11.051052,76.868395,2026-06-10
+AMB024,KL-07-AMB-1023,Amber Collins,Evan Richards,Basic Life Support,Available,70,0,,11.098448,77.03169,2026-03-17
+AMB025,KL-07-AMB-1024,Ruth Long,Emily Smith,Advanced Life Support,Available,51,0,,10.958192,77.007033,2026-03-28

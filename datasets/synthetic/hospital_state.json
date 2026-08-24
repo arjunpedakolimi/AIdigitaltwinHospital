@@ -1,0 +1,30 @@
+{
+    "timestamp": "2026-08-06 21:28:10.424608",
+    "hospital": {
+        "status": "Operational",
+        "active_patients": 990,
+        "critical_patients": 40
+    },
+    "beds": {
+        "total": 990,
+        "occupied": 990,
+        "available": 0,
+        "occupancy_percent": 100.0
+    },
+    "staff": {
+        "doctors": 130,
+        "nurses": 291
+    },
+    "equipment": {
+        "total": 446,
+        "operational": 378,
+        "maintenance": 68
+    },
+    "ambulances": {
+        "available": 10,
+        "busy": 15
+    },
+    "alerts": {
+        "active": 206
+    }
+}

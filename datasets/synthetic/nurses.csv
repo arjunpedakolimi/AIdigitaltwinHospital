@@ -1,0 +1,292 @@
+nurse_id,name,gender,age,department_id,department_name,room_id,experience,shift,available
+NUR0001,Shane Larson,Male,37,DEP0001,Emergency,ROOM0003,24,Night,True
+NUR0002,Kyle Clark,Female,52,DEP0001,Emergency,ROOM0007,10,Evening,True
+NUR0003,Patrick Paul,Male,32,DEP0001,Emergency,ROOM0009,12,Night,False
+NUR0004,Erik Chen,Male,41,DEP0001,Emergency,ROOM0015,1,Morning,False
+NUR0005,Anne Hayes,Female,53,DEP0001,Emergency,ROOM0003,8,Evening,True
+NUR0006,Mary Sawyer,Female,55,DEP0001,Emergency,ROOM0014,25,Night,False
+NUR0007,Jennifer Mcclain,Male,59,DEP0001,Emergency,ROOM0019,7,Night,False
+NUR0008,Douglas Bailey,Female,52,DEP0001,Emergency,ROOM0002,1,Night,False
+NUR0009,Robert Allen,Female,42,DEP0001,Emergency,ROOM0007,16,Evening,True
+NUR0010,Kelsey Perry,Male,60,DEP0001,Emergency,ROOM0012,8,Morning,False
+NUR0011,Rachel Nixon,Male,51,DEP0001,Emergency,ROOM0012,8,Night,False
+NUR0012,Leah Humphrey,Male,27,DEP0001,Emergency,ROOM0019,9,Morning,False
+NUR0013,Jonathan Kennedy,Male,57,DEP0001,Emergency,ROOM0011,4,Morning,True
+NUR0014,Theresa Mcpherson,Female,54,DEP0001,Emergency,ROOM0013,15,Evening,False
+NUR0015,Philip Gill,Male,57,DEP0001,Emergency,ROOM0007,3,Morning,True
+NUR0016,Elizabeth Hernandez,Male,22,DEP0001,Emergency,ROOM0004,25,Morning,True
+NUR0017,Tiffany Rice,Male,42,DEP0001,Emergency,ROOM0010,20,Night,True
+NUR0018,Wesley Sims,Male,57,DEP0001,Emergency,ROOM0015,3,Morning,False
+NUR0019,Shaun Lee,Male,32,DEP0001,Emergency,ROOM0012,25,Night,False
+NUR0020,Steven Price,Male,27,DEP0001,Emergency,ROOM0005,10,Evening,False
+NUR0021,Erin Gutierrez,Male,48,DEP0001,Emergency,ROOM0013,16,Evening,False
+NUR0022,Scott Walton,Female,47,DEP0001,Emergency,ROOM0005,23,Night,False
+NUR0023,Derek Diaz,Male,54,DEP0001,Emergency,ROOM0007,19,Night,False
+NUR0024,Samantha Williams,Female,34,DEP0001,Emergency,ROOM0001,21,Morning,True
+NUR0025,Virginia Baker,Female,36,DEP0001,Emergency,ROOM0017,15,Morning,False
+NUR0026,Lisa Foster,Male,53,DEP0001,Emergency,ROOM0013,4,Evening,False
+NUR0027,Lance Randolph,Male,52,DEP0001,Emergency,ROOM0017,20,Morning,True
+NUR0028,Pamela Cantu,Female,34,DEP0001,Emergency,ROOM0014,11,Morning,True
+NUR0029,Mathew Perkins MD,Male,44,DEP0001,Emergency,ROOM0007,19,Morning,False
+NUR0030,Luke Harris,Male,45,DEP0001,Emergency,ROOM0017,23,Evening,False
+NUR0031,Diana Lambert,Female,43,DEP0001,Emergency,ROOM0008,3,Night,True
+NUR0032,Jessica Murphy MD,Female,46,DEP0001,Emergency,ROOM0007,10,Morning,True
+NUR0033,Tina Walker,Male,34,DEP0001,Emergency,ROOM0013,13,Night,True
+NUR0034,Stephen Ramirez,Female,54,DEP0001,Emergency,ROOM0020,6,Night,False
+NUR0035,Donna Hudson,Female,30,DEP0001,Emergency,ROOM0014,11,Morning,False
+NUR0036,Tara Montgomery,Female,60,DEP0001,Emergency,ROOM0016,25,Evening,True
+NUR0037,Nicole Franco,Female,42,DEP0001,Emergency,ROOM0014,3,Evening,True
+NUR0038,Justin Griffin,Male,27,DEP0001,Emergency,ROOM0005,8,Morning,True
+NUR0039,Joseph Schmidt,Female,45,DEP0001,Emergency,ROOM0012,12,Night,True
+NUR0040,Chelsea Mitchell DVM,Female,28,DEP0001,Emergency,ROOM0002,7,Morning,True
+NUR0041,Cameron Roberts,Male,37,DEP0002,ICU,ROOM0022,20,Night,True
+NUR0042,Bonnie Mcguire,Male,25,DEP0002,ICU,ROOM0023,23,Night,False
+NUR0043,Daniel Gibbs,Male,59,DEP0002,ICU,ROOM0029,1,Evening,False
+NUR0044,Joseph Powell,Male,23,DEP0002,ICU,ROOM0021,19,Evening,False
+NUR0045,Michael Clark,Male,25,DEP0002,ICU,ROOM0031,6,Morning,True
+NUR0046,Michael Olson,Male,58,DEP0002,ICU,ROOM0025,5,Night,False
+NUR0047,Tonya Dunn,Female,44,DEP0002,ICU,ROOM0030,17,Night,True
+NUR0048,Amy Kelly,Female,56,DEP0002,ICU,ROOM0033,11,Evening,False
+NUR0049,Amanda Smith,Female,36,DEP0002,ICU,ROOM0027,7,Evening,False
+NUR0050,Henry Ortiz,Male,27,DEP0002,ICU,ROOM0024,25,Morning,True
+NUR0051,Timothy Shaw,Male,50,DEP0002,ICU,ROOM0035,3,Night,False
+NUR0052,Deborah Russell,Female,53,DEP0002,ICU,ROOM0028,20,Night,False
+NUR0053,Paul Hicks,Male,23,DEP0002,ICU,ROOM0035,21,Night,True
+NUR0054,Lisa Fisher,Female,55,DEP0002,ICU,ROOM0030,22,Evening,True
+NUR0055,Brandon Young,Female,30,DEP0002,ICU,ROOM0032,6,Morning,True
+NUR0056,Cynthia Gordon,Male,48,DEP0002,ICU,ROOM0024,23,Evening,True
+NUR0057,Nancy Carlson,Male,46,DEP0002,ICU,ROOM0029,4,Night,True
+NUR0058,Mark Ferrell,Male,49,DEP0002,ICU,ROOM0023,3,Night,False
+NUR0059,David Hayes,Male,25,DEP0002,ICU,ROOM0034,19,Morning,True
+NUR0060,Cheryl Andersen,Male,57,DEP0002,ICU,ROOM0032,3,Night,True
+NUR0061,Ricky Mccormick,Male,52,DEP0002,ICU,ROOM0024,25,Evening,False
+NUR0062,Erin Holmes,Male,44,DEP0002,ICU,ROOM0026,3,Morning,True
+NUR0063,Melissa Sanchez,Female,52,DEP0002,ICU,ROOM0026,4,Evening,True
+NUR0064,Samantha Collier,Female,31,DEP0002,ICU,ROOM0021,20,Night,True
+NUR0065,Debra Horton,Male,58,DEP0002,ICU,ROOM0022,22,Night,True
+NUR0066,Carol Cortez,Female,38,DEP0002,ICU,ROOM0029,24,Morning,False
+NUR0067,Michael Smith,Male,57,DEP0002,ICU,ROOM0033,2,Evening,False
+NUR0068,Maxwell Johnson DVM,Male,46,DEP0002,ICU,ROOM0025,12,Morning,True
+NUR0069,Heidi Doyle DVM,Male,58,DEP0002,ICU,ROOM0029,18,Morning,True
+NUR0070,Melanie Cole,Female,42,DEP0002,ICU,ROOM0022,1,Morning,False
+NUR0071,Daniel Mitchell,Female,35,DEP0002,ICU,ROOM0029,10,Night,False
+NUR0072,Christopher Brown,Female,48,DEP0002,ICU,ROOM0023,11,Evening,True
+NUR0073,Melanie Thomas,Male,31,DEP0002,ICU,ROOM0034,12,Morning,False
+NUR0074,James Acosta,Male,46,DEP0002,ICU,ROOM0024,3,Night,False
+NUR0075,Eric James,Male,30,DEP0002,ICU,ROOM0021,9,Evening,True
+NUR0076,Paul Burns,Male,35,DEP0002,ICU,ROOM0025,3,Morning,True
+NUR0077,Lynn Hernandez,Female,52,DEP0002,ICU,ROOM0029,19,Morning,True
+NUR0078,Russell Walters,Male,57,DEP0002,ICU,ROOM0022,22,Morning,True
+NUR0079,Danielle Cowan,Female,24,DEP0002,ICU,ROOM0029,10,Night,True
+NUR0080,Jesse Sutton,Female,41,DEP0002,ICU,ROOM0028,9,Evening,True
+NUR0081,James Jones,Male,44,DEP0002,ICU,ROOM0021,13,Morning,True
+NUR0082,Steven Merritt,Female,58,DEP0002,ICU,ROOM0033,25,Morning,True
+NUR0083,Shannon Haynes,Male,33,DEP0002,ICU,ROOM0024,9,Morning,True
+NUR0084,Thomas Kramer,Male,51,DEP0002,ICU,ROOM0023,7,Morning,True
+NUR0085,Brittany Li,Female,45,DEP0002,ICU,ROOM0028,2,Evening,True
+NUR0086,Daniel Conner,Female,31,DEP0003,Operation Theatre,ROOM0039,7,Night,True
+NUR0087,Anna Mendez,Female,51,DEP0003,Operation Theatre,ROOM0044,22,Evening,False
+NUR0088,Janet Lopez,Female,23,DEP0003,Operation Theatre,ROOM0036,6,Morning,False
+NUR0089,Erik Woods,Female,39,DEP0003,Operation Theatre,ROOM0043,25,Morning,True
+NUR0090,Brian Little DDS,Female,25,DEP0003,Operation Theatre,ROOM0039,13,Night,True
+NUR0091,Jeffrey Johnson,Female,57,DEP0003,Operation Theatre,ROOM0040,5,Night,True
+NUR0092,Tina Johnson MD,Female,47,DEP0003,Operation Theatre,ROOM0041,17,Morning,False
+NUR0093,Jane Baker,Female,26,DEP0003,Operation Theatre,ROOM0041,9,Night,False
+NUR0094,Melissa Coffey,Male,29,DEP0003,Operation Theatre,ROOM0045,21,Night,False
+NUR0095,Jeffrey Kaufman,Male,45,DEP0003,Operation Theatre,ROOM0045,5,Evening,False
+NUR0096,Timothy Collins,Female,53,DEP0003,Operation Theatre,ROOM0040,14,Evening,False
+NUR0097,Jessica Ray,Male,32,DEP0003,Operation Theatre,ROOM0045,19,Night,True
+NUR0098,Andrew Gray,Male,31,DEP0003,Operation Theatre,ROOM0042,17,Morning,False
+NUR0099,Misty Medina,Male,39,DEP0003,Operation Theatre,ROOM0041,21,Night,False
+NUR0100,Mr. Clayton Johnson,Male,42,DEP0003,Operation Theatre,ROOM0039,3,Evening,False
+NUR0101,Julia Tran,Male,58,DEP0003,Operation Theatre,ROOM0036,17,Morning,True
+NUR0102,Charles Thompson,Female,45,DEP0003,Operation Theatre,ROOM0045,8,Morning,True
+NUR0103,Katrina Walker,Female,47,DEP0003,Operation Theatre,ROOM0043,25,Morning,False
+NUR0104,Jason Gross,Male,43,DEP0003,Operation Theatre,ROOM0045,14,Night,False
+NUR0105,Eric Wright,Male,57,DEP0003,Operation Theatre,ROOM0040,8,Night,False
+NUR0106,Michele Hale,Male,49,DEP0004,General Ward,ROOM0121,20,Evening,True
+NUR0107,Derrick Liu,Male,41,DEP0004,General Ward,ROOM0050,12,Night,False
+NUR0108,Alexis Ramirez,Female,36,DEP0004,General Ward,ROOM0095,13,Morning,True
+NUR0109,Donna Swanson,Male,28,DEP0004,General Ward,ROOM0091,3,Night,False
+NUR0110,Amy Brown,Female,47,DEP0004,General Ward,ROOM0117,5,Night,False
+NUR0111,Wayne Smith,Male,53,DEP0004,General Ward,ROOM0062,9,Evening,True
+NUR0112,Andrew Cross,Male,37,DEP0004,General Ward,ROOM0051,4,Evening,False
+NUR0113,Michael Martin,Male,56,DEP0004,General Ward,ROOM0121,25,Night,False
+NUR0114,Patrick Brandt,Female,38,DEP0004,General Ward,ROOM0090,18,Evening,False
+NUR0115,Sabrina Fischer,Female,24,DEP0004,General Ward,ROOM0048,12,Night,False
+NUR0116,Maria Butler,Female,44,DEP0004,General Ward,ROOM0121,20,Night,True
+NUR0117,Angela Williams,Female,30,DEP0004,General Ward,ROOM0066,1,Night,True
+NUR0118,Kimberly Anderson,Female,48,DEP0004,General Ward,ROOM0121,20,Morning,True
+NUR0119,Jennifer Fields,Female,48,DEP0004,General Ward,ROOM0110,25,Night,True
+NUR0120,Linda Robinson,Female,26,DEP0004,General Ward,ROOM0103,18,Morning,True
+NUR0121,Amy Jones,Female,49,DEP0004,General Ward,ROOM0103,7,Morning,False
+NUR0122,Mary Johnson,Female,35,DEP0004,General Ward,ROOM0103,17,Morning,False
+NUR0123,Patricia Williams,Male,60,DEP0004,General Ward,ROOM0105,21,Evening,True
+NUR0124,Mike Torres,Male,31,DEP0004,General Ward,ROOM0060,2,Morning,True
+NUR0125,Jennifer Thompson,Male,40,DEP0004,General Ward,ROOM0047,11,Morning,False
+NUR0126,Jessica Price,Female,40,DEP0004,General Ward,ROOM0123,14,Morning,True
+NUR0127,Heather Crosby,Female,57,DEP0004,General Ward,ROOM0081,9,Night,True
+NUR0128,Edward Lang,Female,26,DEP0004,General Ward,ROOM0083,23,Night,True
+NUR0129,Karen Graham,Female,32,DEP0004,General Ward,ROOM0059,2,Evening,True
+NUR0130,Kristen Tucker,Female,23,DEP0004,General Ward,ROOM0053,24,Evening,True
+NUR0131,David Williams,Female,60,DEP0004,General Ward,ROOM0081,21,Night,False
+NUR0132,Monica White,Male,47,DEP0004,General Ward,ROOM0071,23,Morning,True
+NUR0133,Lori Acosta,Female,47,DEP0004,General Ward,ROOM0084,14,Evening,False
+NUR0134,Angelica George,Male,33,DEP0004,General Ward,ROOM0076,12,Evening,False
+NUR0135,Heidi Carlson,Female,43,DEP0004,General Ward,ROOM0078,20,Night,False
+NUR0136,Christopher Cooper,Male,38,DEP0004,General Ward,ROOM0120,22,Morning,False
+NUR0137,Alicia Douglas,Male,55,DEP0004,General Ward,ROOM0077,6,Morning,False
+NUR0138,Tamara Guzman,Male,46,DEP0004,General Ward,ROOM0065,8,Evening,True
+NUR0139,Amanda Valentine,Male,38,DEP0004,General Ward,ROOM0110,9,Night,False
+NUR0140,Gene Rush,Male,54,DEP0004,General Ward,ROOM0118,6,Night,True
+NUR0141,Sierra Lopez,Female,23,DEP0004,General Ward,ROOM0101,5,Evening,True
+NUR0142,Deborah Mann,Male,41,DEP0004,General Ward,ROOM0052,6,Evening,True
+NUR0143,Tara Baker,Female,56,DEP0004,General Ward,ROOM0094,20,Night,False
+NUR0144,Daryl Fitzgerald,Male,47,DEP0004,General Ward,ROOM0049,6,Morning,True
+NUR0145,Amy Valenzuela,Female,60,DEP0004,General Ward,ROOM0056,6,Night,True
+NUR0146,Teresa White,Female,45,DEP0004,General Ward,ROOM0095,12,Night,True
+NUR0147,Tamara Freeman,Male,32,DEP0004,General Ward,ROOM0062,4,Evening,False
+NUR0148,Susan Soto,Male,41,DEP0004,General Ward,ROOM0084,10,Evening,False
+NUR0149,Brian Beck,Male,55,DEP0004,General Ward,ROOM0108,6,Evening,False
+NUR0150,Jay Murray,Female,33,DEP0004,General Ward,ROOM0076,20,Evening,True
+NUR0151,Briana Johnson,Female,46,DEP0004,General Ward,ROOM0067,1,Morning,True
+NUR0152,Olivia Barnes,Male,47,DEP0004,General Ward,ROOM0079,24,Morning,False
+NUR0153,Randy Horne,Male,32,DEP0004,General Ward,ROOM0072,3,Night,True
+NUR0154,Nathan Miller,Female,31,DEP0004,General Ward,ROOM0098,10,Evening,True
+NUR0155,Katrina Mitchell MD,Male,50,DEP0004,General Ward,ROOM0073,6,Evening,True
+NUR0156,Christopher Barker,Male,54,DEP0004,General Ward,ROOM0078,4,Evening,False
+NUR0157,Audrey Chan,Male,58,DEP0004,General Ward,ROOM0125,13,Night,False
+NUR0158,Matthew Scott,Female,42,DEP0004,General Ward,ROOM0048,20,Morning,True
+NUR0159,Susan Lane,Male,34,DEP0004,General Ward,ROOM0083,7,Evening,False
+NUR0160,Ernest Clay,Female,53,DEP0004,General Ward,ROOM0058,21,Evening,False
+NUR0161,Andrew Nielsen,Female,33,DEP0004,General Ward,ROOM0119,9,Night,True
+NUR0162,Samantha Green,Male,37,DEP0004,General Ward,ROOM0057,8,Night,False
+NUR0163,Edwin Johnson,Female,24,DEP0004,General Ward,ROOM0119,9,Morning,True
+NUR0164,Brian Oliver,Male,48,DEP0004,General Ward,ROOM0053,9,Night,False
+NUR0165,Julia Guerrero,Male,43,DEP0004,General Ward,ROOM0124,20,Evening,False
+NUR0166,Christina Bautista,Male,30,DEP0004,General Ward,ROOM0068,3,Evening,True
+NUR0167,James Burnett,Male,34,DEP0004,General Ward,ROOM0119,7,Morning,False
+NUR0168,Shelly Cooper,Female,30,DEP0004,General Ward,ROOM0066,17,Morning,False
+NUR0169,Kayla Davila,Male,43,DEP0004,General Ward,ROOM0069,15,Morning,False
+NUR0170,Philip Jacobson,Female,52,DEP0004,General Ward,ROOM0103,1,Morning,True
+NUR0171,Tamara Nelson,Male,29,DEP0004,General Ward,ROOM0076,6,Morning,False
+NUR0172,Jacqueline Massey,Male,57,DEP0004,General Ward,ROOM0071,3,Morning,False
+NUR0173,Tyler Newman,Male,56,DEP0004,General Ward,ROOM0097,1,Evening,True
+NUR0174,Daniel Huffman,Male,39,DEP0004,General Ward,ROOM0088,14,Morning,False
+NUR0175,Richard Fox,Male,44,DEP0004,General Ward,ROOM0112,22,Morning,False
+NUR0176,Ian Martinez,Female,48,DEP0004,General Ward,ROOM0056,16,Night,False
+NUR0177,Rhonda Jackson,Male,37,DEP0004,General Ward,ROOM0050,25,Morning,True
+NUR0178,Deanna Cooke,Male,48,DEP0004,General Ward,ROOM0117,4,Night,True
+NUR0179,Joseph Brown,Female,33,DEP0004,General Ward,ROOM0122,23,Night,True
+NUR0180,Kristina Taylor,Female,42,DEP0004,General Ward,ROOM0077,21,Evening,True
+NUR0181,John Massey,Male,52,DEP0004,General Ward,ROOM0075,16,Morning,True
+NUR0182,Christopher Gonzales,Male,51,DEP0004,General Ward,ROOM0063,9,Evening,False
+NUR0183,Steven Lopez,Male,43,DEP0004,General Ward,ROOM0108,18,Morning,False
+NUR0184,Melissa Rodriguez,Male,56,DEP0004,General Ward,ROOM0099,16,Evening,False
+NUR0185,Michael Medina,Female,42,DEP0004,General Ward,ROOM0071,19,Evening,False
+NUR0186,Kenneth Stone,Male,55,DEP0004,General Ward,ROOM0049,7,Evening,False
+NUR0187,Abigail Edwards,Female,35,DEP0004,General Ward,ROOM0087,18,Evening,True
+NUR0188,Adrienne Rodriguez,Female,30,DEP0004,General Ward,ROOM0067,24,Evening,True
+NUR0189,Brent Baker,Female,58,DEP0004,General Ward,ROOM0059,18,Evening,False
+NUR0190,David Foster,Male,57,DEP0004,General Ward,ROOM0054,11,Morning,True
+NUR0191,Kaylee Moreno,Male,51,DEP0004,General Ward,ROOM0067,6,Morning,False
+NUR0192,Teresa Herrera,Female,52,DEP0004,General Ward,ROOM0112,9,Evening,False
+NUR0193,Jon Murphy,Female,59,DEP0004,General Ward,ROOM0096,8,Morning,False
+NUR0194,Billy Bowman,Female,32,DEP0004,General Ward,ROOM0099,15,Night,True
+NUR0195,Robert Newman,Male,26,DEP0004,General Ward,ROOM0117,16,Morning,False
+NUR0196,Janet Hansen,Female,50,DEP0005,Cardiology,ROOM0137,13,Night,True
+NUR0197,Christopher Ramos,Male,49,DEP0005,Cardiology,ROOM0142,17,Morning,False
+NUR0198,Katherine Lewis,Male,38,DEP0005,Cardiology,ROOM0137,22,Evening,True
+NUR0199,Kenneth Mcclure,Female,55,DEP0005,Cardiology,ROOM0134,24,Evening,True
+NUR0200,Cynthia Chen,Male,51,DEP0005,Cardiology,ROOM0127,3,Evening,True
+NUR0201,Seth Stanton,Female,41,DEP0005,Cardiology,ROOM0127,15,Morning,True
+NUR0202,Sheila Vargas,Female,58,DEP0005,Cardiology,ROOM0128,21,Evening,True
+NUR0203,Denise Smith,Male,34,DEP0005,Cardiology,ROOM0138,15,Night,True
+NUR0204,Elizabeth Morrow,Female,45,DEP0005,Cardiology,ROOM0138,6,Evening,False
+NUR0205,Rebecca Lopez,Male,25,DEP0005,Cardiology,ROOM0137,12,Night,False
+NUR0206,Laurie Farley,Female,34,DEP0005,Cardiology,ROOM0145,18,Morning,False
+NUR0207,David Mitchell,Female,54,DEP0005,Cardiology,ROOM0141,14,Morning,False
+NUR0208,Heather Melton,Male,46,DEP0005,Cardiology,ROOM0132,16,Evening,False
+NUR0209,Paul Stewart,Female,34,DEP0005,Cardiology,ROOM0131,7,Morning,False
+NUR0210,Deanna Brown,Female,40,DEP0005,Cardiology,ROOM0134,3,Evening,False
+NUR0211,Michelle Diaz,Female,54,DEP0005,Cardiology,ROOM0131,18,Evening,False
+NUR0212,Courtney Brown,Female,60,DEP0005,Cardiology,ROOM0139,22,Evening,True
+NUR0213,Kristy Sandoval,Male,58,DEP0005,Cardiology,ROOM0137,8,Evening,False
+NUR0214,Melissa Price,Male,37,DEP0005,Cardiology,ROOM0142,8,Morning,False
+NUR0215,Daniel Richardson,Female,52,DEP0005,Cardiology,ROOM0136,20,Evening,False
+NUR0216,Joshua Jenkins,Male,40,DEP0005,Cardiology,ROOM0136,22,Night,True
+NUR0217,Danielle Harper,Male,50,DEP0005,Cardiology,ROOM0136,2,Morning,False
+NUR0218,William Martin,Male,41,DEP0005,Cardiology,ROOM0140,21,Night,True
+NUR0219,Lacey Hammond,Female,47,DEP0005,Cardiology,ROOM0145,7,Morning,False
+NUR0220,Travis Sullivan,Male,53,DEP0005,Cardiology,ROOM0138,3,Night,True
+NUR0221,Elizabeth Case,Male,47,DEP0006,Neurology,ROOM0153,12,Night,False
+NUR0222,Anna Howard,Female,31,DEP0006,Neurology,ROOM0163,4,Morning,False
+NUR0223,Jaime Frederick PhD,Female,55,DEP0006,Neurology,ROOM0161,14,Evening,False
+NUR0224,Kelly Farmer,Female,27,DEP0006,Neurology,ROOM0164,10,Night,False
+NUR0225,Ashley Anderson,Female,22,DEP0006,Neurology,ROOM0165,9,Morning,False
+NUR0226,Jessica Howard,Male,33,DEP0006,Neurology,ROOM0165,3,Evening,True
+NUR0227,Christopher Novak,Male,24,DEP0006,Neurology,ROOM0165,6,Morning,False
+NUR0228,Matthew White,Male,59,DEP0006,Neurology,ROOM0163,24,Night,False
+NUR0229,Jennifer Marshall,Male,33,DEP0006,Neurology,ROOM0154,23,Night,True
+NUR0230,Jack Cuevas,Female,55,DEP0006,Neurology,ROOM0146,11,Night,True
+NUR0231,Amanda Peterson,Male,33,DEP0006,Neurology,ROOM0149,8,Evening,True
+NUR0232,Nicole Jackson,Male,56,DEP0006,Neurology,ROOM0165,11,Night,True
+NUR0233,Dale Jones,Male,32,DEP0006,Neurology,ROOM0154,1,Evening,False
+NUR0234,Tracey Mueller,Female,50,DEP0006,Neurology,ROOM0154,5,Morning,False
+NUR0235,Michael Hill,Male,50,DEP0006,Neurology,ROOM0165,13,Night,True
+NUR0236,Sarah Lucas,Male,33,DEP0006,Neurology,ROOM0162,22,Night,False
+NUR0237,Robert White,Female,39,DEP0006,Neurology,ROOM0148,2,Morning,True
+NUR0238,Ethan Lee,Male,44,DEP0006,Neurology,ROOM0150,23,Morning,True
+NUR0239,Desiree Miller,Male,48,DEP0006,Neurology,ROOM0156,21,Evening,True
+NUR0240,Brian Gonzalez,Female,57,DEP0006,Neurology,ROOM0146,25,Evening,True
+NUR0241,David Anderson,Male,47,DEP0007,Orthopedics,ROOM0181,15,Evening,True
+NUR0242,Kristina Rice,Male,37,DEP0007,Orthopedics,ROOM0179,7,Morning,False
+NUR0243,Tyler Howard,Male,26,DEP0007,Orthopedics,ROOM0172,5,Night,True
+NUR0244,Misty Ellis,Male,38,DEP0007,Orthopedics,ROOM0185,1,Morning,True
+NUR0245,Elizabeth Bowman MD,Female,51,DEP0007,Orthopedics,ROOM0179,12,Night,True
+NUR0246,Sean Harris,Male,22,DEP0007,Orthopedics,ROOM0167,10,Morning,True
+NUR0247,Leslie Wilson,Female,48,DEP0007,Orthopedics,ROOM0176,5,Night,True
+NUR0248,Chad Smith,Female,55,DEP0007,Orthopedics,ROOM0170,23,Evening,True
+NUR0249,Laura Cervantes,Male,37,DEP0007,Orthopedics,ROOM0166,16,Morning,False
+NUR0250,Elizabeth Gomez,Male,34,DEP0007,Orthopedics,ROOM0178,19,Night,True
+NUR0251,Francisco Martin,Female,42,DEP0007,Orthopedics,ROOM0183,1,Morning,True
+NUR0252,Lindsay Wallace,Female,47,DEP0007,Orthopedics,ROOM0181,14,Morning,True
+NUR0253,Jennifer Bell,Female,58,DEP0007,Orthopedics,ROOM0177,22,Night,False
+NUR0254,Douglas Mcintyre,Female,44,DEP0007,Orthopedics,ROOM0183,22,Morning,True
+NUR0255,Richard Mullins,Male,32,DEP0007,Orthopedics,ROOM0172,3,Morning,False
+NUR0256,Arthur Ryan,Male,58,DEP0007,Orthopedics,ROOM0176,2,Night,True
+NUR0257,Frederick Blair,Female,35,DEP0007,Orthopedics,ROOM0169,9,Evening,False
+NUR0258,Monica Lee,Female,47,DEP0007,Orthopedics,ROOM0166,13,Morning,True
+NUR0259,David Schmidt,Female,52,DEP0007,Orthopedics,ROOM0180,1,Evening,False
+NUR0260,Sandra Hughes,Female,33,DEP0007,Orthopedics,ROOM0184,20,Morning,False
+NUR0261,Clayton Beck,Male,60,DEP0008,Radiology,ROOM0195,10,Night,False
+NUR0262,Anna Carter,Male,37,DEP0008,Radiology,ROOM0192,24,Evening,False
+NUR0263,Mr. Mark Larson PhD,Female,36,DEP0008,Radiology,ROOM0192,20,Night,True
+NUR0264,David Olson,Female,23,DEP0008,Radiology,ROOM0194,6,Night,True
+NUR0265,Nicole Johns,Male,45,DEP0008,Radiology,ROOM0186,10,Morning,True
+NUR0266,Shawn Bishop,Male,52,DEP0008,Radiology,ROOM0194,12,Evening,True
+NUR0267,Maurice Gonzales,Male,27,DEP0008,Radiology,ROOM0193,11,Morning,True
+NUR0268,Rebecca Hopkins,Female,22,DEP0008,Radiology,ROOM0193,9,Evening,False
+NUR0269,Nicole Ward,Female,25,DEP0009,Laboratory,ROOM0197,24,Morning,True
+NUR0270,Gregory Scott,Male,30,DEP0009,Laboratory,ROOM0204,1,Night,True
+NUR0271,James Lee,Female,43,DEP0009,Laboratory,ROOM0202,3,Evening,False
+NUR0272,Michael Miller,Female,31,DEP0009,Laboratory,ROOM0198,7,Night,False
+NUR0273,Bryan Cruz,Male,26,DEP0009,Laboratory,ROOM0202,14,Evening,False
+NUR0274,Cynthia Kim,Female,52,DEP0009,Laboratory,ROOM0200,12,Night,False
+NUR0275,Adam Tanner,Female,30,DEP0009,Laboratory,ROOM0203,10,Morning,False
+NUR0276,Michael Williams,Male,36,DEP0009,Laboratory,ROOM0199,6,Night,True
+NUR0277,Roy Lee,Female,60,DEP0010,Pharmacy,ROOM0208,13,Morning,True
+NUR0278,Mary Kennedy,Male,53,DEP0010,Pharmacy,ROOM0210,18,Night,False
+NUR0279,Kimberly James,Female,33,DEP0010,Pharmacy,ROOM0209,1,Evening,True
+NUR0280,Patricia Bradshaw,Female,57,DEP0010,Pharmacy,ROOM0210,5,Night,True
+NUR0281,Matthew Jones,Male,38,DEP0010,Pharmacy,ROOM0207,17,Night,False
+NUR0282,Martin Gordon,Male,60,DEP0012,Reception,ROOM0246,10,Evening,True
+NUR0283,Edgar White,Male,25,DEP0012,Reception,ROOM0239,15,Night,True
+NUR0284,Paul Kennedy,Female,53,DEP0012,Reception,ROOM0250,13,Morning,False
+NUR0285,Ashley Burke,Male,56,DEP0012,Reception,ROOM0249,22,Morning,False
+NUR0286,Adam Adams,Female,23,DEP0012,Reception,ROOM0245,20,Evening,False
+NUR0287,Andrea Reese,Male,40,DEP0012,Reception,ROOM0247,7,Night,False
+NUR0288,Carla Nelson,Female,28,DEP0012,Reception,ROOM0240,8,Night,True
+NUR0289,Kathryn Delgado,Male,22,DEP0012,Reception,ROOM0247,19,Morning,False
+NUR0290,Marissa Williamson,Male,59,DEP0012,Reception,ROOM0245,14,Evening,False
+NUR0291,Michael Sims,Male,39,DEP0012,Reception,ROOM0236,14,Evening,True

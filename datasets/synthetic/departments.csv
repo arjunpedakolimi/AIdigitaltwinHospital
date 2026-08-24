@@ -1,0 +1,13 @@
+department_id,department_name,floor,room_prefix,total_rooms,capacity_per_room,capacity,occupied_beds,available_beds,doctor_count,nurse_count,status
+DEP0001,Emergency,1,ER,20,5,100,100,0,20,40,Operational
+DEP0002,ICU,2,ICU,15,2,30,30,0,18,45,Operational
+DEP0003,Operation Theatre,2,OT,10,1,10,10,0,15,20,Operational
+DEP0004,General Ward,3,GW,80,6,480,480,0,35,90,Operational
+DEP0005,Cardiology,4,CARD,20,4,80,80,0,12,25,Operational
+DEP0006,Neurology,4,NEU,20,4,80,80,0,10,20,Operational
+DEP0007,Orthopedics,5,ORTH,20,4,80,80,0,10,20,Operational
+DEP0008,Radiology,1,RAD,10,2,20,20,0,5,8,Operational
+DEP0009,Laboratory,1,LAB,10,2,20,20,0,5,8,Operational
+DEP0010,Pharmacy,1,PHARM,5,2,10,10,0,0,5,Operational
+DEP0011,Administration,6,ADMIN,25,2,50,50,0,0,0,Operational
+DEP0012,Reception,1,REC,15,2,30,30,0,0,10,Operational

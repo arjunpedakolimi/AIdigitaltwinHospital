@@ -1,0 +1,3002 @@
+[
+    {
+        "room_id": "ROOM0001",
+        "room_name": "ER-001",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 0.11,
+            "y": 16.69,
+            "z": 65.33
+        }
+    },
+    {
+        "room_id": "ROOM0002",
+        "room_name": "ER-002",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 14.0,
+            "y": 18.83,
+            "z": 27.05
+        }
+    },
+    {
+        "room_id": "ROOM0003",
+        "room_name": "ER-003",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 98.95,
+            "y": 4.99,
+            "z": 87.96
+        }
+    },
+    {
+        "room_id": "ROOM0004",
+        "room_name": "ER-004",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 37.93,
+            "y": 11.64,
+            "z": 53.98
+        }
+    },
+    {
+        "room_id": "ROOM0005",
+        "room_name": "ER-005",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 57.9,
+            "y": 13.69,
+            "z": 53.12
+        }
+    },
+    {
+        "room_id": "ROOM0006",
+        "room_name": "ER-006",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 54.67,
+            "y": 4.5,
+            "z": 24.31
+        }
+    },
+    {
+        "room_id": "ROOM0007",
+        "room_name": "ER-007",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 14.49,
+            "y": 11.42,
+            "z": 94.08
+        }
+    },
+    {
+        "room_id": "ROOM0008",
+        "room_name": "ER-008",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 5.83,
+            "y": 2.41,
+            "z": 35.14
+        }
+    },
+    {
+        "room_id": "ROOM0009",
+        "room_name": "ER-009",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 36.93,
+            "y": 14.86,
+            "z": 6.65
+        }
+    },
+    {
+        "room_id": "ROOM0010",
+        "room_name": "ER-010",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 15.66,
+            "y": 13.22,
+            "z": 82.02
+        }
+    },
+    {
+        "room_id": "ROOM0011",
+        "room_name": "ER-011",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 40.71,
+            "y": 17.81,
+            "z": 59.71
+        }
+    },
+    {
+        "room_id": "ROOM0012",
+        "room_name": "ER-012",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 56.61,
+            "y": 4.18,
+            "z": 35.73
+        }
+    },
+    {
+        "room_id": "ROOM0013",
+        "room_name": "ER-013",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 0.58,
+            "y": 7.97,
+            "z": 81.71
+        }
+    },
+    {
+        "room_id": "ROOM0014",
+        "room_name": "ER-014",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 95.54,
+            "y": 15.62,
+            "z": 81.62
+        }
+    },
+    {
+        "room_id": "ROOM0015",
+        "room_name": "ER-015",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 51.55,
+            "y": 15.7,
+            "z": 72.51
+        }
+    },
+    {
+        "room_id": "ROOM0016",
+        "room_name": "ER-016",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 55.91,
+            "y": 9.19,
+            "z": 27.4
+        }
+    },
+    {
+        "room_id": "ROOM0017",
+        "room_name": "ER-017",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 53.8,
+            "y": 2.73,
+            "z": 83.28
+        }
+    },
+    {
+        "room_id": "ROOM0018",
+        "room_name": "ER-018",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 56.07,
+            "y": 17.4,
+            "z": 15.03
+        }
+    },
+    {
+        "room_id": "ROOM0019",
+        "room_name": "ER-019",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 28.59,
+            "y": 1.63,
+            "z": 23.61
+        }
+    },
+    {
+        "room_id": "ROOM0020",
+        "room_name": "ER-020",
+        "department": "Emergency",
+        "floor": 1,
+        "capacity": 5,
+        "coordinates": {
+            "x": 36.16,
+            "y": 19.2,
+            "z": 77.7
+        }
+    },
+    {
+        "room_id": "ROOM0021",
+        "room_name": "ICU-001",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 51.19,
+            "y": 16.67,
+            "z": 48.04
+        }
+    },
+    {
+        "room_id": "ROOM0022",
+        "room_name": "ICU-002",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 52.83,
+            "y": 19.46,
+            "z": 31.14
+        }
+    },
+    {
+        "room_id": "ROOM0023",
+        "room_name": "ICU-003",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 48.78,
+            "y": 19.28,
+            "z": 64.33
+        }
+    },
+    {
+        "room_id": "ROOM0024",
+        "room_name": "ICU-004",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 48.46,
+            "y": 3.61,
+            "z": 44.2
+        }
+    },
+    {
+        "room_id": "ROOM0025",
+        "room_name": "ICU-005",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 48.49,
+            "y": 19.01,
+            "z": 8.52
+        }
+    },
+    {
+        "room_id": "ROOM0026",
+        "room_name": "ICU-006",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 58.55,
+            "y": 11.76,
+            "z": 74.3
+        }
+    },
+    {
+        "room_id": "ROOM0027",
+        "room_name": "ICU-007",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 84.16,
+            "y": 10.39,
+            "z": 52.95
+        }
+    },
+    {
+        "room_id": "ROOM0028",
+        "room_name": "ICU-008",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 89.85,
+            "y": 9.94,
+            "z": 30.02
+        }
+    },
+    {
+        "room_id": "ROOM0029",
+        "room_name": "ICU-009",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 61.67,
+            "y": 18.47,
+            "z": 58.11
+        }
+    },
+    {
+        "room_id": "ROOM0030",
+        "room_name": "ICU-010",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 40.86,
+            "y": 5.46,
+            "z": 59.81
+        }
+    },
+    {
+        "room_id": "ROOM0031",
+        "room_name": "ICU-011",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 21.22,
+            "y": 5.53,
+            "z": 81.9
+        }
+    },
+    {
+        "room_id": "ROOM0032",
+        "room_name": "ICU-012",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 78.49,
+            "y": 15.71,
+            "z": 61.86
+        }
+    },
+    {
+        "room_id": "ROOM0033",
+        "room_name": "ICU-013",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 1.85,
+            "y": 12.88,
+            "z": 77.35
+        }
+    },
+    {
+        "room_id": "ROOM0034",
+        "room_name": "ICU-014",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 37.62,
+            "y": 10.53,
+            "z": 85.75
+        }
+    },
+    {
+        "room_id": "ROOM0035",
+        "room_name": "ICU-015",
+        "department": "ICU",
+        "floor": 2,
+        "capacity": 2,
+        "coordinates": {
+            "x": 91.41,
+            "y": 0.73,
+            "z": 43.68
+        }
+    },
+    {
+        "room_id": "ROOM0036",
+        "room_name": "OT-001",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 21.55,
+            "y": 18.16,
+            "z": 66.48
+        }
+    },
+    {
+        "room_id": "ROOM0037",
+        "room_name": "OT-002",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 69.9,
+            "y": 9.37,
+            "z": 50.17
+        }
+    },
+    {
+        "room_id": "ROOM0038",
+        "room_name": "OT-003",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 81.21,
+            "y": 4.32,
+            "z": 91.9
+        }
+    },
+    {
+        "room_id": "ROOM0039",
+        "room_name": "OT-004",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 94.08,
+            "y": 17.46,
+            "z": 17.29
+        }
+    },
+    {
+        "room_id": "ROOM0040",
+        "room_name": "OT-005",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 67.76,
+            "y": 9.41,
+            "z": 90.47
+        }
+    },
+    {
+        "room_id": "ROOM0041",
+        "room_name": "OT-006",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 31.33,
+            "y": 0.22,
+            "z": 64.51
+        }
+    },
+    {
+        "room_id": "ROOM0042",
+        "room_name": "OT-007",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 51.51,
+            "y": 9.91,
+            "z": 97.03
+        }
+    },
+    {
+        "room_id": "ROOM0043",
+        "room_name": "OT-008",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 32.99,
+            "y": 17.93,
+            "z": 92.25
+        }
+    },
+    {
+        "room_id": "ROOM0044",
+        "room_name": "OT-009",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 11.86,
+            "y": 6.06,
+            "z": 60.88
+        }
+    },
+    {
+        "room_id": "ROOM0045",
+        "room_name": "OT-010",
+        "department": "Operation Theatre",
+        "floor": 2,
+        "capacity": 1,
+        "coordinates": {
+            "x": 80.21,
+            "y": 7.36,
+            "z": 40.44
+        }
+    },
+    {
+        "room_id": "ROOM0046",
+        "room_name": "GW-001",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 7.77,
+            "y": 6.67,
+            "z": 90.47
+        }
+    },
+    {
+        "room_id": "ROOM0047",
+        "room_name": "GW-002",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 28.88,
+            "y": 12.62,
+            "z": 16.47
+        }
+    },
+    {
+        "room_id": "ROOM0048",
+        "room_name": "GW-003",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 58.75,
+            "y": 12.55,
+            "z": 38.76
+        }
+    },
+    {
+        "room_id": "ROOM0049",
+        "room_name": "GW-004",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 88.94,
+            "y": 16.16,
+            "z": 47.8
+        }
+    },
+    {
+        "room_id": "ROOM0050",
+        "room_name": "GW-005",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 47.67,
+            "y": 16.8,
+            "z": 90.23
+        }
+    },
+    {
+        "room_id": "ROOM0051",
+        "room_name": "GW-006",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 8.98,
+            "y": 1.33,
+            "z": 67.32
+        }
+    },
+    {
+        "room_id": "ROOM0052",
+        "room_name": "GW-007",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 78.26,
+            "y": 13.53,
+            "z": 47.15
+        }
+    },
+    {
+        "room_id": "ROOM0053",
+        "room_name": "GW-008",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 32.19,
+            "y": 6.25,
+            "z": 80.77
+        }
+    },
+    {
+        "room_id": "ROOM0054",
+        "room_name": "GW-009",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 62.86,
+            "y": 1.81,
+            "z": 96.36
+        }
+    },
+    {
+        "room_id": "ROOM0055",
+        "room_name": "GW-010",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 77.24,
+            "y": 7.72,
+            "z": 81.9
+        }
+    },
+    {
+        "room_id": "ROOM0056",
+        "room_name": "GW-011",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 50.56,
+            "y": 14.94,
+            "z": 37.03
+        }
+    },
+    {
+        "room_id": "ROOM0057",
+        "room_name": "GW-012",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 11.54,
+            "y": 0.82,
+            "z": 65.54
+        }
+    },
+    {
+        "room_id": "ROOM0058",
+        "room_name": "GW-013",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 74.76,
+            "y": 5.54,
+            "z": 99.82
+        }
+    },
+    {
+        "room_id": "ROOM0059",
+        "room_name": "GW-014",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 22.38,
+            "y": 1.08,
+            "z": 75.91
+        }
+    },
+    {
+        "room_id": "ROOM0060",
+        "room_name": "GW-015",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 12.6,
+            "y": 6.91,
+            "z": 62.3
+        }
+    },
+    {
+        "room_id": "ROOM0061",
+        "room_name": "GW-016",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 23.89,
+            "y": 9.27,
+            "z": 57.41
+        }
+    },
+    {
+        "room_id": "ROOM0062",
+        "room_name": "GW-017",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 15.84,
+            "y": 4.63,
+            "z": 15.16
+        }
+    },
+    {
+        "room_id": "ROOM0063",
+        "room_name": "GW-018",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 92.75,
+            "y": 2.42,
+            "z": 58.73
+        }
+    },
+    {
+        "room_id": "ROOM0064",
+        "room_name": "GW-019",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 46.24,
+            "y": 7.95,
+            "z": 37.4
+        }
+    },
+    {
+        "room_id": "ROOM0065",
+        "room_name": "GW-020",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 97.25,
+            "y": 16.94,
+            "z": 95.78
+        }
+    },
+    {
+        "room_id": "ROOM0066",
+        "room_name": "GW-021",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 56.74,
+            "y": 17.92,
+            "z": 71.12
+        }
+    },
+    {
+        "room_id": "ROOM0067",
+        "room_name": "GW-022",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 45.72,
+            "y": 3.66,
+            "z": 19.07
+        }
+    },
+    {
+        "room_id": "ROOM0068",
+        "room_name": "GW-023",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 29.58,
+            "y": 15.04,
+            "z": 74.55
+        }
+    },
+    {
+        "room_id": "ROOM0069",
+        "room_name": "GW-024",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 37.1,
+            "y": 12.74,
+            "z": 61.87
+        }
+    },
+    {
+        "room_id": "ROOM0070",
+        "room_name": "GW-025",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 64.63,
+            "y": 2.79,
+            "z": 53.17
+        }
+    },
+    {
+        "room_id": "ROOM0071",
+        "room_name": "GW-026",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 80.01,
+            "y": 0.6,
+            "z": 24.42
+        }
+    },
+    {
+        "room_id": "ROOM0072",
+        "room_name": "GW-027",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 77.75,
+            "y": 15.86,
+            "z": 91.01
+        }
+    },
+    {
+        "room_id": "ROOM0073",
+        "room_name": "GW-028",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 93.38,
+            "y": 18.41,
+            "z": 90.54
+        }
+    },
+    {
+        "room_id": "ROOM0074",
+        "room_name": "GW-029",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 75.11,
+            "y": 4.85,
+            "z": 29.83
+        }
+    },
+    {
+        "room_id": "ROOM0075",
+        "room_name": "GW-030",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 27.32,
+            "y": 6.58,
+            "z": 11.46
+        }
+    },
+    {
+        "room_id": "ROOM0076",
+        "room_name": "GW-031",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 35.38,
+            "y": 2.44,
+            "z": 58.24
+        }
+    },
+    {
+        "room_id": "ROOM0077",
+        "room_name": "GW-032",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 72.75,
+            "y": 7.43,
+            "z": 22.56
+        }
+    },
+    {
+        "room_id": "ROOM0078",
+        "room_name": "GW-033",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 43.13,
+            "y": 18.79,
+            "z": 62.77
+        }
+    },
+    {
+        "room_id": "ROOM0079",
+        "room_name": "GW-034",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 7.59,
+            "y": 1.54,
+            "z": 1.78
+        }
+    },
+    {
+        "room_id": "ROOM0080",
+        "room_name": "GW-035",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 86.58,
+            "y": 11.56,
+            "z": 69.2
+        }
+    },
+    {
+        "room_id": "ROOM0081",
+        "room_name": "GW-036",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 83.06,
+            "y": 15.49,
+            "z": 42.14
+        }
+    },
+    {
+        "room_id": "ROOM0082",
+        "room_name": "GW-037",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 53.23,
+            "y": 16.67,
+            "z": 2.37
+        }
+    },
+    {
+        "room_id": "ROOM0083",
+        "room_name": "GW-038",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 87.01,
+            "y": 19.82,
+            "z": 71.29
+        }
+    },
+    {
+        "room_id": "ROOM0084",
+        "room_name": "GW-039",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 24.2,
+            "y": 2.09,
+            "z": 5.84
+        }
+    },
+    {
+        "room_id": "ROOM0085",
+        "room_name": "GW-040",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 70.49,
+            "y": 18.25,
+            "z": 64.32
+        }
+    },
+    {
+        "room_id": "ROOM0086",
+        "room_name": "GW-041",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 28.41,
+            "y": 7.65,
+            "z": 70.55
+        }
+    },
+    {
+        "room_id": "ROOM0087",
+        "room_name": "GW-042",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 76.9,
+            "y": 15.26,
+            "z": 50.19
+        }
+    },
+    {
+        "room_id": "ROOM0088",
+        "room_name": "GW-043",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 31.88,
+            "y": 14.6,
+            "z": 71.8
+        }
+    },
+    {
+        "room_id": "ROOM0089",
+        "room_name": "GW-044",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 38.14,
+            "y": 0.72,
+            "z": 19.48
+        }
+    },
+    {
+        "room_id": "ROOM0090",
+        "room_name": "GW-045",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 58.83,
+            "y": 9.58,
+            "z": 99.9
+        }
+    },
+    {
+        "room_id": "ROOM0091",
+        "room_name": "GW-046",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 90.25,
+            "y": 5.04,
+            "z": 16.09
+        }
+    },
+    {
+        "room_id": "ROOM0092",
+        "room_name": "GW-047",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 79.77,
+            "y": 3.73,
+            "z": 57.41
+        }
+    },
+    {
+        "room_id": "ROOM0093",
+        "room_name": "GW-048",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 24.92,
+            "y": 16.07,
+            "z": 99.66
+        }
+    },
+    {
+        "room_id": "ROOM0094",
+        "room_name": "GW-049",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 35.61,
+            "y": 9.52,
+            "z": 60.13
+        }
+    },
+    {
+        "room_id": "ROOM0095",
+        "room_name": "GW-050",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 82.49,
+            "y": 19.32,
+            "z": 7.84
+        }
+    },
+    {
+        "room_id": "ROOM0096",
+        "room_name": "GW-051",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 45.58,
+            "y": 13.73,
+            "z": 79.05
+        }
+    },
+    {
+        "room_id": "ROOM0097",
+        "room_name": "GW-052",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 9.41,
+            "y": 6.0,
+            "z": 22.36
+        }
+    },
+    {
+        "room_id": "ROOM0098",
+        "room_name": "GW-053",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 18.75,
+            "y": 9.17,
+            "z": 30.59
+        }
+    },
+    {
+        "room_id": "ROOM0099",
+        "room_name": "GW-054",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 10.25,
+            "y": 11.68,
+            "z": 76.32
+        }
+    },
+    {
+        "room_id": "ROOM0100",
+        "room_name": "GW-055",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 99.87,
+            "y": 12.29,
+            "z": 90.64
+        }
+    },
+    {
+        "room_id": "ROOM0101",
+        "room_name": "GW-056",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 9.87,
+            "y": 0.16,
+            "z": 5.61
+        }
+    },
+    {
+        "room_id": "ROOM0102",
+        "room_name": "GW-057",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 59.46,
+            "y": 9.62,
+            "z": 24.11
+        }
+    },
+    {
+        "room_id": "ROOM0103",
+        "room_name": "GW-058",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 25.27,
+            "y": 0.95,
+            "z": 91.32
+        }
+    },
+    {
+        "room_id": "ROOM0104",
+        "room_name": "GW-059",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 85.59,
+            "y": 0.34,
+            "z": 30.46
+        }
+    },
+    {
+        "room_id": "ROOM0105",
+        "room_name": "GW-060",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 31.48,
+            "y": 6.34,
+            "z": 17.79
+        }
+    },
+    {
+        "room_id": "ROOM0106",
+        "room_name": "GW-061",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 89.79,
+            "y": 16.14,
+            "z": 22.95
+        }
+    },
+    {
+        "room_id": "ROOM0107",
+        "room_name": "GW-062",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 76.27,
+            "y": 15.48,
+            "z": 66.5
+        }
+    },
+    {
+        "room_id": "ROOM0108",
+        "room_name": "GW-063",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 51.0,
+            "y": 8.29,
+            "z": 0.79
+        }
+    },
+    {
+        "room_id": "ROOM0109",
+        "room_name": "GW-064",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 86.2,
+            "y": 18.16,
+            "z": 9.41
+        }
+    },
+    {
+        "room_id": "ROOM0110",
+        "room_name": "GW-065",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 54.58,
+            "y": 9.44,
+            "z": 2.22
+        }
+    },
+    {
+        "room_id": "ROOM0111",
+        "room_name": "GW-066",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 38.9,
+            "y": 6.43,
+            "z": 41.65
+        }
+    },
+    {
+        "room_id": "ROOM0112",
+        "room_name": "GW-067",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 97.92,
+            "y": 8.03,
+            "z": 74.03
+        }
+    },
+    {
+        "room_id": "ROOM0113",
+        "room_name": "GW-068",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 92.42,
+            "y": 16.13,
+            "z": 75.03
+        }
+    },
+    {
+        "room_id": "ROOM0114",
+        "room_name": "GW-069",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 42.06,
+            "y": 4.31,
+            "z": 73.74
+        }
+    },
+    {
+        "room_id": "ROOM0115",
+        "room_name": "GW-070",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 70.38,
+            "y": 5.18,
+            "z": 6.08
+        }
+    },
+    {
+        "room_id": "ROOM0116",
+        "room_name": "GW-071",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 56.33,
+            "y": 4.2,
+            "z": 85.17
+        }
+    },
+    {
+        "room_id": "ROOM0117",
+        "room_name": "GW-072",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 86.82,
+            "y": 3.73,
+            "z": 23.43
+        }
+    },
+    {
+        "room_id": "ROOM0118",
+        "room_name": "GW-073",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 3.32,
+            "y": 6.69,
+            "z": 80.73
+        }
+    },
+    {
+        "room_id": "ROOM0119",
+        "room_name": "GW-074",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 57.87,
+            "y": 14.46,
+            "z": 58.81
+        }
+    },
+    {
+        "room_id": "ROOM0120",
+        "room_name": "GW-075",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 66.26,
+            "y": 1.14,
+            "z": 85.49
+        }
+    },
+    {
+        "room_id": "ROOM0121",
+        "room_name": "GW-076",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 29.87,
+            "y": 5.43,
+            "z": 89.06
+        }
+    },
+    {
+        "room_id": "ROOM0122",
+        "room_name": "GW-077",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 37.3,
+            "y": 17.31,
+            "z": 71.21
+        }
+    },
+    {
+        "room_id": "ROOM0123",
+        "room_name": "GW-078",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 40.25,
+            "y": 12.99,
+            "z": 15.15
+        }
+    },
+    {
+        "room_id": "ROOM0124",
+        "room_name": "GW-079",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 49.46,
+            "y": 9.93,
+            "z": 94.36
+        }
+    },
+    {
+        "room_id": "ROOM0125",
+        "room_name": "GW-080",
+        "department": "General Ward",
+        "floor": 3,
+        "capacity": 6,
+        "coordinates": {
+            "x": 38.31,
+            "y": 17.03,
+            "z": 41.06
+        }
+    },
+    {
+        "room_id": "ROOM0126",
+        "room_name": "CARD-001",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 15.69,
+            "y": 14.32,
+            "z": 41.32
+        }
+    },
+    {
+        "room_id": "ROOM0127",
+        "room_name": "CARD-002",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 30.58,
+            "y": 10.26,
+            "z": 50.75
+        }
+    },
+    {
+        "room_id": "ROOM0128",
+        "room_name": "CARD-003",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 16.18,
+            "y": 8.97,
+            "z": 69.39
+        }
+    },
+    {
+        "room_id": "ROOM0129",
+        "room_name": "CARD-004",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 39.62,
+            "y": 6.92,
+            "z": 93.12
+        }
+    },
+    {
+        "room_id": "ROOM0130",
+        "room_name": "CARD-005",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 59.93,
+            "y": 10.73,
+            "z": 34.68
+        }
+    },
+    {
+        "room_id": "ROOM0131",
+        "room_name": "CARD-006",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 72.73,
+            "y": 3.92,
+            "z": 22.56
+        }
+    },
+    {
+        "room_id": "ROOM0132",
+        "room_name": "CARD-007",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 66.84,
+            "y": 11.71,
+            "z": 91.16
+        }
+    },
+    {
+        "room_id": "ROOM0133",
+        "room_name": "CARD-008",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 21.97,
+            "y": 0.44,
+            "z": 42.1
+        }
+    },
+    {
+        "room_id": "ROOM0134",
+        "room_name": "CARD-009",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 62.02,
+            "y": 14.88,
+            "z": 8.83
+        }
+    },
+    {
+        "room_id": "ROOM0135",
+        "room_name": "CARD-010",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 86.1,
+            "y": 15.56,
+            "z": 9.78
+        }
+    },
+    {
+        "room_id": "ROOM0136",
+        "room_name": "CARD-011",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 40.19,
+            "y": 10.47,
+            "z": 0.23
+        }
+    },
+    {
+        "room_id": "ROOM0137",
+        "room_name": "CARD-012",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 83.96,
+            "y": 11.9,
+            "z": 40.1
+        }
+    },
+    {
+        "room_id": "ROOM0138",
+        "room_name": "CARD-013",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 43.11,
+            "y": 2.67,
+            "z": 95.7
+        }
+    },
+    {
+        "room_id": "ROOM0139",
+        "room_name": "CARD-014",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 85.87,
+            "y": 18.35,
+            "z": 78.14
+        }
+    },
+    {
+        "room_id": "ROOM0140",
+        "room_name": "CARD-015",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 50.51,
+            "y": 10.35,
+            "z": 2.97
+        }
+    },
+    {
+        "room_id": "ROOM0141",
+        "room_name": "CARD-016",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 23.39,
+            "y": 8.21,
+            "z": 33.4
+        }
+    },
+    {
+        "room_id": "ROOM0142",
+        "room_name": "CARD-017",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 49.78,
+            "y": 3.68,
+            "z": 18.71
+        }
+    },
+    {
+        "room_id": "ROOM0143",
+        "room_name": "CARD-018",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 29.05,
+            "y": 16.95,
+            "z": 16.51
+        }
+    },
+    {
+        "room_id": "ROOM0144",
+        "room_name": "CARD-019",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 58.37,
+            "y": 2.22,
+            "z": 83.53
+        }
+    },
+    {
+        "room_id": "ROOM0145",
+        "room_name": "CARD-020",
+        "department": "Cardiology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 61.38,
+            "y": 5.51,
+            "z": 65.98
+        }
+    },
+    {
+        "room_id": "ROOM0146",
+        "room_name": "NEU-001",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 20.95,
+            "y": 15.31,
+            "z": 36.4
+        }
+    },
+    {
+        "room_id": "ROOM0147",
+        "room_name": "NEU-002",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 39.66,
+            "y": 17.01,
+            "z": 29.61
+        }
+    },
+    {
+        "room_id": "ROOM0148",
+        "room_name": "NEU-003",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 89.62,
+            "y": 15.31,
+            "z": 72.17
+        }
+    },
+    {
+        "room_id": "ROOM0149",
+        "room_name": "NEU-004",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 68.57,
+            "y": 9.69,
+            "z": 39.87
+        }
+    },
+    {
+        "room_id": "ROOM0150",
+        "room_name": "NEU-005",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 9.92,
+            "y": 1.63,
+            "z": 85.49
+        }
+    },
+    {
+        "room_id": "ROOM0151",
+        "room_name": "NEU-006",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 23.29,
+            "y": 7.53,
+            "z": 20.24
+        }
+    },
+    {
+        "room_id": "ROOM0152",
+        "room_name": "NEU-007",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 46.61,
+            "y": 8.08,
+            "z": 25.85
+        }
+    },
+    {
+        "room_id": "ROOM0153",
+        "room_name": "NEU-008",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 98.37,
+            "y": 9.56,
+            "z": 62.5
+        }
+    },
+    {
+        "room_id": "ROOM0154",
+        "room_name": "NEU-009",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 83.85,
+            "y": 4.99,
+            "z": 99.74
+        }
+    },
+    {
+        "room_id": "ROOM0155",
+        "room_name": "NEU-010",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 86.39,
+            "y": 2.74,
+            "z": 63.02
+        }
+    },
+    {
+        "room_id": "ROOM0156",
+        "room_name": "NEU-011",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 69.23,
+            "y": 7.84,
+            "z": 95.57
+        }
+    },
+    {
+        "room_id": "ROOM0157",
+        "room_name": "NEU-012",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 98.93,
+            "y": 2.68,
+            "z": 22.48
+        }
+    },
+    {
+        "room_id": "ROOM0158",
+        "room_name": "NEU-013",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 11.85,
+            "y": 1.73,
+            "z": 91.79
+        }
+    },
+    {
+        "room_id": "ROOM0159",
+        "room_name": "NEU-014",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 38.32,
+            "y": 7.09,
+            "z": 90.52
+        }
+    },
+    {
+        "room_id": "ROOM0160",
+        "room_name": "NEU-015",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 83.57,
+            "y": 17.25,
+            "z": 30.1
+        }
+    },
+    {
+        "room_id": "ROOM0161",
+        "room_name": "NEU-016",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 52.83,
+            "y": 0.82,
+            "z": 20.85
+        }
+    },
+    {
+        "room_id": "ROOM0162",
+        "room_name": "NEU-017",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 42.04,
+            "y": 19.17,
+            "z": 41.23
+        }
+    },
+    {
+        "room_id": "ROOM0163",
+        "room_name": "NEU-018",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 37.91,
+            "y": 3.94,
+            "z": 51.42
+        }
+    },
+    {
+        "room_id": "ROOM0164",
+        "room_name": "NEU-019",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 82.0,
+            "y": 10.52,
+            "z": 71.1
+        }
+    },
+    {
+        "room_id": "ROOM0165",
+        "room_name": "NEU-020",
+        "department": "Neurology",
+        "floor": 4,
+        "capacity": 4,
+        "coordinates": {
+            "x": 46.93,
+            "y": 10.62,
+            "z": 54.83
+        }
+    },
+    {
+        "room_id": "ROOM0166",
+        "room_name": "ORTH-001",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 65.76,
+            "y": 14.54,
+            "z": 50.5
+        }
+    },
+    {
+        "room_id": "ROOM0167",
+        "room_name": "ORTH-002",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 31.43,
+            "y": 14.68,
+            "z": 96.14
+        }
+    },
+    {
+        "room_id": "ROOM0168",
+        "room_name": "ORTH-003",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 9.06,
+            "y": 5.31,
+            "z": 1.86
+        }
+    },
+    {
+        "room_id": "ROOM0169",
+        "room_name": "ORTH-004",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 15.44,
+            "y": 18.78,
+            "z": 31.49
+        }
+    },
+    {
+        "room_id": "ROOM0170",
+        "room_name": "ORTH-005",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 97.9,
+            "y": 2.03,
+            "z": 97.6
+        }
+    },
+    {
+        "room_id": "ROOM0171",
+        "room_name": "ORTH-006",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 12.22,
+            "y": 13.17,
+            "z": 72.57
+        }
+    },
+    {
+        "room_id": "ROOM0172",
+        "room_name": "ORTH-007",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 43.85,
+            "y": 6.67,
+            "z": 99.79
+        }
+    },
+    {
+        "room_id": "ROOM0173",
+        "room_name": "ORTH-008",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 55.93,
+            "y": 4.26,
+            "z": 62.2
+        }
+    },
+    {
+        "room_id": "ROOM0174",
+        "room_name": "ORTH-009",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 78.52,
+            "y": 5.95,
+            "z": 42.95
+        }
+    },
+    {
+        "room_id": "ROOM0175",
+        "room_name": "ORTH-010",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 52.83,
+            "y": 16.0,
+            "z": 13.67
+        }
+    },
+    {
+        "room_id": "ROOM0176",
+        "room_name": "ORTH-011",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 80.72,
+            "y": 0.39,
+            "z": 15.18
+        }
+    },
+    {
+        "room_id": "ROOM0177",
+        "room_name": "ORTH-012",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 96.04,
+            "y": 2.12,
+            "z": 52.24
+        }
+    },
+    {
+        "room_id": "ROOM0178",
+        "room_name": "ORTH-013",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 59.56,
+            "y": 17.63,
+            "z": 41.22
+        }
+    },
+    {
+        "room_id": "ROOM0179",
+        "room_name": "ORTH-014",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 96.95,
+            "y": 17.34,
+            "z": 10.93
+        }
+    },
+    {
+        "room_id": "ROOM0180",
+        "room_name": "ORTH-015",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 18.37,
+            "y": 10.11,
+            "z": 79.52
+        }
+    },
+    {
+        "room_id": "ROOM0181",
+        "room_name": "ORTH-016",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 73.75,
+            "y": 6.78,
+            "z": 28.41
+        }
+    },
+    {
+        "room_id": "ROOM0182",
+        "room_name": "ORTH-017",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 37.4,
+            "y": 3.97,
+            "z": 2.28
+        }
+    },
+    {
+        "room_id": "ROOM0183",
+        "room_name": "ORTH-018",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 63.36,
+            "y": 19.59,
+            "z": 26.21
+        }
+    },
+    {
+        "room_id": "ROOM0184",
+        "room_name": "ORTH-019",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 46.2,
+            "y": 0.66,
+            "z": 82.86
+        }
+    },
+    {
+        "room_id": "ROOM0185",
+        "room_name": "ORTH-020",
+        "department": "Orthopedics",
+        "floor": 5,
+        "capacity": 4,
+        "coordinates": {
+            "x": 8.38,
+            "y": 8.23,
+            "z": 77.7
+        }
+    },
+    {
+        "room_id": "ROOM0186",
+        "room_name": "RAD-001",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 18.64,
+            "y": 0.34,
+            "z": 55.98
+        }
+    },
+    {
+        "room_id": "ROOM0187",
+        "room_name": "RAD-002",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 15.58,
+            "y": 1.42,
+            "z": 53.94
+        }
+    },
+    {
+        "room_id": "ROOM0188",
+        "room_name": "RAD-003",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 70.83,
+            "y": 15.82,
+            "z": 95.42
+        }
+    },
+    {
+        "room_id": "ROOM0189",
+        "room_name": "RAD-004",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 0.35,
+            "y": 16.48,
+            "z": 96.59
+        }
+    },
+    {
+        "room_id": "ROOM0190",
+        "room_name": "RAD-005",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 57.82,
+            "y": 0.47,
+            "z": 59.4
+        }
+    },
+    {
+        "room_id": "ROOM0191",
+        "room_name": "RAD-006",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 13.38,
+            "y": 0.02,
+            "z": 46.7
+        }
+    },
+    {
+        "room_id": "ROOM0192",
+        "room_name": "RAD-007",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 78.05,
+            "y": 7.83,
+            "z": 25.77
+        }
+    },
+    {
+        "room_id": "ROOM0193",
+        "room_name": "RAD-008",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 35.52,
+            "y": 10.89,
+            "z": 58.57
+        }
+    },
+    {
+        "room_id": "ROOM0194",
+        "room_name": "RAD-009",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 82.03,
+            "y": 2.28,
+            "z": 61.52
+        }
+    },
+    {
+        "room_id": "ROOM0195",
+        "room_name": "RAD-010",
+        "department": "Radiology",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 32.48,
+            "y": 6.46,
+            "z": 96.23
+        }
+    },
+    {
+        "room_id": "ROOM0196",
+        "room_name": "LAB-001",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 31.74,
+            "y": 5.69,
+            "z": 28.67
+        }
+    },
+    {
+        "room_id": "ROOM0197",
+        "room_name": "LAB-002",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 83.89,
+            "y": 9.61,
+            "z": 48.13
+        }
+    },
+    {
+        "room_id": "ROOM0198",
+        "room_name": "LAB-003",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 83.9,
+            "y": 13.06,
+            "z": 1.44
+        }
+    },
+    {
+        "room_id": "ROOM0199",
+        "room_name": "LAB-004",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 98.63,
+            "y": 12.99,
+            "z": 36.28
+        }
+    },
+    {
+        "room_id": "ROOM0200",
+        "room_name": "LAB-005",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 19.19,
+            "y": 18.64,
+            "z": 86.51
+        }
+    },
+    {
+        "room_id": "ROOM0201",
+        "room_name": "LAB-006",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 6.55,
+            "y": 7.11,
+            "z": 33.05
+        }
+    },
+    {
+        "room_id": "ROOM0202",
+        "room_name": "LAB-007",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 72.92,
+            "y": 12.5,
+            "z": 88.32
+        }
+    },
+    {
+        "room_id": "ROOM0203",
+        "room_name": "LAB-008",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 88.66,
+            "y": 13.71,
+            "z": 74.89
+        }
+    },
+    {
+        "room_id": "ROOM0204",
+        "room_name": "LAB-009",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 20.91,
+            "y": 14.67,
+            "z": 51.22
+        }
+    },
+    {
+        "room_id": "ROOM0205",
+        "room_name": "LAB-010",
+        "department": "Laboratory",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 94.44,
+            "y": 6.59,
+            "z": 27.61
+        }
+    },
+    {
+        "room_id": "ROOM0206",
+        "room_name": "PHARM-001",
+        "department": "Pharmacy",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 34.38,
+            "y": 0.28,
+            "z": 38.13
+        }
+    },
+    {
+        "room_id": "ROOM0207",
+        "room_name": "PHARM-002",
+        "department": "Pharmacy",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 36.99,
+            "y": 18.43,
+            "z": 52.58
+        }
+    },
+    {
+        "room_id": "ROOM0208",
+        "room_name": "PHARM-003",
+        "department": "Pharmacy",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 57.21,
+            "y": 10.84,
+            "z": 93.74
+        }
+    },
+    {
+        "room_id": "ROOM0209",
+        "room_name": "PHARM-004",
+        "department": "Pharmacy",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 30.35,
+            "y": 5.71,
+            "z": 46.62
+        }
+    },
+    {
+        "room_id": "ROOM0210",
+        "room_name": "PHARM-005",
+        "department": "Pharmacy",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 44.07,
+            "y": 13.73,
+            "z": 45.24
+        }
+    },
+    {
+        "room_id": "ROOM0211",
+        "room_name": "ADMIN-001",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 47.96,
+            "y": 19.5,
+            "z": 10.27
+        }
+    },
+    {
+        "room_id": "ROOM0212",
+        "room_name": "ADMIN-002",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 5.11,
+            "y": 1.3,
+            "z": 75.29
+        }
+    },
+    {
+        "room_id": "ROOM0213",
+        "room_name": "ADMIN-003",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 4.0,
+            "y": 14.45,
+            "z": 87.62
+        }
+    },
+    {
+        "room_id": "ROOM0214",
+        "room_name": "ADMIN-004",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 90.27,
+            "y": 5.81,
+            "z": 37.69
+        }
+    },
+    {
+        "room_id": "ROOM0215",
+        "room_name": "ADMIN-005",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 3.32,
+            "y": 15.72,
+            "z": 67.58
+        }
+    },
+    {
+        "room_id": "ROOM0216",
+        "room_name": "ADMIN-006",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 70.13,
+            "y": 6.33,
+            "z": 69.58
+        }
+    },
+    {
+        "room_id": "ROOM0217",
+        "room_name": "ADMIN-007",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 21.81,
+            "y": 13.29,
+            "z": 11.37
+        }
+    },
+    {
+        "room_id": "ROOM0218",
+        "room_name": "ADMIN-008",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 83.0,
+            "y": 11.89,
+            "z": 39.99
+        }
+    },
+    {
+        "room_id": "ROOM0219",
+        "room_name": "ADMIN-009",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 76.78,
+            "y": 6.96,
+            "z": 21.25
+        }
+    },
+    {
+        "room_id": "ROOM0220",
+        "room_name": "ADMIN-010",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 50.11,
+            "y": 10.6,
+            "z": 97.72
+        }
+    },
+    {
+        "room_id": "ROOM0221",
+        "room_name": "ADMIN-011",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 50.44,
+            "y": 17.94,
+            "z": 72.19
+        }
+    },
+    {
+        "room_id": "ROOM0222",
+        "room_name": "ADMIN-012",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 42.21,
+            "y": 15.02,
+            "z": 21.23
+        }
+    },
+    {
+        "room_id": "ROOM0223",
+        "room_name": "ADMIN-013",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 52.83,
+            "y": 9.02,
+            "z": 42.9
+        }
+    },
+    {
+        "room_id": "ROOM0224",
+        "room_name": "ADMIN-014",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 32.68,
+            "y": 14.5,
+            "z": 7.86
+        }
+    },
+    {
+        "room_id": "ROOM0225",
+        "room_name": "ADMIN-015",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 15.12,
+            "y": 10.17,
+            "z": 92.86
+        }
+    },
+    {
+        "room_id": "ROOM0226",
+        "room_name": "ADMIN-016",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 56.39,
+            "y": 14.09,
+            "z": 66.61
+        }
+    },
+    {
+        "room_id": "ROOM0227",
+        "room_name": "ADMIN-017",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 31.06,
+            "y": 5.78,
+            "z": 61.8
+        }
+    },
+    {
+        "room_id": "ROOM0228",
+        "room_name": "ADMIN-018",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 42.5,
+            "y": 18.54,
+            "z": 99.2
+        }
+    },
+    {
+        "room_id": "ROOM0229",
+        "room_name": "ADMIN-019",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 46.09,
+            "y": 13.48,
+            "z": 71.4
+        }
+    },
+    {
+        "room_id": "ROOM0230",
+        "room_name": "ADMIN-020",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 1.95,
+            "y": 13.87,
+            "z": 62.81
+        }
+    },
+    {
+        "room_id": "ROOM0231",
+        "room_name": "ADMIN-021",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 74.19,
+            "y": 16.53,
+            "z": 86.88
+        }
+    },
+    {
+        "room_id": "ROOM0232",
+        "room_name": "ADMIN-022",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 78.79,
+            "y": 8.75,
+            "z": 38.46
+        }
+    },
+    {
+        "room_id": "ROOM0233",
+        "room_name": "ADMIN-023",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 6.01,
+            "y": 1.48,
+            "z": 90.14
+        }
+    },
+    {
+        "room_id": "ROOM0234",
+        "room_name": "ADMIN-024",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 39.38,
+            "y": 12.3,
+            "z": 94.6
+        }
+    },
+    {
+        "room_id": "ROOM0235",
+        "room_name": "ADMIN-025",
+        "department": "Administration",
+        "floor": 6,
+        "capacity": 2,
+        "coordinates": {
+            "x": 22.35,
+            "y": 17.34,
+            "z": 9.32
+        }
+    },
+    {
+        "room_id": "ROOM0236",
+        "room_name": "REC-001",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 67.16,
+            "y": 19.59,
+            "z": 83.55
+        }
+    },
+    {
+        "room_id": "ROOM0237",
+        "room_name": "REC-002",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 23.81,
+            "y": 16.76,
+            "z": 75.36
+        }
+    },
+    {
+        "room_id": "ROOM0238",
+        "room_name": "REC-003",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 74.73,
+            "y": 7.11,
+            "z": 5.06
+        }
+    },
+    {
+        "room_id": "ROOM0239",
+        "room_name": "REC-004",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 11.01,
+            "y": 3.66,
+            "z": 88.84
+        }
+    },
+    {
+        "room_id": "ROOM0240",
+        "room_name": "REC-005",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 13.2,
+            "y": 10.34,
+            "z": 46.78
+        }
+    },
+    {
+        "room_id": "ROOM0241",
+        "room_name": "REC-006",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 16.63,
+            "y": 6.95,
+            "z": 98.22
+        }
+    },
+    {
+        "room_id": "ROOM0242",
+        "room_name": "REC-007",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 10.77,
+            "y": 19.32,
+            "z": 32.91
+        }
+    },
+    {
+        "room_id": "ROOM0243",
+        "room_name": "REC-008",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 84.64,
+            "y": 6.05,
+            "z": 32.16
+        }
+    },
+    {
+        "room_id": "ROOM0244",
+        "room_name": "REC-009",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 52.8,
+            "y": 14.31,
+            "z": 95.7
+        }
+    },
+    {
+        "room_id": "ROOM0245",
+        "room_name": "REC-010",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 17.68,
+            "y": 14.91,
+            "z": 35.82
+        }
+    },
+    {
+        "room_id": "ROOM0246",
+        "room_name": "REC-011",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 89.57,
+            "y": 4.66,
+            "z": 31.9
+        }
+    },
+    {
+        "room_id": "ROOM0247",
+        "room_name": "REC-012",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 75.54,
+            "y": 19.48,
+            "z": 9.52
+        }
+    },
+    {
+        "room_id": "ROOM0248",
+        "room_name": "REC-013",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 94.03,
+            "y": 13.34,
+            "z": 5.2
+        }
+    },
+    {
+        "room_id": "ROOM0249",
+        "room_name": "REC-014",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 51.42,
+            "y": 15.51,
+            "z": 75.37
+        }
+    },
+    {
+        "room_id": "ROOM0250",
+        "room_name": "REC-015",
+        "department": "Reception",
+        "floor": 1,
+        "capacity": 2,
+        "coordinates": {
+            "x": 3.22,
+            "y": 12.74,
+            "z": 51.18
+        }
+    }
+]

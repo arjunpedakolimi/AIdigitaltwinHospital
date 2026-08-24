@@ -1,0 +1,447 @@
+equipment_id,equipment_name,department_id,department_name,room_id,status,installation_year,last_service_days,next_service_due_days,manufacturer,purchase_cost
+EQP000001,Infusion Pump,DEP0001,Emergency,ROOM0001,Operational,2018,77,24,Siemens,4842645
+EQP000002,ECG Machine,DEP0001,Emergency,ROOM0001,Operational,2020,99,34,Philips,2503478
+EQP000003,ECG Machine,DEP0001,Emergency,ROOM0002,Operational,2019,161,64,Mindray,4635511
+EQP000004,Defibrillator,DEP0001,Emergency,ROOM0002,Operational,2019,25,46,Dräger,1272264
+EQP000005,Infusion Pump,DEP0001,Emergency,ROOM0002,Operational,2024,69,36,Siemens,801373
+EQP000006,Patient Monitor,DEP0001,Emergency,ROOM0002,Operational,2021,151,8,Philips,1184625
+EQP000007,ECG Machine,DEP0001,Emergency,ROOM0003,Operational,2019,44,23,Dräger,3856595
+EQP000008,Defibrillator,DEP0001,Emergency,ROOM0003,Operational,2018,90,62,Philips,239278
+EQP000009,Infusion Pump,DEP0001,Emergency,ROOM0003,Operational,2020,111,3,Mindray,1622018
+EQP000010,Patient Monitor,DEP0001,Emergency,ROOM0004,Operational,2021,21,87,Mindray,4909772
+EQP000011,Defibrillator,DEP0001,Emergency,ROOM0004,Operational,2021,144,36,GE Healthcare,1199919
+EQP000012,Infusion Pump,DEP0001,Emergency,ROOM0004,Operational,2021,88,50,Siemens,2402809
+EQP000013,Infusion Pump,DEP0001,Emergency,ROOM0005,Operational,2018,74,26,Philips,1330744
+EQP000014,ECG Machine,DEP0001,Emergency,ROOM0005,Operational,2025,38,66,Siemens,109286
+EQP000015,Infusion Pump,DEP0001,Emergency,ROOM0006,Offline,2018,130,31,Siemens,3253531
+EQP000016,ECG Machine,DEP0001,Emergency,ROOM0006,Operational,2023,18,81,GE Healthcare,259643
+EQP000017,ECG Machine,DEP0001,Emergency,ROOM0007,Operational,2025,84,36,Siemens,4049779
+EQP000018,Defibrillator,DEP0001,Emergency,ROOM0007,Maintenance,2023,38,90,GE Healthcare,818056
+EQP000019,Infusion Pump,DEP0001,Emergency,ROOM0007,Operational,2018,17,55,Medtronic,2844391
+EQP000020,Infusion Pump,DEP0001,Emergency,ROOM0008,Operational,2022,147,84,Siemens,1696101
+EQP000021,Patient Monitor,DEP0001,Emergency,ROOM0008,Operational,2021,144,8,Medtronic,2059013
+EQP000022,Infusion Pump,DEP0001,Emergency,ROOM0009,Operational,2018,72,35,Dräger,536320
+EQP000023,ECG Machine,DEP0001,Emergency,ROOM0009,Operational,2024,118,50,GE Healthcare,3658257
+EQP000024,Defibrillator,DEP0001,Emergency,ROOM0009,Operational,2025,124,84,Mindray,1714677
+EQP000025,Patient Monitor,DEP0001,Emergency,ROOM0009,Operational,2024,34,35,Philips,2402566
+EQP000026,Defibrillator,DEP0001,Emergency,ROOM0010,Operational,2024,64,70,Dräger,4321926
+EQP000027,Patient Monitor,DEP0001,Emergency,ROOM0011,Operational,2024,119,64,Philips,4598198
+EQP000028,Patient Monitor,DEP0001,Emergency,ROOM0012,Operational,2022,121,63,Medtronic,2640668
+EQP000029,Defibrillator,DEP0001,Emergency,ROOM0012,Operational,2025,27,11,GE Healthcare,2953882
+EQP000030,ECG Machine,DEP0001,Emergency,ROOM0012,Operational,2019,78,26,Medtronic,4419766
+EQP000031,Patient Monitor,DEP0001,Emergency,ROOM0013,Operational,2021,153,47,Dräger,966609
+EQP000032,ECG Machine,DEP0001,Emergency,ROOM0013,Operational,2025,57,38,Dräger,4712038
+EQP000033,ECG Machine,DEP0001,Emergency,ROOM0014,Operational,2020,134,69,Siemens,4295288
+EQP000034,Defibrillator,DEP0001,Emergency,ROOM0015,Operational,2018,132,88,Mindray,2654738
+EQP000035,Infusion Pump,DEP0001,Emergency,ROOM0016,Operational,2021,162,2,Dräger,2252063
+EQP000036,Patient Monitor,DEP0001,Emergency,ROOM0016,Operational,2024,149,56,Medtronic,1378823
+EQP000037,Defibrillator,DEP0001,Emergency,ROOM0016,Operational,2025,103,57,Mindray,670106
+EQP000038,Infusion Pump,DEP0001,Emergency,ROOM0017,Operational,2022,172,47,Philips,1257386
+EQP000039,Defibrillator,DEP0001,Emergency,ROOM0018,Operational,2018,97,55,Siemens,347286
+EQP000040,Infusion Pump,DEP0001,Emergency,ROOM0018,Operational,2024,8,54,Medtronic,2290482
+EQP000041,Patient Monitor,DEP0001,Emergency,ROOM0018,Operational,2024,6,5,Medtronic,101147
+EQP000042,Infusion Pump,DEP0001,Emergency,ROOM0019,Operational,2021,15,16,Dräger,1507299
+EQP000043,Infusion Pump,DEP0001,Emergency,ROOM0020,Operational,2025,107,57,Dräger,3054431
+EQP000044,Patient Monitor,DEP0001,Emergency,ROOM0020,Maintenance,2018,179,13,Philips,431249
+EQP000045,ECG Machine,DEP0001,Emergency,ROOM0020,Operational,2019,70,86,GE Healthcare,3717673
+EQP000046,Defibrillator,DEP0002,ICU,ROOM0021,Operational,2019,94,84,Mindray,831218
+EQP000047,Patient Monitor,DEP0002,ICU,ROOM0021,Operational,2020,69,86,Dräger,4780288
+EQP000048,Ventilator,DEP0002,ICU,ROOM0021,Offline,2021,37,79,Philips,3767981
+EQP000049,Patient Monitor,DEP0002,ICU,ROOM0022,Maintenance,2025,45,88,Dräger,4699689
+EQP000050,Syringe Pump,DEP0002,ICU,ROOM0023,Maintenance,2023,153,50,Mindray,2743488
+EQP000051,Infusion Pump,DEP0002,ICU,ROOM0023,Operational,2023,108,31,Dräger,2020512
+EQP000052,Defibrillator,DEP0002,ICU,ROOM0023,Maintenance,2019,45,29,Siemens,2250234
+EQP000053,Ventilator,DEP0002,ICU,ROOM0023,Operational,2018,168,50,Dräger,1214503
+EQP000054,Patient Monitor,DEP0002,ICU,ROOM0023,Operational,2021,36,18,Philips,350855
+EQP000055,Defibrillator,DEP0002,ICU,ROOM0024,Operational,2025,156,56,Philips,2075192
+EQP000056,Ventilator,DEP0002,ICU,ROOM0024,Operational,2020,122,54,Mindray,700678
+EQP000057,Syringe Pump,DEP0002,ICU,ROOM0024,Operational,2025,91,42,GE Healthcare,2657559
+EQP000058,Infusion Pump,DEP0002,ICU,ROOM0024,Operational,2019,97,82,Siemens,922061
+EQP000059,Defibrillator,DEP0002,ICU,ROOM0025,Operational,2022,133,30,Siemens,411965
+EQP000060,Defibrillator,DEP0002,ICU,ROOM0026,Operational,2018,180,45,GE Healthcare,4798695
+EQP000061,Patient Monitor,DEP0002,ICU,ROOM0026,Operational,2018,72,89,Dräger,4690399
+EQP000062,Infusion Pump,DEP0002,ICU,ROOM0026,Operational,2024,163,6,GE Healthcare,115519
+EQP000063,Patient Monitor,DEP0002,ICU,ROOM0027,Operational,2022,28,3,Siemens,3273034
+EQP000064,Defibrillator,DEP0002,ICU,ROOM0027,Operational,2025,37,32,Dräger,1924972
+EQP000065,Infusion Pump,DEP0002,ICU,ROOM0027,Operational,2022,118,51,Mindray,354211
+EQP000066,Ventilator,DEP0002,ICU,ROOM0027,Operational,2020,167,49,Medtronic,2887812
+EQP000067,Syringe Pump,DEP0002,ICU,ROOM0027,Operational,2024,80,55,Medtronic,4980153
+EQP000068,Defibrillator,DEP0002,ICU,ROOM0028,Operational,2025,25,76,Philips,1301730
+EQP000069,Infusion Pump,DEP0002,ICU,ROOM0028,Operational,2024,1,24,Mindray,3532109
+EQP000070,Ventilator,DEP0002,ICU,ROOM0028,Operational,2022,156,60,Dräger,4406638
+EQP000071,Infusion Pump,DEP0002,ICU,ROOM0029,Operational,2021,94,85,Philips,4235226
+EQP000072,Syringe Pump,DEP0002,ICU,ROOM0029,Operational,2025,133,22,Dräger,505777
+EQP000073,Infusion Pump,DEP0002,ICU,ROOM0030,Maintenance,2025,45,72,Siemens,4880081
+EQP000074,Ventilator,DEP0002,ICU,ROOM0030,Operational,2020,118,5,Mindray,3059660
+EQP000075,Syringe Pump,DEP0002,ICU,ROOM0031,Operational,2020,10,15,Dräger,1374828
+EQP000076,Infusion Pump,DEP0002,ICU,ROOM0031,Maintenance,2022,109,11,Dräger,2259515
+EQP000077,Ventilator,DEP0002,ICU,ROOM0031,Operational,2022,165,73,Medtronic,2438585
+EQP000078,Defibrillator,DEP0002,ICU,ROOM0031,Operational,2022,93,51,Philips,136203
+EQP000079,Patient Monitor,DEP0002,ICU,ROOM0031,Operational,2023,90,59,Philips,268698
+EQP000080,Syringe Pump,DEP0002,ICU,ROOM0032,Operational,2020,51,85,Dräger,4615115
+EQP000081,Defibrillator,DEP0002,ICU,ROOM0032,Operational,2020,163,24,GE Healthcare,986117
+EQP000082,Ventilator,DEP0002,ICU,ROOM0032,Operational,2025,49,14,Siemens,2860797
+EQP000083,Infusion Pump,DEP0002,ICU,ROOM0032,Operational,2020,93,89,Siemens,4882079
+EQP000084,Patient Monitor,DEP0002,ICU,ROOM0032,Operational,2025,173,36,Philips,3270659
+EQP000085,Patient Monitor,DEP0002,ICU,ROOM0033,Offline,2024,138,16,Siemens,334014
+EQP000086,Infusion Pump,DEP0002,ICU,ROOM0034,Operational,2019,25,8,Medtronic,4380884
+EQP000087,Patient Monitor,DEP0002,ICU,ROOM0034,Operational,2023,111,8,Siemens,1035861
+EQP000088,Syringe Pump,DEP0002,ICU,ROOM0034,Operational,2020,101,78,GE Healthcare,944648
+EQP000089,Ventilator,DEP0002,ICU,ROOM0034,Operational,2023,152,35,Dräger,351043
+EQP000090,Defibrillator,DEP0002,ICU,ROOM0034,Operational,2018,97,80,GE Healthcare,2499417
+EQP000091,Infusion Pump,DEP0002,ICU,ROOM0035,Operational,2018,105,36,Mindray,2815902
+EQP000092,Ventilator,DEP0002,ICU,ROOM0035,Operational,2019,51,72,Medtronic,1779883
+EQP000093,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0036,Operational,2022,81,55,Philips,1820295
+EQP000094,Surgical Light,DEP0003,Operation Theatre,ROOM0036,Maintenance,2020,41,48,Philips,899132
+EQP000095,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0037,Offline,2025,126,63,GE Healthcare,4315694
+EQP000096,Patient Monitor,DEP0003,Operation Theatre,ROOM0037,Operational,2024,49,39,Medtronic,248101
+EQP000097,Surgical Light,DEP0003,Operation Theatre,ROOM0037,Operational,2021,74,14,Dräger,1895324
+EQP000098,Electrosurgical Unit,DEP0003,Operation Theatre,ROOM0037,Operational,2022,170,31,Mindray,3533062
+EQP000099,Electrosurgical Unit,DEP0003,Operation Theatre,ROOM0038,Operational,2024,4,89,Mindray,2732754
+EQP000100,Surgical Light,DEP0003,Operation Theatre,ROOM0038,Operational,2020,39,23,GE Healthcare,3821122
+EQP000101,Surgical Light,DEP0003,Operation Theatre,ROOM0039,Operational,2022,118,56,Dräger,2499648
+EQP000102,Patient Monitor,DEP0003,Operation Theatre,ROOM0040,Operational,2018,5,12,Medtronic,2684752
+EQP000103,Electrosurgical Unit,DEP0003,Operation Theatre,ROOM0040,Operational,2023,11,48,Medtronic,4996881
+EQP000104,Surgical Light,DEP0003,Operation Theatre,ROOM0040,Maintenance,2018,39,54,GE Healthcare,4840554
+EQP000105,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0040,Operational,2024,4,80,Medtronic,4123745
+EQP000106,Electrosurgical Unit,DEP0003,Operation Theatre,ROOM0041,Operational,2020,5,22,GE Healthcare,3574692
+EQP000107,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0041,Operational,2019,179,61,Dräger,99794
+EQP000108,Surgical Light,DEP0003,Operation Theatre,ROOM0042,Operational,2018,173,23,Siemens,3385294
+EQP000109,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0043,Operational,2023,39,76,Dräger,1492300
+EQP000110,Patient Monitor,DEP0003,Operation Theatre,ROOM0043,Operational,2019,132,86,Philips,833917
+EQP000111,Electrosurgical Unit,DEP0003,Operation Theatre,ROOM0043,Operational,2018,50,8,Dräger,1381108
+EQP000112,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0044,Operational,2020,115,72,GE Healthcare,2152040
+EQP000113,Patient Monitor,DEP0003,Operation Theatre,ROOM0044,Operational,2020,180,87,Medtronic,4262699
+EQP000114,Anesthesia Machine,DEP0003,Operation Theatre,ROOM0045,Operational,2022,78,35,Medtronic,4438855
+EQP000115,Patient Monitor,DEP0003,Operation Theatre,ROOM0045,Operational,2023,22,37,Siemens,2685511
+EQP000116,Patient Monitor,DEP0004,General Ward,ROOM0046,Operational,2025,129,55,Philips,985790
+EQP000117,Infusion Pump,DEP0004,General Ward,ROOM0046,Offline,2022,138,11,Dräger,4390356
+EQP000118,Infusion Pump,DEP0004,General Ward,ROOM0047,Operational,2024,99,21,Siemens,4078337
+EQP000119,Patient Monitor,DEP0004,General Ward,ROOM0047,Operational,2020,164,31,Philips,3268302
+EQP000120,Patient Monitor,DEP0004,General Ward,ROOM0048,Operational,2019,168,7,Medtronic,1821313
+EQP000121,Patient Monitor,DEP0004,General Ward,ROOM0049,Operational,2025,153,55,Siemens,225738
+EQP000122,Infusion Pump,DEP0004,General Ward,ROOM0049,Operational,2023,75,21,Medtronic,698328
+EQP000123,Patient Monitor,DEP0004,General Ward,ROOM0050,Maintenance,2020,136,5,GE Healthcare,4021349
+EQP000124,Infusion Pump,DEP0004,General Ward,ROOM0051,Operational,2019,173,25,GE Healthcare,2692800
+EQP000125,Infusion Pump,DEP0004,General Ward,ROOM0052,Offline,2021,34,2,GE Healthcare,3276636
+EQP000126,Patient Monitor,DEP0004,General Ward,ROOM0052,Operational,2020,30,43,Mindray,4567511
+EQP000127,Infusion Pump,DEP0004,General Ward,ROOM0053,Maintenance,2025,88,57,Medtronic,1700386
+EQP000128,Infusion Pump,DEP0004,General Ward,ROOM0054,Operational,2025,95,18,Medtronic,181455
+EQP000129,Patient Monitor,DEP0004,General Ward,ROOM0054,Operational,2022,158,46,Mindray,4412196
+EQP000130,Infusion Pump,DEP0004,General Ward,ROOM0055,Operational,2020,9,14,GE Healthcare,907348
+EQP000131,Patient Monitor,DEP0004,General Ward,ROOM0056,Operational,2019,81,25,Mindray,1929911
+EQP000132,Infusion Pump,DEP0004,General Ward,ROOM0056,Operational,2019,15,48,GE Healthcare,3897415
+EQP000133,Infusion Pump,DEP0004,General Ward,ROOM0057,Operational,2022,64,4,Dräger,476553
+EQP000134,Infusion Pump,DEP0004,General Ward,ROOM0058,Operational,2021,85,9,Siemens,2505271
+EQP000135,Infusion Pump,DEP0004,General Ward,ROOM0059,Operational,2022,66,42,Mindray,3784715
+EQP000136,Patient Monitor,DEP0004,General Ward,ROOM0059,Operational,2023,131,37,GE Healthcare,2817763
+EQP000137,Patient Monitor,DEP0004,General Ward,ROOM0060,Operational,2024,132,50,Mindray,3864196
+EQP000138,Infusion Pump,DEP0004,General Ward,ROOM0060,Operational,2023,51,38,Philips,3088940
+EQP000139,Infusion Pump,DEP0004,General Ward,ROOM0061,Operational,2023,132,48,Dräger,2713741
+EQP000140,Patient Monitor,DEP0004,General Ward,ROOM0062,Operational,2022,21,50,Siemens,107113
+EQP000141,Infusion Pump,DEP0004,General Ward,ROOM0063,Operational,2018,107,79,Siemens,1901464
+EQP000142,Patient Monitor,DEP0004,General Ward,ROOM0063,Operational,2023,100,31,Philips,2068539
+EQP000143,Infusion Pump,DEP0004,General Ward,ROOM0064,Maintenance,2019,117,51,Philips,96044
+EQP000144,Patient Monitor,DEP0004,General Ward,ROOM0064,Operational,2023,73,49,Dräger,4415795
+EQP000145,Patient Monitor,DEP0004,General Ward,ROOM0065,Operational,2022,37,4,GE Healthcare,3566699
+EQP000146,Patient Monitor,DEP0004,General Ward,ROOM0066,Operational,2025,37,65,Dräger,1202740
+EQP000147,Patient Monitor,DEP0004,General Ward,ROOM0067,Operational,2025,179,72,Philips,3149401
+EQP000148,Infusion Pump,DEP0004,General Ward,ROOM0068,Operational,2025,68,56,Mindray,3829627
+EQP000149,Infusion Pump,DEP0004,General Ward,ROOM0069,Operational,2022,43,29,Philips,846503
+EQP000150,Patient Monitor,DEP0004,General Ward,ROOM0070,Operational,2025,64,9,Medtronic,4695920
+EQP000151,Infusion Pump,DEP0004,General Ward,ROOM0070,Operational,2021,125,68,Dräger,3791408
+EQP000152,Patient Monitor,DEP0004,General Ward,ROOM0071,Operational,2023,99,86,Mindray,1845641
+EQP000153,Infusion Pump,DEP0004,General Ward,ROOM0072,Operational,2018,169,43,Siemens,2017027
+EQP000154,Patient Monitor,DEP0004,General Ward,ROOM0073,Offline,2018,69,42,Philips,3519055
+EQP000155,Infusion Pump,DEP0004,General Ward,ROOM0073,Operational,2022,131,43,GE Healthcare,934484
+EQP000156,Infusion Pump,DEP0004,General Ward,ROOM0074,Operational,2020,164,15,Philips,3627235
+EQP000157,Patient Monitor,DEP0004,General Ward,ROOM0075,Operational,2025,168,35,Medtronic,3387840
+EQP000158,Infusion Pump,DEP0004,General Ward,ROOM0075,Operational,2018,158,19,Philips,1730878
+EQP000159,Infusion Pump,DEP0004,General Ward,ROOM0076,Operational,2022,78,73,GE Healthcare,1789664
+EQP000160,Patient Monitor,DEP0004,General Ward,ROOM0076,Operational,2020,156,74,Mindray,3960619
+EQP000161,Patient Monitor,DEP0004,General Ward,ROOM0077,Operational,2019,163,1,Dräger,1739450
+EQP000162,Infusion Pump,DEP0004,General Ward,ROOM0078,Operational,2018,105,25,Philips,307450
+EQP000163,Patient Monitor,DEP0004,General Ward,ROOM0078,Operational,2020,57,56,Dräger,4358081
+EQP000164,Infusion Pump,DEP0004,General Ward,ROOM0079,Operational,2022,168,56,Siemens,3606419
+EQP000165,Patient Monitor,DEP0004,General Ward,ROOM0080,Maintenance,2023,101,64,Siemens,4128687
+EQP000166,Infusion Pump,DEP0004,General Ward,ROOM0080,Operational,2018,132,23,Mindray,3186913
+EQP000167,Infusion Pump,DEP0004,General Ward,ROOM0081,Operational,2019,83,17,Philips,1172557
+EQP000168,Patient Monitor,DEP0004,General Ward,ROOM0081,Operational,2018,161,73,Philips,4342788
+EQP000169,Infusion Pump,DEP0004,General Ward,ROOM0082,Operational,2021,25,85,Medtronic,3725835
+EQP000170,Patient Monitor,DEP0004,General Ward,ROOM0082,Maintenance,2018,58,37,Siemens,3949649
+EQP000171,Infusion Pump,DEP0004,General Ward,ROOM0083,Operational,2022,129,75,Mindray,4638828
+EQP000172,Patient Monitor,DEP0004,General Ward,ROOM0084,Operational,2022,37,72,Philips,4466850
+EQP000173,Infusion Pump,DEP0004,General Ward,ROOM0085,Operational,2020,27,41,Medtronic,3218618
+EQP000174,Patient Monitor,DEP0004,General Ward,ROOM0086,Operational,2018,139,60,Philips,423673
+EQP000175,Infusion Pump,DEP0004,General Ward,ROOM0087,Operational,2021,53,65,Mindray,141822
+EQP000176,Patient Monitor,DEP0004,General Ward,ROOM0087,Operational,2022,89,3,Medtronic,4294905
+EQP000177,Patient Monitor,DEP0004,General Ward,ROOM0088,Operational,2024,42,28,Medtronic,1747218
+EQP000178,Infusion Pump,DEP0004,General Ward,ROOM0089,Operational,2019,122,28,Medtronic,4321589
+EQP000179,Patient Monitor,DEP0004,General Ward,ROOM0090,Operational,2021,43,86,Medtronic,3023022
+EQP000180,Infusion Pump,DEP0004,General Ward,ROOM0090,Operational,2022,157,50,Mindray,3114875
+EQP000181,Infusion Pump,DEP0004,General Ward,ROOM0091,Operational,2021,45,76,GE Healthcare,4112067
+EQP000182,Patient Monitor,DEP0004,General Ward,ROOM0091,Operational,2025,13,37,Mindray,3476565
+EQP000183,Infusion Pump,DEP0004,General Ward,ROOM0092,Operational,2018,141,5,Siemens,3077434
+EQP000184,Infusion Pump,DEP0004,General Ward,ROOM0093,Operational,2025,5,10,Siemens,159641
+EQP000185,Patient Monitor,DEP0004,General Ward,ROOM0093,Operational,2020,109,61,Dräger,3071554
+EQP000186,Patient Monitor,DEP0004,General Ward,ROOM0094,Operational,2020,7,18,Dräger,1427225
+EQP000187,Patient Monitor,DEP0004,General Ward,ROOM0095,Operational,2025,91,81,Siemens,544121
+EQP000188,Patient Monitor,DEP0004,General Ward,ROOM0096,Operational,2022,16,53,Medtronic,1789011
+EQP000189,Infusion Pump,DEP0004,General Ward,ROOM0096,Operational,2018,74,6,GE Healthcare,4163034
+EQP000190,Infusion Pump,DEP0004,General Ward,ROOM0097,Operational,2025,103,30,Philips,1550321
+EQP000191,Patient Monitor,DEP0004,General Ward,ROOM0097,Operational,2024,28,88,Philips,1279636
+EQP000192,Patient Monitor,DEP0004,General Ward,ROOM0098,Operational,2018,64,21,Philips,781357
+EQP000193,Infusion Pump,DEP0004,General Ward,ROOM0099,Operational,2020,11,87,Siemens,517243
+EQP000194,Patient Monitor,DEP0004,General Ward,ROOM0099,Operational,2019,158,62,Dräger,1211480
+EQP000195,Infusion Pump,DEP0004,General Ward,ROOM0100,Operational,2025,129,77,Mindray,1847491
+EQP000196,Patient Monitor,DEP0004,General Ward,ROOM0101,Maintenance,2025,31,65,Medtronic,1913571
+EQP000197,Patient Monitor,DEP0004,General Ward,ROOM0102,Operational,2020,48,70,GE Healthcare,2694263
+EQP000198,Patient Monitor,DEP0004,General Ward,ROOM0103,Maintenance,2022,90,19,Siemens,1705663
+EQP000199,Infusion Pump,DEP0004,General Ward,ROOM0103,Operational,2018,149,55,Mindray,2439696
+EQP000200,Patient Monitor,DEP0004,General Ward,ROOM0104,Operational,2018,106,32,Dräger,242098
+EQP000201,Infusion Pump,DEP0004,General Ward,ROOM0104,Operational,2021,31,12,Medtronic,194955
+EQP000202,Infusion Pump,DEP0004,General Ward,ROOM0105,Operational,2020,133,20,Dräger,4039075
+EQP000203,Patient Monitor,DEP0004,General Ward,ROOM0106,Operational,2019,158,80,Siemens,2380057
+EQP000204,Infusion Pump,DEP0004,General Ward,ROOM0106,Offline,2021,80,5,Mindray,2181693
+EQP000205,Infusion Pump,DEP0004,General Ward,ROOM0107,Operational,2022,75,27,Medtronic,4067080
+EQP000206,Infusion Pump,DEP0004,General Ward,ROOM0108,Operational,2019,40,65,Medtronic,3046888
+EQP000207,Patient Monitor,DEP0004,General Ward,ROOM0109,Operational,2023,114,11,GE Healthcare,2166816
+EQP000208,Infusion Pump,DEP0004,General Ward,ROOM0109,Operational,2023,116,2,Medtronic,4229926
+EQP000209,Infusion Pump,DEP0004,General Ward,ROOM0110,Operational,2022,50,15,GE Healthcare,2683615
+EQP000210,Patient Monitor,DEP0004,General Ward,ROOM0111,Operational,2024,99,25,Siemens,701319
+EQP000211,Infusion Pump,DEP0004,General Ward,ROOM0112,Operational,2023,147,7,GE Healthcare,4310494
+EQP000212,Patient Monitor,DEP0004,General Ward,ROOM0112,Maintenance,2022,6,49,Mindray,608694
+EQP000213,Patient Monitor,DEP0004,General Ward,ROOM0113,Operational,2022,97,3,Philips,1268811
+EQP000214,Patient Monitor,DEP0004,General Ward,ROOM0114,Operational,2022,148,59,Medtronic,493864
+EQP000215,Infusion Pump,DEP0004,General Ward,ROOM0114,Maintenance,2024,165,59,Mindray,2714020
+EQP000216,Infusion Pump,DEP0004,General Ward,ROOM0115,Operational,2023,173,29,Mindray,958703
+EQP000217,Patient Monitor,DEP0004,General Ward,ROOM0116,Operational,2024,138,78,Medtronic,4980433
+EQP000218,Infusion Pump,DEP0004,General Ward,ROOM0117,Operational,2022,150,56,Medtronic,2233813
+EQP000219,Patient Monitor,DEP0004,General Ward,ROOM0117,Operational,2020,123,75,Siemens,2321662
+EQP000220,Infusion Pump,DEP0004,General Ward,ROOM0118,Maintenance,2020,110,44,Medtronic,3313066
+EQP000221,Patient Monitor,DEP0004,General Ward,ROOM0119,Operational,2018,119,89,Siemens,3081621
+EQP000222,Patient Monitor,DEP0004,General Ward,ROOM0120,Offline,2025,178,86,Medtronic,1109030
+EQP000223,Infusion Pump,DEP0004,General Ward,ROOM0120,Operational,2020,28,17,GE Healthcare,1727352
+EQP000224,Infusion Pump,DEP0004,General Ward,ROOM0121,Operational,2022,130,73,Mindray,3850308
+EQP000225,Patient Monitor,DEP0004,General Ward,ROOM0121,Operational,2022,106,58,Philips,1677876
+EQP000226,Infusion Pump,DEP0004,General Ward,ROOM0122,Operational,2022,43,71,Siemens,1688953
+EQP000227,Patient Monitor,DEP0004,General Ward,ROOM0122,Operational,2019,107,24,Dräger,2876250
+EQP000228,Infusion Pump,DEP0004,General Ward,ROOM0123,Operational,2019,118,57,Medtronic,1255130
+EQP000229,Patient Monitor,DEP0004,General Ward,ROOM0123,Maintenance,2025,87,83,Philips,4907952
+EQP000230,Infusion Pump,DEP0004,General Ward,ROOM0124,Operational,2023,154,81,Mindray,1686169
+EQP000231,Patient Monitor,DEP0004,General Ward,ROOM0124,Operational,2020,67,73,Philips,1929017
+EQP000232,Infusion Pump,DEP0004,General Ward,ROOM0125,Operational,2024,161,34,Mindray,4211056
+EQP000233,Patient Monitor,DEP0004,General Ward,ROOM0125,Operational,2025,152,23,Dräger,3192596
+EQP000234,Stress Test System,DEP0005,Cardiology,ROOM0126,Operational,2022,167,3,Mindray,262188
+EQP000235,ECG Machine,DEP0005,Cardiology,ROOM0126,Operational,2018,9,84,Mindray,2741840
+EQP000236,Patient Monitor,DEP0005,Cardiology,ROOM0126,Operational,2025,15,49,Philips,4254701
+EQP000237,ECG Machine,DEP0005,Cardiology,ROOM0127,Operational,2024,38,51,Dräger,3912773
+EQP000238,Patient Monitor,DEP0005,Cardiology,ROOM0128,Operational,2020,179,55,Mindray,3710306
+EQP000239,Stress Test System,DEP0005,Cardiology,ROOM0128,Operational,2020,156,50,Philips,3318385
+EQP000240,ECG Machine,DEP0005,Cardiology,ROOM0128,Operational,2023,7,67,Philips,2836513
+EQP000241,ECG Machine,DEP0005,Cardiology,ROOM0129,Operational,2019,99,71,Philips,3266652
+EQP000242,Patient Monitor,DEP0005,Cardiology,ROOM0130,Offline,2022,41,5,Siemens,1629757
+EQP000243,Stress Test System,DEP0005,Cardiology,ROOM0130,Operational,2022,122,62,Siemens,4225629
+EQP000244,ECG Machine,DEP0005,Cardiology,ROOM0130,Operational,2023,85,48,Medtronic,1076142
+EQP000245,Stress Test System,DEP0005,Cardiology,ROOM0131,Operational,2024,11,40,GE Healthcare,2942881
+EQP000246,ECG Machine,DEP0005,Cardiology,ROOM0131,Offline,2024,180,43,Medtronic,1496492
+EQP000247,Patient Monitor,DEP0005,Cardiology,ROOM0131,Operational,2020,31,38,Siemens,2987662
+EQP000248,Patient Monitor,DEP0005,Cardiology,ROOM0132,Operational,2021,20,67,GE Healthcare,68588
+EQP000249,Stress Test System,DEP0005,Cardiology,ROOM0132,Operational,2019,36,90,Medtronic,562735
+EQP000250,Stress Test System,DEP0005,Cardiology,ROOM0133,Operational,2024,14,79,Dräger,1108606
+EQP000251,Patient Monitor,DEP0005,Cardiology,ROOM0133,Operational,2023,7,62,Mindray,3970425
+EQP000252,Patient Monitor,DEP0005,Cardiology,ROOM0134,Operational,2018,78,70,Siemens,4092073
+EQP000253,ECG Machine,DEP0005,Cardiology,ROOM0134,Operational,2018,179,80,Philips,4098483
+EQP000254,Stress Test System,DEP0005,Cardiology,ROOM0134,Operational,2023,60,13,Dräger,4868643
+EQP000255,Stress Test System,DEP0005,Cardiology,ROOM0135,Operational,2018,65,39,Siemens,4413217
+EQP000256,ECG Machine,DEP0005,Cardiology,ROOM0135,Maintenance,2020,54,86,GE Healthcare,4569492
+EQP000257,ECG Machine,DEP0005,Cardiology,ROOM0136,Operational,2025,122,76,Medtronic,2425557
+EQP000258,Patient Monitor,DEP0005,Cardiology,ROOM0137,Operational,2023,102,71,GE Healthcare,1844385
+EQP000259,Stress Test System,DEP0005,Cardiology,ROOM0137,Operational,2019,35,64,Medtronic,4447890
+EQP000260,Stress Test System,DEP0005,Cardiology,ROOM0138,Operational,2020,132,30,Philips,3044811
+EQP000261,ECG Machine,DEP0005,Cardiology,ROOM0138,Maintenance,2021,166,46,GE Healthcare,4907471
+EQP000262,Patient Monitor,DEP0005,Cardiology,ROOM0138,Operational,2019,166,64,Medtronic,4956738
+EQP000263,Stress Test System,DEP0005,Cardiology,ROOM0139,Operational,2025,172,88,GE Healthcare,1635647
+EQP000264,Patient Monitor,DEP0005,Cardiology,ROOM0139,Operational,2025,24,24,Mindray,4390822
+EQP000265,ECG Machine,DEP0005,Cardiology,ROOM0139,Operational,2025,58,23,GE Healthcare,1221814
+EQP000266,ECG Machine,DEP0005,Cardiology,ROOM0140,Operational,2018,21,46,Siemens,4461552
+EQP000267,Stress Test System,DEP0005,Cardiology,ROOM0140,Operational,2020,35,21,Philips,1403158
+EQP000268,Patient Monitor,DEP0005,Cardiology,ROOM0140,Operational,2023,165,61,Siemens,4905589
+EQP000269,Stress Test System,DEP0005,Cardiology,ROOM0141,Operational,2024,141,34,Dräger,2546205
+EQP000270,ECG Machine,DEP0005,Cardiology,ROOM0141,Operational,2021,32,71,Philips,215651
+EQP000271,Patient Monitor,DEP0005,Cardiology,ROOM0141,Operational,2024,43,71,Siemens,2100305
+EQP000272,Patient Monitor,DEP0005,Cardiology,ROOM0142,Maintenance,2021,172,21,Philips,4969057
+EQP000273,Stress Test System,DEP0005,Cardiology,ROOM0142,Operational,2019,84,25,GE Healthcare,2150990
+EQP000274,ECG Machine,DEP0005,Cardiology,ROOM0142,Operational,2021,53,15,GE Healthcare,1429344
+EQP000275,Patient Monitor,DEP0005,Cardiology,ROOM0143,Operational,2025,32,74,Medtronic,2537536
+EQP000276,ECG Machine,DEP0005,Cardiology,ROOM0143,Operational,2018,44,38,Dräger,888433
+EQP000277,Stress Test System,DEP0005,Cardiology,ROOM0143,Operational,2020,162,83,GE Healthcare,3031025
+EQP000278,Stress Test System,DEP0005,Cardiology,ROOM0144,Operational,2019,40,35,Medtronic,1775053
+EQP000279,ECG Machine,DEP0005,Cardiology,ROOM0144,Operational,2022,54,71,Philips,654394
+EQP000280,Patient Monitor,DEP0005,Cardiology,ROOM0144,Operational,2022,41,45,GE Healthcare,2153938
+EQP000281,ECG Machine,DEP0005,Cardiology,ROOM0145,Operational,2020,82,71,Dräger,3515752
+EQP000282,Stress Test System,DEP0005,Cardiology,ROOM0145,Operational,2025,153,47,Mindray,3273122
+EQP000283,Patient Monitor,DEP0005,Cardiology,ROOM0145,Operational,2024,94,62,Medtronic,3099805
+EQP000284,Patient Monitor,DEP0006,Neurology,ROOM0146,Operational,2022,39,71,Medtronic,1124164
+EQP000285,Patient Monitor,DEP0006,Neurology,ROOM0147,Operational,2018,41,56,Siemens,2241971
+EQP000286,EEG Machine,DEP0006,Neurology,ROOM0148,Operational,2021,49,24,GE Healthcare,1324576
+EQP000287,EEG Machine,DEP0006,Neurology,ROOM0149,Operational,2024,63,42,Dräger,4808910
+EQP000288,Patient Monitor,DEP0006,Neurology,ROOM0149,Operational,2019,111,32,Philips,2154651
+EQP000289,EEG Machine,DEP0006,Neurology,ROOM0150,Operational,2024,46,56,Mindray,4713175
+EQP000290,Patient Monitor,DEP0006,Neurology,ROOM0150,Offline,2019,59,29,Mindray,2539290
+EQP000291,EEG Machine,DEP0006,Neurology,ROOM0151,Operational,2025,77,74,Dräger,1016122
+EQP000292,Patient Monitor,DEP0006,Neurology,ROOM0151,Operational,2021,29,8,GE Healthcare,2090336
+EQP000293,EEG Machine,DEP0006,Neurology,ROOM0152,Operational,2019,154,78,Medtronic,3078434
+EQP000294,Patient Monitor,DEP0006,Neurology,ROOM0153,Operational,2022,119,43,Philips,4384133
+EQP000295,EEG Machine,DEP0006,Neurology,ROOM0153,Offline,2022,99,40,Medtronic,1413309
+EQP000296,EEG Machine,DEP0006,Neurology,ROOM0154,Operational,2018,35,72,Medtronic,4149800
+EQP000297,EEG Machine,DEP0006,Neurology,ROOM0155,Operational,2024,160,43,Siemens,2835042
+EQP000298,Patient Monitor,DEP0006,Neurology,ROOM0155,Operational,2019,40,44,Siemens,810121
+EQP000299,EEG Machine,DEP0006,Neurology,ROOM0156,Offline,2020,148,20,GE Healthcare,1805868
+EQP000300,Patient Monitor,DEP0006,Neurology,ROOM0156,Operational,2022,167,59,Siemens,3272776
+EQP000301,EEG Machine,DEP0006,Neurology,ROOM0157,Operational,2024,162,84,Philips,920791
+EQP000302,Patient Monitor,DEP0006,Neurology,ROOM0157,Operational,2024,175,14,GE Healthcare,2228332
+EQP000303,Patient Monitor,DEP0006,Neurology,ROOM0158,Operational,2021,14,42,Medtronic,588600
+EQP000304,Patient Monitor,DEP0006,Neurology,ROOM0159,Operational,2019,2,40,Philips,3538897
+EQP000305,Patient Monitor,DEP0006,Neurology,ROOM0160,Operational,2025,165,39,GE Healthcare,1963745
+EQP000306,Patient Monitor,DEP0006,Neurology,ROOM0161,Operational,2023,177,84,Mindray,1836402
+EQP000307,EEG Machine,DEP0006,Neurology,ROOM0162,Operational,2022,144,8,Medtronic,874768
+EQP000308,Patient Monitor,DEP0006,Neurology,ROOM0163,Maintenance,2019,172,52,Siemens,3883692
+EQP000309,Patient Monitor,DEP0006,Neurology,ROOM0164,Operational,2021,99,15,Siemens,2229069
+EQP000310,EEG Machine,DEP0006,Neurology,ROOM0165,Operational,2020,94,7,Mindray,4145014
+EQP000311,C-Arm,DEP0007,Orthopedics,ROOM0166,Operational,2019,112,18,Siemens,4749187
+EQP000312,X-Ray Machine,DEP0007,Orthopedics,ROOM0166,Operational,2018,17,18,GE Healthcare,2490969
+EQP000313,X-Ray Machine,DEP0007,Orthopedics,ROOM0167,Operational,2019,25,62,Philips,2670073
+EQP000314,C-Arm,DEP0007,Orthopedics,ROOM0168,Operational,2018,41,85,Mindray,353641
+EQP000315,Traction System,DEP0007,Orthopedics,ROOM0168,Operational,2023,22,32,GE Healthcare,1321034
+EQP000316,X-Ray Machine,DEP0007,Orthopedics,ROOM0168,Operational,2021,141,55,GE Healthcare,4901306
+EQP000317,C-Arm,DEP0007,Orthopedics,ROOM0169,Operational,2018,163,11,Siemens,3138416
+EQP000318,Traction System,DEP0007,Orthopedics,ROOM0169,Offline,2019,122,37,Dräger,654716
+EQP000319,X-Ray Machine,DEP0007,Orthopedics,ROOM0169,Operational,2022,80,33,Siemens,2521897
+EQP000320,Traction System,DEP0007,Orthopedics,ROOM0170,Maintenance,2018,17,52,Siemens,3231274
+EQP000321,X-Ray Machine,DEP0007,Orthopedics,ROOM0170,Operational,2018,163,7,Siemens,894089
+EQP000322,X-Ray Machine,DEP0007,Orthopedics,ROOM0171,Operational,2020,15,21,Siemens,3244915
+EQP000323,Traction System,DEP0007,Orthopedics,ROOM0171,Operational,2021,37,66,Siemens,3090640
+EQP000324,Traction System,DEP0007,Orthopedics,ROOM0172,Operational,2024,57,56,Philips,3354890
+EQP000325,X-Ray Machine,DEP0007,Orthopedics,ROOM0172,Operational,2023,121,6,Mindray,4780078
+EQP000326,C-Arm,DEP0007,Orthopedics,ROOM0173,Operational,2023,102,39,Siemens,2461235
+EQP000327,X-Ray Machine,DEP0007,Orthopedics,ROOM0173,Operational,2023,109,33,Dräger,3242237
+EQP000328,X-Ray Machine,DEP0007,Orthopedics,ROOM0174,Operational,2022,45,45,GE Healthcare,4542119
+EQP000329,Traction System,DEP0007,Orthopedics,ROOM0174,Maintenance,2020,118,66,GE Healthcare,4458800
+EQP000330,C-Arm,DEP0007,Orthopedics,ROOM0174,Operational,2025,39,13,Dräger,4659945
+EQP000331,C-Arm,DEP0007,Orthopedics,ROOM0175,Operational,2025,4,21,Mindray,4046896
+EQP000332,X-Ray Machine,DEP0007,Orthopedics,ROOM0175,Offline,2024,17,57,Mindray,4428648
+EQP000333,Traction System,DEP0007,Orthopedics,ROOM0176,Offline,2019,47,81,GE Healthcare,2493213
+EQP000334,C-Arm,DEP0007,Orthopedics,ROOM0176,Operational,2022,86,38,Mindray,4231085
+EQP000335,C-Arm,DEP0007,Orthopedics,ROOM0177,Operational,2024,162,32,Philips,2882399
+EQP000336,X-Ray Machine,DEP0007,Orthopedics,ROOM0178,Operational,2022,126,22,GE Healthcare,4743875
+EQP000337,Traction System,DEP0007,Orthopedics,ROOM0179,Operational,2023,71,38,Mindray,384043
+EQP000338,Traction System,DEP0007,Orthopedics,ROOM0180,Operational,2025,45,54,Dräger,4852837
+EQP000339,X-Ray Machine,DEP0007,Orthopedics,ROOM0180,Maintenance,2025,108,43,Mindray,1078197
+EQP000340,C-Arm,DEP0007,Orthopedics,ROOM0180,Operational,2024,22,60,Dräger,4919100
+EQP000341,X-Ray Machine,DEP0007,Orthopedics,ROOM0181,Maintenance,2021,173,8,GE Healthcare,4498034
+EQP000342,Traction System,DEP0007,Orthopedics,ROOM0181,Operational,2021,178,45,Dräger,3035224
+EQP000343,Traction System,DEP0007,Orthopedics,ROOM0182,Operational,2023,149,5,Mindray,1481418
+EQP000344,X-Ray Machine,DEP0007,Orthopedics,ROOM0182,Operational,2022,8,41,GE Healthcare,4004986
+EQP000345,X-Ray Machine,DEP0007,Orthopedics,ROOM0183,Operational,2021,157,19,Mindray,3270500
+EQP000346,C-Arm,DEP0007,Orthopedics,ROOM0183,Operational,2022,16,23,Mindray,1111066
+EQP000347,Traction System,DEP0007,Orthopedics,ROOM0184,Operational,2023,119,76,Siemens,3702519
+EQP000348,X-Ray Machine,DEP0007,Orthopedics,ROOM0184,Operational,2025,145,38,Medtronic,2098824
+EQP000349,C-Arm,DEP0007,Orthopedics,ROOM0184,Operational,2021,114,9,Philips,275052
+EQP000350,Traction System,DEP0007,Orthopedics,ROOM0185,Operational,2018,154,60,GE Healthcare,964887
+EQP000351,CT Scanner,DEP0008,Radiology,ROOM0186,Operational,2024,61,7,Mindray,210938
+EQP000352,X-Ray Machine,DEP0008,Radiology,ROOM0187,Operational,2022,34,86,Dräger,829585
+EQP000353,MRI Scanner,DEP0008,Radiology,ROOM0187,Operational,2024,2,32,GE Healthcare,847876
+EQP000354,Ultrasound Machine,DEP0008,Radiology,ROOM0187,Offline,2022,163,31,Dräger,4220086
+EQP000355,CT Scanner,DEP0008,Radiology,ROOM0187,Operational,2018,18,18,Dräger,2425229
+EQP000356,MRI Scanner,DEP0008,Radiology,ROOM0188,Operational,2022,126,4,Siemens,1578259
+EQP000357,Ultrasound Machine,DEP0008,Radiology,ROOM0188,Operational,2018,33,30,Siemens,2536837
+EQP000358,CT Scanner,DEP0008,Radiology,ROOM0188,Operational,2021,85,36,Mindray,1634100
+EQP000359,X-Ray Machine,DEP0008,Radiology,ROOM0189,Operational,2022,17,34,Mindray,515475
+EQP000360,X-Ray Machine,DEP0008,Radiology,ROOM0190,Maintenance,2022,27,76,Philips,3380569
+EQP000361,MRI Scanner,DEP0008,Radiology,ROOM0191,Operational,2020,6,48,Mindray,2129868
+EQP000362,X-Ray Machine,DEP0008,Radiology,ROOM0191,Operational,2025,171,55,Dräger,761996
+EQP000363,Ultrasound Machine,DEP0008,Radiology,ROOM0191,Operational,2019,90,42,Dräger,4662873
+EQP000364,Ultrasound Machine,DEP0008,Radiology,ROOM0192,Maintenance,2021,110,27,Mindray,4807264
+EQP000365,Ultrasound Machine,DEP0008,Radiology,ROOM0193,Operational,2019,178,63,Siemens,3438324
+EQP000366,CT Scanner,DEP0008,Radiology,ROOM0193,Operational,2018,25,25,Philips,1901894
+EQP000367,X-Ray Machine,DEP0008,Radiology,ROOM0193,Maintenance,2019,74,51,Mindray,3005737
+EQP000368,MRI Scanner,DEP0008,Radiology,ROOM0193,Operational,2025,4,36,Dräger,687557
+EQP000369,CT Scanner,DEP0008,Radiology,ROOM0194,Maintenance,2019,60,17,Mindray,932031
+EQP000370,X-Ray Machine,DEP0008,Radiology,ROOM0194,Operational,2025,94,83,Dräger,1009817
+EQP000371,MRI Scanner,DEP0008,Radiology,ROOM0194,Operational,2019,166,61,Mindray,612321
+EQP000372,Ultrasound Machine,DEP0008,Radiology,ROOM0194,Operational,2019,23,5,Siemens,3618157
+EQP000373,X-Ray Machine,DEP0008,Radiology,ROOM0195,Operational,2019,140,14,Mindray,3124904
+EQP000374,MRI Scanner,DEP0008,Radiology,ROOM0195,Operational,2020,150,65,Mindray,2310554
+EQP000375,Ultrasound Machine,DEP0008,Radiology,ROOM0195,Operational,2019,170,64,Philips,4010509
+EQP000376,CT Scanner,DEP0008,Radiology,ROOM0195,Operational,2022,131,38,Siemens,1008835
+EQP000377,Blood Analyzer,DEP0009,Laboratory,ROOM0196,Operational,2022,123,51,Dräger,4673752
+EQP000378,Blood Analyzer,DEP0009,Laboratory,ROOM0197,Offline,2025,143,1,Mindray,1475758
+EQP000379,Centrifuge,DEP0009,Laboratory,ROOM0197,Operational,2020,12,36,Siemens,1976360
+EQP000380,Microscope,DEP0009,Laboratory,ROOM0197,Offline,2022,115,3,Siemens,290175
+EQP000381,Blood Analyzer,DEP0009,Laboratory,ROOM0198,Operational,2020,139,64,Siemens,2525155
+EQP000382,Microscope,DEP0009,Laboratory,ROOM0198,Operational,2024,95,82,Mindray,3104731
+EQP000383,Microscope,DEP0009,Laboratory,ROOM0199,Operational,2022,89,69,Mindray,2638194
+EQP000384,Blood Analyzer,DEP0009,Laboratory,ROOM0199,Maintenance,2021,166,24,Dräger,1605258
+EQP000385,Centrifuge,DEP0009,Laboratory,ROOM0199,Operational,2022,104,55,Mindray,4109927
+EQP000386,Centrifuge,DEP0009,Laboratory,ROOM0200,Operational,2018,163,2,Philips,303614
+EQP000387,Microscope,DEP0009,Laboratory,ROOM0200,Operational,2023,19,53,GE Healthcare,2337533
+EQP000388,Blood Analyzer,DEP0009,Laboratory,ROOM0200,Maintenance,2020,114,71,Medtronic,2132017
+EQP000389,Centrifuge,DEP0009,Laboratory,ROOM0201,Operational,2021,125,87,Medtronic,2764232
+EQP000390,Blood Analyzer,DEP0009,Laboratory,ROOM0202,Operational,2019,61,53,Medtronic,3344824
+EQP000391,Microscope,DEP0009,Laboratory,ROOM0202,Operational,2020,106,11,Siemens,3704196
+EQP000392,Centrifuge,DEP0009,Laboratory,ROOM0202,Operational,2023,128,27,Medtronic,877684
+EQP000393,Centrifuge,DEP0009,Laboratory,ROOM0203,Operational,2021,108,38,Mindray,682049
+EQP000394,Blood Analyzer,DEP0009,Laboratory,ROOM0203,Maintenance,2021,127,72,Philips,4297010
+EQP000395,Microscope,DEP0009,Laboratory,ROOM0203,Operational,2024,3,22,Dräger,4508717
+EQP000396,Blood Analyzer,DEP0009,Laboratory,ROOM0204,Maintenance,2020,114,51,Mindray,2442301
+EQP000397,Centrifuge,DEP0009,Laboratory,ROOM0204,Operational,2019,125,82,Siemens,1503892
+EQP000398,Microscope,DEP0009,Laboratory,ROOM0204,Operational,2018,80,31,Mindray,3212189
+EQP000399,Centrifuge,DEP0009,Laboratory,ROOM0205,Operational,2021,92,2,Dräger,3033565
+EQP000400,Blood Analyzer,DEP0009,Laboratory,ROOM0205,Operational,2021,125,63,Siemens,941021
+EQP000401,Microscope,DEP0009,Laboratory,ROOM0205,Operational,2018,30,83,Philips,3657897
+EQP000402,Medicine Refrigerator,DEP0010,Pharmacy,ROOM0206,Operational,2021,29,67,Philips,1866564
+EQP000403,Dispensing Cabinet,DEP0010,Pharmacy,ROOM0207,Operational,2023,13,44,GE Healthcare,1706841
+EQP000404,Medicine Refrigerator,DEP0010,Pharmacy,ROOM0208,Offline,2021,34,69,Philips,3785759
+EQP000405,Dispensing Cabinet,DEP0010,Pharmacy,ROOM0209,Offline,2025,62,35,Philips,239945
+EQP000406,Medicine Refrigerator,DEP0010,Pharmacy,ROOM0210,Offline,2021,172,23,GE Healthcare,4958190
+EQP000407,Patient Monitor,DEP0011,Administration,ROOM0211,Operational,2024,115,13,Philips,3295836
+EQP000408,Patient Monitor,DEP0011,Administration,ROOM0212,Maintenance,2025,177,38,Mindray,1184336
+EQP000409,Patient Monitor,DEP0011,Administration,ROOM0213,Maintenance,2021,130,73,Siemens,2505304
+EQP000410,Patient Monitor,DEP0011,Administration,ROOM0214,Operational,2023,132,34,Mindray,3928371
+EQP000411,Patient Monitor,DEP0011,Administration,ROOM0215,Operational,2018,133,2,Dräger,1270909
+EQP000412,Patient Monitor,DEP0011,Administration,ROOM0216,Maintenance,2019,152,68,GE Healthcare,4171625
+EQP000413,Patient Monitor,DEP0011,Administration,ROOM0217,Operational,2021,137,33,Siemens,4560956
+EQP000414,Patient Monitor,DEP0011,Administration,ROOM0218,Operational,2024,64,30,Dräger,3197542
+EQP000415,Patient Monitor,DEP0011,Administration,ROOM0219,Offline,2023,62,35,GE Healthcare,1942664
+EQP000416,Patient Monitor,DEP0011,Administration,ROOM0220,Operational,2023,168,89,Medtronic,2298545
+EQP000417,Patient Monitor,DEP0011,Administration,ROOM0221,Operational,2019,68,83,Mindray,2235555
+EQP000418,Patient Monitor,DEP0011,Administration,ROOM0222,Operational,2019,13,27,GE Healthcare,4284390
+EQP000419,Patient Monitor,DEP0011,Administration,ROOM0223,Operational,2024,78,88,Dräger,4694561
+EQP000420,Patient Monitor,DEP0011,Administration,ROOM0224,Operational,2018,96,35,Siemens,2696230
+EQP000421,Patient Monitor,DEP0011,Administration,ROOM0225,Operational,2018,150,41,Philips,4210739
+EQP000422,Patient Monitor,DEP0011,Administration,ROOM0226,Operational,2019,44,40,Philips,2126754
+EQP000423,Patient Monitor,DEP0011,Administration,ROOM0227,Maintenance,2024,32,70,Dräger,3716924
+EQP000424,Patient Monitor,DEP0011,Administration,ROOM0228,Operational,2022,144,35,Mindray,4117589
+EQP000425,Patient Monitor,DEP0011,Administration,ROOM0229,Maintenance,2025,100,32,Mindray,4490082
+EQP000426,Patient Monitor,DEP0011,Administration,ROOM0230,Operational,2025,154,44,Siemens,2988567
+EQP000427,Patient Monitor,DEP0011,Administration,ROOM0231,Offline,2019,165,38,Philips,1902308
+EQP000428,Patient Monitor,DEP0011,Administration,ROOM0232,Operational,2023,138,74,Dräger,4380800
+EQP000429,Patient Monitor,DEP0011,Administration,ROOM0233,Operational,2021,113,76,Medtronic,2321129
+EQP000430,Patient Monitor,DEP0011,Administration,ROOM0234,Operational,2018,51,87,Siemens,3598209
+EQP000431,Patient Monitor,DEP0011,Administration,ROOM0235,Operational,2021,44,69,Dräger,2213605
+EQP000432,Patient Monitor,DEP0012,Reception,ROOM0236,Operational,2020,91,62,Siemens,1139939
+EQP000433,Patient Monitor,DEP0012,Reception,ROOM0237,Operational,2018,116,67,Siemens,3559662
+EQP000434,Patient Monitor,DEP0012,Reception,ROOM0238,Maintenance,2024,40,8,Siemens,613456
+EQP000435,Patient Monitor,DEP0012,Reception,ROOM0239,Operational,2024,125,18,Medtronic,4823778
+EQP000436,Patient Monitor,DEP0012,Reception,ROOM0240,Operational,2023,140,74,Dräger,1109687
+EQP000437,Patient Monitor,DEP0012,Reception,ROOM0241,Operational,2023,176,86,Medtronic,856503
+EQP000438,Patient Monitor,DEP0012,Reception,ROOM0242,Maintenance,2025,51,86,Philips,4319607
+EQP000439,Patient Monitor,DEP0012,Reception,ROOM0243,Operational,2019,106,9,GE Healthcare,4352753
+EQP000440,Patient Monitor,DEP0012,Reception,ROOM0244,Operational,2021,156,74,Philips,2431651
+EQP000441,Patient Monitor,DEP0012,Reception,ROOM0245,Operational,2023,72,44,Mindray,326365
+EQP000442,Patient Monitor,DEP0012,Reception,ROOM0246,Operational,2025,56,24,GE Healthcare,2250960
+EQP000443,Patient Monitor,DEP0012,Reception,ROOM0247,Operational,2020,21,10,GE Healthcare,805535
+EQP000444,Patient Monitor,DEP0012,Reception,ROOM0248,Operational,2025,145,36,Mindray,4758521
+EQP000445,Patient Monitor,DEP0012,Reception,ROOM0249,Operational,2023,170,67,Siemens,969814
+EQP000446,Patient Monitor,DEP0012,Reception,ROOM0250,Operational,2019,163,79,Mindray,2331564

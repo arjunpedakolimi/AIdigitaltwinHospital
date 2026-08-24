@@ -1,0 +1,207 @@
+alert_id,timestamp,severity,category,department_id,patient_id,message
+ALT00001,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00988,Patient PAT00988 has critically low SpO₂ (86%).
+ALT00002,2026-08-06 21:28:09.452685,High,Patient,,PAT00981,Patient PAT00981 has elevated heart rate (131 bpm).
+ALT00003,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00974,Patient PAT00974 has critically low SpO₂ (89%).
+ALT00004,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00970,Patient PAT00970 has critically low SpO₂ (82%).
+ALT00005,2026-08-06 21:28:09.452685,High,Patient,,PAT00964,Patient PAT00964 has elevated heart rate (134 bpm).
+ALT00006,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00960,Patient PAT00960 has critically low SpO₂ (89%).
+ALT00007,2026-08-06 21:28:09.452685,High,Patient,,PAT00960,Patient PAT00960 has elevated heart rate (134 bpm).
+ALT00008,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00954,Patient PAT00954 has critically low SpO₂ (84%).
+ALT00009,2026-08-06 21:28:09.452685,High,Patient,,PAT00952,Patient PAT00952 has elevated heart rate (134 bpm).
+ALT00010,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00946,Patient PAT00946 has critically low SpO₂ (89%).
+ALT00011,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00927,Patient PAT00927 has critically low SpO₂ (83%).
+ALT00012,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00911,Patient PAT00911 has critically low SpO₂ (89%).
+ALT00013,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00910,Patient PAT00910 has critically low SpO₂ (83%).
+ALT00014,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00898,Patient PAT00898 has critically low SpO₂ (88%).
+ALT00015,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00897,Patient PAT00897 has critically low SpO₂ (89%).
+ALT00016,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00887,Patient PAT00887 has critically low SpO₂ (89%).
+ALT00017,2026-08-06 21:28:09.452685,High,Patient,,PAT00887,Patient PAT00887 has elevated heart rate (137 bpm).
+ALT00018,2026-08-06 21:28:09.452685,High,Patient,,PAT00880,Patient PAT00880 has elevated heart rate (150 bpm).
+ALT00019,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00875,Patient PAT00875 has critically low SpO₂ (89%).
+ALT00020,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00862,Patient PAT00862 has critically low SpO₂ (89%).
+ALT00021,2026-08-06 21:28:09.452685,High,Patient,,PAT00856,Patient PAT00856 has elevated heart rate (132 bpm).
+ALT00022,2026-08-06 21:28:09.452685,High,Patient,,PAT00838,Patient PAT00838 has elevated heart rate (139 bpm).
+ALT00023,2026-08-06 21:28:09.452685,High,Patient,,PAT00832,Patient PAT00832 has elevated heart rate (133 bpm).
+ALT00024,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00818,Patient PAT00818 has critically low SpO₂ (88%).
+ALT00025,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00806,Patient PAT00806 has critically low SpO₂ (88%).
+ALT00026,2026-08-06 21:28:09.452685,High,Patient,,PAT00804,Patient PAT00804 has elevated heart rate (141 bpm).
+ALT00027,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00800,Patient PAT00800 has critically low SpO₂ (88%).
+ALT00028,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00798,Patient PAT00798 has critically low SpO₂ (88%).
+ALT00029,2026-08-06 21:28:09.452685,High,Patient,,PAT00795,Patient PAT00795 has elevated heart rate (145 bpm).
+ALT00030,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00759,Patient PAT00759 has critically low SpO₂ (88%).
+ALT00031,2026-08-06 21:28:09.452685,High,Patient,,PAT00744,Patient PAT00744 has elevated heart rate (131 bpm).
+ALT00032,2026-08-06 21:28:09.452685,High,Patient,,PAT00743,Patient PAT00743 has elevated heart rate (138 bpm).
+ALT00033,2026-08-06 21:28:09.452685,High,Patient,,PAT00742,Patient PAT00742 has elevated heart rate (139 bpm).
+ALT00034,2026-08-06 21:28:09.452685,High,Patient,,PAT00740,Patient PAT00740 has elevated heart rate (137 bpm).
+ALT00035,2026-08-06 21:28:09.452685,High,Patient,,PAT00729,Patient PAT00729 has elevated heart rate (135 bpm).
+ALT00036,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00718,Patient PAT00718 has critically low SpO₂ (87%).
+ALT00037,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00704,Patient PAT00704 has critically low SpO₂ (89%).
+ALT00038,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00697,Patient PAT00697 has critically low SpO₂ (88%).
+ALT00039,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00694,Patient PAT00694 has critically low SpO₂ (85%).
+ALT00040,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00691,Patient PAT00691 has critically low SpO₂ (88%).
+ALT00041,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00667,Patient PAT00667 has critically low SpO₂ (82%).
+ALT00042,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00664,Patient PAT00664 has critically low SpO₂ (82%).
+ALT00043,2026-08-06 21:28:09.452685,High,Patient,,PAT00663,Patient PAT00663 has elevated heart rate (148 bpm).
+ALT00044,2026-08-06 21:28:09.452685,High,Patient,,PAT00650,Patient PAT00650 has elevated heart rate (133 bpm).
+ALT00045,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00648,Patient PAT00648 has critically low SpO₂ (83%).
+ALT00046,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00643,Patient PAT00643 has critically low SpO₂ (88%).
+ALT00047,2026-08-06 21:28:09.452685,High,Patient,,PAT00638,Patient PAT00638 has elevated heart rate (145 bpm).
+ALT00048,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00634,Patient PAT00634 has critically low SpO₂ (83%).
+ALT00049,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00632,Patient PAT00632 has critically low SpO₂ (89%).
+ALT00050,2026-08-06 21:28:09.452685,High,Patient,,PAT00631,Patient PAT00631 has elevated heart rate (144 bpm).
+ALT00051,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00628,Patient PAT00628 has critically low SpO₂ (84%).
+ALT00052,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00623,Patient PAT00623 has critically low SpO₂ (88%).
+ALT00053,2026-08-06 21:28:09.452685,High,Patient,,PAT00614,Patient PAT00614 has elevated heart rate (138 bpm).
+ALT00054,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00610,Patient PAT00610 has critically low SpO₂ (85%).
+ALT00055,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00592,Patient PAT00592 has critically low SpO₂ (89%).
+ALT00056,2026-08-06 21:28:09.452685,High,Patient,,PAT00592,Patient PAT00592 has elevated heart rate (149 bpm).
+ALT00057,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00589,Patient PAT00589 has critically low SpO₂ (88%).
+ALT00058,2026-08-06 21:28:09.452685,High,Patient,,PAT00583,Patient PAT00583 has elevated heart rate (139 bpm).
+ALT00059,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00578,Patient PAT00578 has critically low SpO₂ (84%).
+ALT00060,2026-08-06 21:28:09.452685,High,Patient,,PAT00574,Patient PAT00574 has elevated heart rate (143 bpm).
+ALT00061,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00568,Patient PAT00568 has critically low SpO₂ (82%).
+ALT00062,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00554,Patient PAT00554 has critically low SpO₂ (85%).
+ALT00063,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00539,Patient PAT00539 has critically low SpO₂ (88%).
+ALT00064,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00532,Patient PAT00532 has critically low SpO₂ (89%).
+ALT00065,2026-08-06 21:28:09.452685,High,Patient,,PAT00523,Patient PAT00523 has elevated heart rate (132 bpm).
+ALT00066,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00497,Patient PAT00497 has critically low SpO₂ (89%).
+ALT00067,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00486,Patient PAT00486 has critically low SpO₂ (89%).
+ALT00068,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00481,Patient PAT00481 has critically low SpO₂ (83%).
+ALT00069,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00478,Patient PAT00478 has critically low SpO₂ (88%).
+ALT00070,2026-08-06 21:28:09.452685,High,Patient,,PAT00466,Patient PAT00466 has elevated heart rate (131 bpm).
+ALT00071,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00457,Patient PAT00457 has critically low SpO₂ (84%).
+ALT00072,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00451,Patient PAT00451 has critically low SpO₂ (82%).
+ALT00073,2026-08-06 21:28:09.452685,High,Patient,,PAT00443,Patient PAT00443 has elevated heart rate (134 bpm).
+ALT00074,2026-08-06 21:28:09.452685,High,Patient,,PAT00439,Patient PAT00439 has elevated heart rate (135 bpm).
+ALT00075,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00430,Patient PAT00430 has critically low SpO₂ (89%).
+ALT00076,2026-08-06 21:28:09.452685,High,Patient,,PAT00428,Patient PAT00428 has elevated heart rate (139 bpm).
+ALT00077,2026-08-06 21:28:09.452685,High,Patient,,PAT00421,Patient PAT00421 has elevated heart rate (134 bpm).
+ALT00078,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00410,Patient PAT00410 has critically low SpO₂ (88%).
+ALT00079,2026-08-06 21:28:09.452685,High,Patient,,PAT00409,Patient PAT00409 has elevated heart rate (139 bpm).
+ALT00080,2026-08-06 21:28:09.452685,High,Patient,,PAT00403,Patient PAT00403 has elevated heart rate (150 bpm).
+ALT00081,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00401,Patient PAT00401 has critically low SpO₂ (89%).
+ALT00082,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00400,Patient PAT00400 has critically low SpO₂ (82%).
+ALT00083,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00386,Patient PAT00386 has critically low SpO₂ (87%).
+ALT00084,2026-08-06 21:28:09.452685,High,Patient,,PAT00384,Patient PAT00384 has elevated heart rate (145 bpm).
+ALT00085,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00381,Patient PAT00381 has critically low SpO₂ (89%).
+ALT00086,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00361,Patient PAT00361 has critically low SpO₂ (89%).
+ALT00087,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00360,Patient PAT00360 has critically low SpO₂ (89%).
+ALT00088,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00332,Patient PAT00332 has critically low SpO₂ (89%).
+ALT00089,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00331,Patient PAT00331 has critically low SpO₂ (88%).
+ALT00090,2026-08-06 21:28:09.452685,High,Patient,,PAT00328,Patient PAT00328 has elevated heart rate (136 bpm).
+ALT00091,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00318,Patient PAT00318 has critically low SpO₂ (89%).
+ALT00092,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00317,Patient PAT00317 has critically low SpO₂ (86%).
+ALT00093,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00316,Patient PAT00316 has critically low SpO₂ (86%).
+ALT00094,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00307,Patient PAT00307 has critically low SpO₂ (88%).
+ALT00095,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00304,Patient PAT00304 has critically low SpO₂ (88%).
+ALT00096,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00296,Patient PAT00296 has critically low SpO₂ (88%).
+ALT00097,2026-08-06 21:28:09.452685,High,Patient,,PAT00296,Patient PAT00296 has elevated heart rate (149 bpm).
+ALT00098,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00289,Patient PAT00289 has critically low SpO₂ (82%).
+ALT00099,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00284,Patient PAT00284 has critically low SpO₂ (89%).
+ALT00100,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00274,Patient PAT00274 has critically low SpO₂ (85%).
+ALT00101,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00246,Patient PAT00246 has critically low SpO₂ (83%).
+ALT00102,2026-08-06 21:28:09.452685,High,Patient,,PAT00242,Patient PAT00242 has elevated heart rate (136 bpm).
+ALT00103,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00236,Patient PAT00236 has critically low SpO₂ (82%).
+ALT00104,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00217,Patient PAT00217 has critically low SpO₂ (88%).
+ALT00105,2026-08-06 21:28:09.452685,High,Patient,,PAT00203,Patient PAT00203 has elevated heart rate (139 bpm).
+ALT00106,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00191,Patient PAT00191 has critically low SpO₂ (83%).
+ALT00107,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00187,Patient PAT00187 has critically low SpO₂ (89%).
+ALT00108,2026-08-06 21:28:09.452685,High,Patient,,PAT00170,Patient PAT00170 has elevated heart rate (135 bpm).
+ALT00109,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00163,Patient PAT00163 has critically low SpO₂ (89%).
+ALT00110,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00162,Patient PAT00162 has critically low SpO₂ (84%).
+ALT00111,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00156,Patient PAT00156 has critically low SpO₂ (88%).
+ALT00112,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00144,Patient PAT00144 has critically low SpO₂ (88%).
+ALT00113,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00140,Patient PAT00140 has critically low SpO₂ (86%).
+ALT00114,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00120,Patient PAT00120 has critically low SpO₂ (88%).
+ALT00115,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00114,Patient PAT00114 has critically low SpO₂ (89%).
+ALT00116,2026-08-06 21:28:09.452685,High,Patient,,PAT00092,Patient PAT00092 has elevated heart rate (132 bpm).
+ALT00117,2026-08-06 21:28:09.452685,High,Patient,,PAT00091,Patient PAT00091 has elevated heart rate (134 bpm).
+ALT00118,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00079,Patient PAT00079 has critically low SpO₂ (84%).
+ALT00119,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00075,Patient PAT00075 has critically low SpO₂ (89%).
+ALT00120,2026-08-06 21:28:09.452685,High,Patient,,PAT00068,Patient PAT00068 has elevated heart rate (145 bpm).
+ALT00121,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00035,Patient PAT00035 has critically low SpO₂ (88%).
+ALT00122,2026-08-06 21:28:09.452685,High,Patient,,PAT00017,Patient PAT00017 has elevated heart rate (138 bpm).
+ALT00123,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00016,Patient PAT00016 has critically low SpO₂ (89%).
+ALT00124,2026-08-06 21:28:09.452685,High,Patient,,PAT00016,Patient PAT00016 has elevated heart rate (142 bpm).
+ALT00125,2026-08-06 21:28:09.452685,Critical,Patient,,PAT00006,Patient PAT00006 has critically low SpO₂ (89%).
+ALT00126,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0001,,Infusion Pump is Offline.
+ALT00127,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0001,,Defibrillator is Maintenance.
+ALT00128,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0001,,Patient Monitor is Maintenance.
+ALT00129,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Ventilator is Offline.
+ALT00130,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Patient Monitor is Maintenance.
+ALT00131,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Syringe Pump is Maintenance.
+ALT00132,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Defibrillator is Maintenance.
+ALT00133,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Infusion Pump is Maintenance.
+ALT00134,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Infusion Pump is Maintenance.
+ALT00135,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0002,,Patient Monitor is Offline.
+ALT00136,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0003,,Surgical Light is Maintenance.
+ALT00137,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0003,,Anesthesia Machine is Offline.
+ALT00138,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0003,,Surgical Light is Maintenance.
+ALT00139,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Offline.
+ALT00140,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00141,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Offline.
+ALT00142,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Maintenance.
+ALT00143,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Maintenance.
+ALT00144,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Offline.
+ALT00145,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00146,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00147,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00148,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00149,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Offline.
+ALT00150,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00151,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Maintenance.
+ALT00152,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Infusion Pump is Maintenance.
+ALT00153,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Offline.
+ALT00154,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0004,,Patient Monitor is Maintenance.
+ALT00155,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0005,,Patient Monitor is Offline.
+ALT00156,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0005,,ECG Machine is Offline.
+ALT00157,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0005,,ECG Machine is Maintenance.
+ALT00158,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0005,,ECG Machine is Maintenance.
+ALT00159,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0005,,Patient Monitor is Maintenance.
+ALT00160,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0006,,Patient Monitor is Offline.
+ALT00161,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0006,,EEG Machine is Offline.
+ALT00162,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0006,,EEG Machine is Offline.
+ALT00163,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0006,,Patient Monitor is Maintenance.
+ALT00164,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,Traction System is Offline.
+ALT00165,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,Traction System is Maintenance.
+ALT00166,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,Traction System is Maintenance.
+ALT00167,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,X-Ray Machine is Offline.
+ALT00168,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,Traction System is Offline.
+ALT00169,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,X-Ray Machine is Maintenance.
+ALT00170,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0007,,X-Ray Machine is Maintenance.
+ALT00171,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0008,,Ultrasound Machine is Offline.
+ALT00172,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0008,,X-Ray Machine is Maintenance.
+ALT00173,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0008,,Ultrasound Machine is Maintenance.
+ALT00174,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0008,,X-Ray Machine is Maintenance.
+ALT00175,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0008,,CT Scanner is Maintenance.
+ALT00176,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Blood Analyzer is Offline.
+ALT00177,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Microscope is Offline.
+ALT00178,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Blood Analyzer is Maintenance.
+ALT00179,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Blood Analyzer is Maintenance.
+ALT00180,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Blood Analyzer is Maintenance.
+ALT00181,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0009,,Blood Analyzer is Maintenance.
+ALT00182,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0010,,Medicine Refrigerator is Offline.
+ALT00183,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0010,,Dispensing Cabinet is Offline.
+ALT00184,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0010,,Medicine Refrigerator is Offline.
+ALT00185,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Maintenance.
+ALT00186,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Maintenance.
+ALT00187,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Maintenance.
+ALT00188,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Offline.
+ALT00189,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Maintenance.
+ALT00190,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Maintenance.
+ALT00191,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0011,,Patient Monitor is Offline.
+ALT00192,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0012,,Patient Monitor is Maintenance.
+ALT00193,2026-08-06 21:28:09.452685,Medium,Equipment,DEP0012,,Patient Monitor is Maintenance.
+ALT00194,2026-08-06 21:28:09.452685,High,Capacity,,,Hospital bed occupancy is 100.0%.
+ALT00195,2026-08-06 21:28:09.452685,Medium,Department,DEP0001,,Emergency is above 90% capacity.
+ALT00196,2026-08-06 21:28:09.452685,Medium,Department,DEP0002,,ICU is above 90% capacity.
+ALT00197,2026-08-06 21:28:09.452685,Medium,Department,DEP0003,,Operation Theatre is above 90% capacity.
+ALT00198,2026-08-06 21:28:09.452685,Medium,Department,DEP0004,,General Ward is above 90% capacity.
+ALT00199,2026-08-06 21:28:09.452685,Medium,Department,DEP0005,,Cardiology is above 90% capacity.
+ALT00200,2026-08-06 21:28:09.452685,Medium,Department,DEP0006,,Neurology is above 90% capacity.
+ALT00201,2026-08-06 21:28:09.452685,Medium,Department,DEP0007,,Orthopedics is above 90% capacity.
+ALT00202,2026-08-06 21:28:09.452685,Medium,Department,DEP0008,,Radiology is above 90% capacity.
+ALT00203,2026-08-06 21:28:09.452685,Medium,Department,DEP0009,,Laboratory is above 90% capacity.
+ALT00204,2026-08-06 21:28:09.452685,Medium,Department,DEP0010,,Pharmacy is above 90% capacity.
+ALT00205,2026-08-06 21:28:09.452685,Medium,Department,DEP0011,,Administration is above 90% capacity.
+ALT00206,2026-08-06 21:28:09.452685,Medium,Department,DEP0012,,Reception is above 90% capacity.

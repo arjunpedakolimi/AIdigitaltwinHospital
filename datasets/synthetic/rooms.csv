@@ -1,0 +1,251 @@
+room_id,room_name,department_id,department_name,floor,room_type,capacity,occupied,status,x_coordinate,y_coordinate,z_coordinate
+ROOM0001,ER-001,DEP0001,Emergency,1,Emergency Room,5,5,Available,0.11,16.69,65.33
+ROOM0002,ER-002,DEP0001,Emergency,1,Emergency Room,5,5,Available,14.0,18.83,27.05
+ROOM0003,ER-003,DEP0001,Emergency,1,Emergency Room,5,5,Available,98.95,4.99,87.96
+ROOM0004,ER-004,DEP0001,Emergency,1,Emergency Room,5,5,Cleaning,37.93,11.64,53.98
+ROOM0005,ER-005,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,57.9,13.69,53.12
+ROOM0006,ER-006,DEP0001,Emergency,1,Emergency Room,5,5,Cleaning,54.67,4.5,24.31
+ROOM0007,ER-007,DEP0001,Emergency,1,Emergency Room,5,5,Occupied,14.49,11.42,94.08
+ROOM0008,ER-008,DEP0001,Emergency,1,Emergency Room,5,5,Available,5.83,2.41,35.14
+ROOM0009,ER-009,DEP0001,Emergency,1,Emergency Room,5,5,Available,36.93,14.86,6.65
+ROOM0010,ER-010,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,15.66,13.22,82.02
+ROOM0011,ER-011,DEP0001,Emergency,1,Emergency Room,5,5,Cleaning,40.71,17.81,59.71
+ROOM0012,ER-012,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,56.61,4.18,35.73
+ROOM0013,ER-013,DEP0001,Emergency,1,Emergency Room,5,5,Occupied,0.58,7.97,81.71
+ROOM0014,ER-014,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,95.54,15.62,81.62
+ROOM0015,ER-015,DEP0001,Emergency,1,Emergency Room,5,5,Available,51.55,15.7,72.51
+ROOM0016,ER-016,DEP0001,Emergency,1,Emergency Room,5,5,Occupied,55.91,9.19,27.4
+ROOM0017,ER-017,DEP0001,Emergency,1,Emergency Room,5,5,Cleaning,53.8,2.73,83.28
+ROOM0018,ER-018,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,56.07,17.4,15.03
+ROOM0019,ER-019,DEP0001,Emergency,1,Emergency Room,5,5,Available,28.59,1.63,23.61
+ROOM0020,ER-020,DEP0001,Emergency,1,Emergency Room,5,5,Maintenance,36.16,19.2,77.7
+ROOM0021,ICU-001,DEP0002,ICU,2,ICU,2,2,Cleaning,51.19,16.67,48.04
+ROOM0022,ICU-002,DEP0002,ICU,2,ICU,2,2,Cleaning,52.83,19.46,31.14
+ROOM0023,ICU-003,DEP0002,ICU,2,ICU,2,2,Cleaning,48.78,19.28,64.33
+ROOM0024,ICU-004,DEP0002,ICU,2,ICU,2,2,Maintenance,48.46,3.61,44.2
+ROOM0025,ICU-005,DEP0002,ICU,2,ICU,2,2,Maintenance,48.49,19.01,8.52
+ROOM0026,ICU-006,DEP0002,ICU,2,ICU,2,2,Cleaning,58.55,11.76,74.3
+ROOM0027,ICU-007,DEP0002,ICU,2,ICU,2,2,Maintenance,84.16,10.39,52.95
+ROOM0028,ICU-008,DEP0002,ICU,2,ICU,2,2,Available,89.85,9.94,30.02
+ROOM0029,ICU-009,DEP0002,ICU,2,ICU,2,2,Maintenance,61.67,18.47,58.11
+ROOM0030,ICU-010,DEP0002,ICU,2,ICU,2,2,Occupied,40.86,5.46,59.81
+ROOM0031,ICU-011,DEP0002,ICU,2,ICU,2,2,Maintenance,21.22,5.53,81.9
+ROOM0032,ICU-012,DEP0002,ICU,2,ICU,2,2,Cleaning,78.49,15.71,61.86
+ROOM0033,ICU-013,DEP0002,ICU,2,ICU,2,2,Maintenance,1.85,12.88,77.35
+ROOM0034,ICU-014,DEP0002,ICU,2,ICU,2,2,Available,37.62,10.53,85.75
+ROOM0035,ICU-015,DEP0002,ICU,2,ICU,2,2,Maintenance,91.41,0.73,43.68
+ROOM0036,OT-001,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Occupied,21.55,18.16,66.48
+ROOM0037,OT-002,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Occupied,69.9,9.37,50.17
+ROOM0038,OT-003,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Available,81.21,4.32,91.9
+ROOM0039,OT-004,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Maintenance,94.08,17.46,17.29
+ROOM0040,OT-005,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Occupied,67.76,9.41,90.47
+ROOM0041,OT-006,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Available,31.33,0.22,64.51
+ROOM0042,OT-007,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Maintenance,51.51,9.91,97.03
+ROOM0043,OT-008,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Available,32.99,17.93,92.25
+ROOM0044,OT-009,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Available,11.86,6.06,60.88
+ROOM0045,OT-010,DEP0003,Operation Theatre,2,Operation Theatre,1,1,Occupied,80.21,7.36,40.44
+ROOM0046,GW-001,DEP0004,General Ward,3,Ward,6,6,Available,7.77,6.67,90.47
+ROOM0047,GW-002,DEP0004,General Ward,3,Ward,6,6,Cleaning,28.88,12.62,16.47
+ROOM0048,GW-003,DEP0004,General Ward,3,Ward,6,6,Occupied,58.75,12.55,38.76
+ROOM0049,GW-004,DEP0004,General Ward,3,Ward,6,6,Cleaning,88.94,16.16,47.8
+ROOM0050,GW-005,DEP0004,General Ward,3,Ward,6,6,Cleaning,47.67,16.8,90.23
+ROOM0051,GW-006,DEP0004,General Ward,3,Ward,6,6,Maintenance,8.98,1.33,67.32
+ROOM0052,GW-007,DEP0004,General Ward,3,Ward,6,6,Available,78.26,13.53,47.15
+ROOM0053,GW-008,DEP0004,General Ward,3,Ward,6,6,Available,32.19,6.25,80.77
+ROOM0054,GW-009,DEP0004,General Ward,3,Ward,6,6,Occupied,62.86,1.81,96.36
+ROOM0055,GW-010,DEP0004,General Ward,3,Ward,6,6,Occupied,77.24,7.72,81.9
+ROOM0056,GW-011,DEP0004,General Ward,3,Ward,6,6,Available,50.56,14.94,37.03
+ROOM0057,GW-012,DEP0004,General Ward,3,Ward,6,6,Cleaning,11.54,0.82,65.54
+ROOM0058,GW-013,DEP0004,General Ward,3,Ward,6,6,Cleaning,74.76,5.54,99.82
+ROOM0059,GW-014,DEP0004,General Ward,3,Ward,6,6,Maintenance,22.38,1.08,75.91
+ROOM0060,GW-015,DEP0004,General Ward,3,Ward,6,6,Available,12.6,6.91,62.3
+ROOM0061,GW-016,DEP0004,General Ward,3,Ward,6,6,Maintenance,23.89,9.27,57.41
+ROOM0062,GW-017,DEP0004,General Ward,3,Ward,6,6,Maintenance,15.84,4.63,15.16
+ROOM0063,GW-018,DEP0004,General Ward,3,Ward,6,6,Occupied,92.75,2.42,58.73
+ROOM0064,GW-019,DEP0004,General Ward,3,Ward,6,6,Occupied,46.24,7.95,37.4
+ROOM0065,GW-020,DEP0004,General Ward,3,Ward,6,6,Occupied,97.25,16.94,95.78
+ROOM0066,GW-021,DEP0004,General Ward,3,Ward,6,6,Cleaning,56.74,17.92,71.12
+ROOM0067,GW-022,DEP0004,General Ward,3,Ward,6,6,Cleaning,45.72,3.66,19.07
+ROOM0068,GW-023,DEP0004,General Ward,3,Ward,6,6,Available,29.58,15.04,74.55
+ROOM0069,GW-024,DEP0004,General Ward,3,Ward,6,6,Cleaning,37.1,12.74,61.87
+ROOM0070,GW-025,DEP0004,General Ward,3,Ward,6,6,Cleaning,64.63,2.79,53.17
+ROOM0071,GW-026,DEP0004,General Ward,3,Ward,6,6,Maintenance,80.01,0.6,24.42
+ROOM0072,GW-027,DEP0004,General Ward,3,Ward,6,6,Maintenance,77.75,15.86,91.01
+ROOM0073,GW-028,DEP0004,General Ward,3,Ward,6,6,Occupied,93.38,18.41,90.54
+ROOM0074,GW-029,DEP0004,General Ward,3,Ward,6,6,Occupied,75.11,4.85,29.83
+ROOM0075,GW-030,DEP0004,General Ward,3,Ward,6,6,Maintenance,27.32,6.58,11.46
+ROOM0076,GW-031,DEP0004,General Ward,3,Ward,6,6,Available,35.38,2.44,58.24
+ROOM0077,GW-032,DEP0004,General Ward,3,Ward,6,6,Maintenance,72.75,7.43,22.56
+ROOM0078,GW-033,DEP0004,General Ward,3,Ward,6,6,Maintenance,43.13,18.79,62.77
+ROOM0079,GW-034,DEP0004,General Ward,3,Ward,6,6,Cleaning,7.59,1.54,1.78
+ROOM0080,GW-035,DEP0004,General Ward,3,Ward,6,6,Maintenance,86.58,11.56,69.2
+ROOM0081,GW-036,DEP0004,General Ward,3,Ward,6,6,Maintenance,83.06,15.49,42.14
+ROOM0082,GW-037,DEP0004,General Ward,3,Ward,6,6,Available,53.23,16.67,2.37
+ROOM0083,GW-038,DEP0004,General Ward,3,Ward,6,6,Cleaning,87.01,19.82,71.29
+ROOM0084,GW-039,DEP0004,General Ward,3,Ward,6,6,Available,24.2,2.09,5.84
+ROOM0085,GW-040,DEP0004,General Ward,3,Ward,6,6,Maintenance,70.49,18.25,64.32
+ROOM0086,GW-041,DEP0004,General Ward,3,Ward,6,6,Maintenance,28.41,7.65,70.55
+ROOM0087,GW-042,DEP0004,General Ward,3,Ward,6,6,Maintenance,76.9,15.26,50.19
+ROOM0088,GW-043,DEP0004,General Ward,3,Ward,6,6,Available,31.88,14.6,71.8
+ROOM0089,GW-044,DEP0004,General Ward,3,Ward,6,6,Occupied,38.14,0.72,19.48
+ROOM0090,GW-045,DEP0004,General Ward,3,Ward,6,6,Occupied,58.83,9.58,99.9
+ROOM0091,GW-046,DEP0004,General Ward,3,Ward,6,6,Occupied,90.25,5.04,16.09
+ROOM0092,GW-047,DEP0004,General Ward,3,Ward,6,6,Available,79.77,3.73,57.41
+ROOM0093,GW-048,DEP0004,General Ward,3,Ward,6,6,Maintenance,24.92,16.07,99.66
+ROOM0094,GW-049,DEP0004,General Ward,3,Ward,6,6,Occupied,35.61,9.52,60.13
+ROOM0095,GW-050,DEP0004,General Ward,3,Ward,6,6,Maintenance,82.49,19.32,7.84
+ROOM0096,GW-051,DEP0004,General Ward,3,Ward,6,6,Cleaning,45.58,13.73,79.05
+ROOM0097,GW-052,DEP0004,General Ward,3,Ward,6,6,Available,9.41,6.0,22.36
+ROOM0098,GW-053,DEP0004,General Ward,3,Ward,6,6,Cleaning,18.75,9.17,30.59
+ROOM0099,GW-054,DEP0004,General Ward,3,Ward,6,6,Maintenance,10.25,11.68,76.32
+ROOM0100,GW-055,DEP0004,General Ward,3,Ward,6,6,Cleaning,99.87,12.29,90.64
+ROOM0101,GW-056,DEP0004,General Ward,3,Ward,6,6,Available,9.87,0.16,5.61
+ROOM0102,GW-057,DEP0004,General Ward,3,Ward,6,6,Cleaning,59.46,9.62,24.11
+ROOM0103,GW-058,DEP0004,General Ward,3,Ward,6,6,Maintenance,25.27,0.95,91.32
+ROOM0104,GW-059,DEP0004,General Ward,3,Ward,6,6,Occupied,85.59,0.34,30.46
+ROOM0105,GW-060,DEP0004,General Ward,3,Ward,6,6,Available,31.48,6.34,17.79
+ROOM0106,GW-061,DEP0004,General Ward,3,Ward,6,6,Occupied,89.79,16.14,22.95
+ROOM0107,GW-062,DEP0004,General Ward,3,Ward,6,6,Cleaning,76.27,15.48,66.5
+ROOM0108,GW-063,DEP0004,General Ward,3,Ward,6,6,Cleaning,51.0,8.29,0.79
+ROOM0109,GW-064,DEP0004,General Ward,3,Ward,6,6,Maintenance,86.2,18.16,9.41
+ROOM0110,GW-065,DEP0004,General Ward,3,Ward,6,6,Available,54.58,9.44,2.22
+ROOM0111,GW-066,DEP0004,General Ward,3,Ward,6,6,Maintenance,38.9,6.43,41.65
+ROOM0112,GW-067,DEP0004,General Ward,3,Ward,6,6,Cleaning,97.92,8.03,74.03
+ROOM0113,GW-068,DEP0004,General Ward,3,Ward,6,6,Occupied,92.42,16.13,75.03
+ROOM0114,GW-069,DEP0004,General Ward,3,Ward,6,6,Maintenance,42.06,4.31,73.74
+ROOM0115,GW-070,DEP0004,General Ward,3,Ward,6,6,Available,70.38,5.18,6.08
+ROOM0116,GW-071,DEP0004,General Ward,3,Ward,6,6,Occupied,56.33,4.2,85.17
+ROOM0117,GW-072,DEP0004,General Ward,3,Ward,6,6,Available,86.82,3.73,23.43
+ROOM0118,GW-073,DEP0004,General Ward,3,Ward,6,6,Maintenance,3.32,6.69,80.73
+ROOM0119,GW-074,DEP0004,General Ward,3,Ward,6,6,Maintenance,57.87,14.46,58.81
+ROOM0120,GW-075,DEP0004,General Ward,3,Ward,6,6,Maintenance,66.26,1.14,85.49
+ROOM0121,GW-076,DEP0004,General Ward,3,Ward,6,6,Cleaning,29.87,5.43,89.06
+ROOM0122,GW-077,DEP0004,General Ward,3,Ward,6,6,Maintenance,37.3,17.31,71.21
+ROOM0123,GW-078,DEP0004,General Ward,3,Ward,6,6,Maintenance,40.25,12.99,15.15
+ROOM0124,GW-079,DEP0004,General Ward,3,Ward,6,6,Available,49.46,9.93,94.36
+ROOM0125,GW-080,DEP0004,General Ward,3,Ward,6,6,Available,38.31,17.03,41.06
+ROOM0126,CARD-001,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,15.69,14.32,41.32
+ROOM0127,CARD-002,DEP0005,Cardiology,4,Consultation,4,4,Cleaning,30.58,10.26,50.75
+ROOM0128,CARD-003,DEP0005,Cardiology,4,Consultation,4,4,Cleaning,16.18,8.97,69.39
+ROOM0129,CARD-004,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,39.62,6.92,93.12
+ROOM0130,CARD-005,DEP0005,Cardiology,4,Consultation,4,4,Occupied,59.93,10.73,34.68
+ROOM0131,CARD-006,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,72.73,3.92,22.56
+ROOM0132,CARD-007,DEP0005,Cardiology,4,Consultation,4,4,Occupied,66.84,11.71,91.16
+ROOM0133,CARD-008,DEP0005,Cardiology,4,Consultation,4,4,Cleaning,21.97,0.44,42.1
+ROOM0134,CARD-009,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,62.02,14.88,8.83
+ROOM0135,CARD-010,DEP0005,Cardiology,4,Consultation,4,4,Available,86.1,15.56,9.78
+ROOM0136,CARD-011,DEP0005,Cardiology,4,Consultation,4,4,Available,40.19,10.47,0.23
+ROOM0137,CARD-012,DEP0005,Cardiology,4,Consultation,4,4,Cleaning,83.96,11.9,40.1
+ROOM0138,CARD-013,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,43.11,2.67,95.7
+ROOM0139,CARD-014,DEP0005,Cardiology,4,Consultation,4,4,Occupied,85.87,18.35,78.14
+ROOM0140,CARD-015,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,50.51,10.35,2.97
+ROOM0141,CARD-016,DEP0005,Cardiology,4,Consultation,4,4,Available,23.39,8.21,33.4
+ROOM0142,CARD-017,DEP0005,Cardiology,4,Consultation,4,4,Occupied,49.78,3.68,18.71
+ROOM0143,CARD-018,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,29.05,16.95,16.51
+ROOM0144,CARD-019,DEP0005,Cardiology,4,Consultation,4,4,Maintenance,58.37,2.22,83.53
+ROOM0145,CARD-020,DEP0005,Cardiology,4,Consultation,4,4,Cleaning,61.38,5.51,65.98
+ROOM0146,NEU-001,DEP0006,Neurology,4,Consultation,4,4,Cleaning,20.95,15.31,36.4
+ROOM0147,NEU-002,DEP0006,Neurology,4,Consultation,4,4,Available,39.66,17.01,29.61
+ROOM0148,NEU-003,DEP0006,Neurology,4,Consultation,4,4,Available,89.62,15.31,72.17
+ROOM0149,NEU-004,DEP0006,Neurology,4,Consultation,4,4,Available,68.57,9.69,39.87
+ROOM0150,NEU-005,DEP0006,Neurology,4,Consultation,4,4,Cleaning,9.92,1.63,85.49
+ROOM0151,NEU-006,DEP0006,Neurology,4,Consultation,4,4,Available,23.29,7.53,20.24
+ROOM0152,NEU-007,DEP0006,Neurology,4,Consultation,4,4,Cleaning,46.61,8.08,25.85
+ROOM0153,NEU-008,DEP0006,Neurology,4,Consultation,4,4,Cleaning,98.37,9.56,62.5
+ROOM0154,NEU-009,DEP0006,Neurology,4,Consultation,4,4,Cleaning,83.85,4.99,99.74
+ROOM0155,NEU-010,DEP0006,Neurology,4,Consultation,4,4,Available,86.39,2.74,63.02
+ROOM0156,NEU-011,DEP0006,Neurology,4,Consultation,4,4,Occupied,69.23,7.84,95.57
+ROOM0157,NEU-012,DEP0006,Neurology,4,Consultation,4,4,Cleaning,98.93,2.68,22.48
+ROOM0158,NEU-013,DEP0006,Neurology,4,Consultation,4,4,Available,11.85,1.73,91.79
+ROOM0159,NEU-014,DEP0006,Neurology,4,Consultation,4,4,Available,38.32,7.09,90.52
+ROOM0160,NEU-015,DEP0006,Neurology,4,Consultation,4,4,Available,83.57,17.25,30.1
+ROOM0161,NEU-016,DEP0006,Neurology,4,Consultation,4,4,Maintenance,52.83,0.82,20.85
+ROOM0162,NEU-017,DEP0006,Neurology,4,Consultation,4,4,Maintenance,42.04,19.17,41.23
+ROOM0163,NEU-018,DEP0006,Neurology,4,Consultation,4,4,Available,37.91,3.94,51.42
+ROOM0164,NEU-019,DEP0006,Neurology,4,Consultation,4,4,Occupied,82.0,10.52,71.1
+ROOM0165,NEU-020,DEP0006,Neurology,4,Consultation,4,4,Available,46.93,10.62,54.83
+ROOM0166,ORTH-001,DEP0007,Orthopedics,5,Consultation,4,4,Cleaning,65.76,14.54,50.5
+ROOM0167,ORTH-002,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,31.43,14.68,96.14
+ROOM0168,ORTH-003,DEP0007,Orthopedics,5,Consultation,4,4,Available,9.06,5.31,1.86
+ROOM0169,ORTH-004,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,15.44,18.78,31.49
+ROOM0170,ORTH-005,DEP0007,Orthopedics,5,Consultation,4,4,Available,97.9,2.03,97.6
+ROOM0171,ORTH-006,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,12.22,13.17,72.57
+ROOM0172,ORTH-007,DEP0007,Orthopedics,5,Consultation,4,4,Cleaning,43.85,6.67,99.79
+ROOM0173,ORTH-008,DEP0007,Orthopedics,5,Consultation,4,4,Available,55.93,4.26,62.2
+ROOM0174,ORTH-009,DEP0007,Orthopedics,5,Consultation,4,4,Available,78.52,5.95,42.95
+ROOM0175,ORTH-010,DEP0007,Orthopedics,5,Consultation,4,4,Available,52.83,16.0,13.67
+ROOM0176,ORTH-011,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,80.72,0.39,15.18
+ROOM0177,ORTH-012,DEP0007,Orthopedics,5,Consultation,4,4,Cleaning,96.04,2.12,52.24
+ROOM0178,ORTH-013,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,59.56,17.63,41.22
+ROOM0179,ORTH-014,DEP0007,Orthopedics,5,Consultation,4,4,Available,96.95,17.34,10.93
+ROOM0180,ORTH-015,DEP0007,Orthopedics,5,Consultation,4,4,Maintenance,18.37,10.11,79.52
+ROOM0181,ORTH-016,DEP0007,Orthopedics,5,Consultation,4,4,Available,73.75,6.78,28.41
+ROOM0182,ORTH-017,DEP0007,Orthopedics,5,Consultation,4,4,Cleaning,37.4,3.97,2.28
+ROOM0183,ORTH-018,DEP0007,Orthopedics,5,Consultation,4,4,Available,63.36,19.59,26.21
+ROOM0184,ORTH-019,DEP0007,Orthopedics,5,Consultation,4,4,Available,46.2,0.66,82.86
+ROOM0185,ORTH-020,DEP0007,Orthopedics,5,Consultation,4,4,Occupied,8.38,8.23,77.7
+ROOM0186,RAD-001,DEP0008,Radiology,1,Imaging,2,2,Available,18.64,0.34,55.98
+ROOM0187,RAD-002,DEP0008,Radiology,1,Imaging,2,2,Available,15.58,1.42,53.94
+ROOM0188,RAD-003,DEP0008,Radiology,1,Imaging,2,2,Cleaning,70.83,15.82,95.42
+ROOM0189,RAD-004,DEP0008,Radiology,1,Imaging,2,2,Available,0.35,16.48,96.59
+ROOM0190,RAD-005,DEP0008,Radiology,1,Imaging,2,2,Maintenance,57.82,0.47,59.4
+ROOM0191,RAD-006,DEP0008,Radiology,1,Imaging,2,2,Maintenance,13.38,0.02,46.7
+ROOM0192,RAD-007,DEP0008,Radiology,1,Imaging,2,2,Cleaning,78.05,7.83,25.77
+ROOM0193,RAD-008,DEP0008,Radiology,1,Imaging,2,2,Available,35.52,10.89,58.57
+ROOM0194,RAD-009,DEP0008,Radiology,1,Imaging,2,2,Available,82.03,2.28,61.52
+ROOM0195,RAD-010,DEP0008,Radiology,1,Imaging,2,2,Cleaning,32.48,6.46,96.23
+ROOM0196,LAB-001,DEP0009,Laboratory,1,Lab,2,2,Available,31.74,5.69,28.67
+ROOM0197,LAB-002,DEP0009,Laboratory,1,Lab,2,2,Available,83.89,9.61,48.13
+ROOM0198,LAB-003,DEP0009,Laboratory,1,Lab,2,2,Available,83.9,13.06,1.44
+ROOM0199,LAB-004,DEP0009,Laboratory,1,Lab,2,2,Available,98.63,12.99,36.28
+ROOM0200,LAB-005,DEP0009,Laboratory,1,Lab,2,2,Available,19.19,18.64,86.51
+ROOM0201,LAB-006,DEP0009,Laboratory,1,Lab,2,2,Available,6.55,7.11,33.05
+ROOM0202,LAB-007,DEP0009,Laboratory,1,Lab,2,2,Available,72.92,12.5,88.32
+ROOM0203,LAB-008,DEP0009,Laboratory,1,Lab,2,2,Maintenance,88.66,13.71,74.89
+ROOM0204,LAB-009,DEP0009,Laboratory,1,Lab,2,2,Maintenance,20.91,14.67,51.22
+ROOM0205,LAB-010,DEP0009,Laboratory,1,Lab,2,2,Available,94.44,6.59,27.61
+ROOM0206,PHARM-001,DEP0010,Pharmacy,1,Pharmacy,2,2,Occupied,34.38,0.28,38.13
+ROOM0207,PHARM-002,DEP0010,Pharmacy,1,Pharmacy,2,2,Available,36.99,18.43,52.58
+ROOM0208,PHARM-003,DEP0010,Pharmacy,1,Pharmacy,2,2,Occupied,57.21,10.84,93.74
+ROOM0209,PHARM-004,DEP0010,Pharmacy,1,Pharmacy,2,2,Occupied,30.35,5.71,46.62
+ROOM0210,PHARM-005,DEP0010,Pharmacy,1,Pharmacy,2,2,Cleaning,44.07,13.73,45.24
+ROOM0211,ADMIN-001,DEP0011,Administration,6,Office,2,2,Maintenance,47.96,19.5,10.27
+ROOM0212,ADMIN-002,DEP0011,Administration,6,Office,2,2,Occupied,5.11,1.3,75.29
+ROOM0213,ADMIN-003,DEP0011,Administration,6,Office,2,2,Cleaning,4.0,14.45,87.62
+ROOM0214,ADMIN-004,DEP0011,Administration,6,Office,2,2,Occupied,90.27,5.81,37.69
+ROOM0215,ADMIN-005,DEP0011,Administration,6,Office,2,2,Cleaning,3.32,15.72,67.58
+ROOM0216,ADMIN-006,DEP0011,Administration,6,Office,2,2,Occupied,70.13,6.33,69.58
+ROOM0217,ADMIN-007,DEP0011,Administration,6,Office,2,2,Maintenance,21.81,13.29,11.37
+ROOM0218,ADMIN-008,DEP0011,Administration,6,Office,2,2,Cleaning,83.0,11.89,39.99
+ROOM0219,ADMIN-009,DEP0011,Administration,6,Office,2,2,Occupied,76.78,6.96,21.25
+ROOM0220,ADMIN-010,DEP0011,Administration,6,Office,2,2,Maintenance,50.11,10.6,97.72
+ROOM0221,ADMIN-011,DEP0011,Administration,6,Office,2,2,Maintenance,50.44,17.94,72.19
+ROOM0222,ADMIN-012,DEP0011,Administration,6,Office,2,2,Available,42.21,15.02,21.23
+ROOM0223,ADMIN-013,DEP0011,Administration,6,Office,2,2,Available,52.83,9.02,42.9
+ROOM0224,ADMIN-014,DEP0011,Administration,6,Office,2,2,Cleaning,32.68,14.5,7.86
+ROOM0225,ADMIN-015,DEP0011,Administration,6,Office,2,2,Cleaning,15.12,10.17,92.86
+ROOM0226,ADMIN-016,DEP0011,Administration,6,Office,2,2,Available,56.39,14.09,66.61
+ROOM0227,ADMIN-017,DEP0011,Administration,6,Office,2,2,Maintenance,31.06,5.78,61.8
+ROOM0228,ADMIN-018,DEP0011,Administration,6,Office,2,2,Available,42.5,18.54,99.2
+ROOM0229,ADMIN-019,DEP0011,Administration,6,Office,2,2,Occupied,46.09,13.48,71.4
+ROOM0230,ADMIN-020,DEP0011,Administration,6,Office,2,2,Maintenance,1.95,13.87,62.81
+ROOM0231,ADMIN-021,DEP0011,Administration,6,Office,2,2,Occupied,74.19,16.53,86.88
+ROOM0232,ADMIN-022,DEP0011,Administration,6,Office,2,2,Available,78.79,8.75,38.46
+ROOM0233,ADMIN-023,DEP0011,Administration,6,Office,2,2,Available,6.01,1.48,90.14
+ROOM0234,ADMIN-024,DEP0011,Administration,6,Office,2,2,Occupied,39.38,12.3,94.6
+ROOM0235,ADMIN-025,DEP0011,Administration,6,Office,2,2,Cleaning,22.35,17.34,9.32
+ROOM0236,REC-001,DEP0012,Reception,1,Reception,2,2,Available,67.16,19.59,83.55
+ROOM0237,REC-002,DEP0012,Reception,1,Reception,2,2,Maintenance,23.81,16.76,75.36
+ROOM0238,REC-003,DEP0012,Reception,1,Reception,2,2,Available,74.73,7.11,5.06
+ROOM0239,REC-004,DEP0012,Reception,1,Reception,2,2,Cleaning,11.01,3.66,88.84
+ROOM0240,REC-005,DEP0012,Reception,1,Reception,2,2,Available,13.2,10.34,46.78
+ROOM0241,REC-006,DEP0012,Reception,1,Reception,2,2,Occupied,16.63,6.95,98.22
+ROOM0242,REC-007,DEP0012,Reception,1,Reception,2,2,Maintenance,10.77,19.32,32.91
+ROOM0243,REC-008,DEP0012,Reception,1,Reception,2,2,Available,84.64,6.05,32.16
+ROOM0244,REC-009,DEP0012,Reception,1,Reception,2,2,Available,52.8,14.31,95.7
+ROOM0245,REC-010,DEP0012,Reception,1,Reception,2,2,Occupied,17.68,14.91,35.82
+ROOM0246,REC-011,DEP0012,Reception,1,Reception,2,2,Available,89.57,4.66,31.9
+ROOM0247,REC-012,DEP0012,Reception,1,Reception,2,2,Occupied,75.54,19.48,9.52
+ROOM0248,REC-013,DEP0012,Reception,1,Reception,2,2,Available,94.03,13.34,5.2
+ROOM0249,REC-014,DEP0012,Reception,1,Reception,2,2,Cleaning,51.42,15.51,75.37
+ROOM0250,REC-015,DEP0012,Reception,1,Reception,2,2,Maintenance,3.22,12.74,51.18

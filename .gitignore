@@ -1,0 +1,33 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+.venv312/
+
+# Environment files
+.env
+*.env
+
+# Node dependencies
+node_modules/
+lAI/backend
+.DS_Store
+
+# Temporary editor files
+*.save
