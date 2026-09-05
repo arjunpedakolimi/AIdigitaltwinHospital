@@ -1,4 +1,8 @@
+
 from fastapi import FastAPI
+from pydantic import BaseModel
+from backend.app.ml.patient_analysis import analyze_patient
+from backend.app.ml.patient_risk import predict_patient_risk
 from fastapi.middleware.cors import CORSMiddleware
 
 from backend.app.database.mongodb import get_database
@@ -36,26 +40,77 @@ app = FastAPI(
     version="1.0.0",
     description="Backend API for Smart Hospital Digital Twin",
 )
+# ---------------------------------------------------------
+# CORS
+# ---------------------------------------------------------
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origin_regex=r"https?://(localhost|127\.0\.0\.1):\d+",
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+class PatientRiskRequest(BaseModel):
+    age: float
+    heart_rate: float
+    systolic_bp: float
+    spo2: float
+    respiratory_rate: float
+    temperature: float
+class PatientRiskRequest(BaseModel):
+    age: float
+    heart_rate: float
+    systolic_bp: float
+    spo2: float
+    respiratory_rate: float
+    temperature: float
 
 
+class PatientAnalysisRequest(BaseModel):
+    age: float
+    heart_rate: float
+    systolic_bp: float
+    spo2: float
+    respiratory_rate: float
+    temperature: float
+@app.post("/api/ai/patient-risk")
+def patient_risk(request: PatientRiskRequest):
+    result = predict_patient_risk(
+        age=request.age,
+        heart_rate=request.heart_rate,
+        systolic_bp=request.systolic_bp,
+        spo2=request.spo2,
+        respiratory_rate=request.respiratory_rate,
+        temperature=request.temperature,
+    )
+
+    return {
+        "success": True,
+        "prediction": result,
+    }
+@app.post("/api/ai/patient-analysis")
+def patient_analysis(request: PatientAnalysisRequest):
+
+    result = analyze_patient(
+        age=request.age,
+        heart_rate=request.heart_rate,
+        systolic_bp=request.systolic_bp,
+        spo2=request.spo2,
+        respiratory_rate=request.respiratory_rate,
+        temperature=request.temperature,
+    )
+
+    return {
+        "success": True,
+        **result,
+    }
 # ---------------------------------------------------------
 # CORS
 # ---------------------------------------------------------
 # Vite frontend normally runs on localhost:5173.
 # 127.0.0.1:5173 is also allowed.
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:5174",
-        "http://127.0.0.1:5173",
-        "http://127.0.0.1:5174",
-    ],
-    allow_credentials=False,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
 # ---------------------------------------------------------
 # REGISTER API ROUTERS

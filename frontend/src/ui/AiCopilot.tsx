@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useRef, useState } from "react";
-
+import { useFleet } from "../hooks/useFleet";
 /* ── Command interface: the Copilot can trigger anything ── */
 export interface CopilotActions {
   // Navigation
@@ -80,7 +80,27 @@ function parseCommand(
     actions.runEquipmentFailure();
     return { spoken: "Starting equipment failure simulation. Ventilator VENT-A4 has developed a fault in ICU Bed 04. IBM Granite will detect the problem, find a backup, and dispatch the biomedical team.", executed: true };
   }
+/* ── Ambulance AI Questions ── */
 
+if (t.match(/how many.*ambulance|ambulance.*available|available.*ambulance|ready.*ambulance/)) {
+  actions.toggleFleet();
+
+  return {
+    spoken:
+      "The ambulance fleet operations center is opening. The fleet currently has multiple units being monitored through live GPS. I can help identify available units and their current mission status.",
+    executed: true,
+  };
+}
+
+if (t.match(/which ambulance|best ambulance|ambulance.*should|dispatch.*which/)) {
+  actions.toggleFleet();
+
+  return {
+    spoken:
+      "I am opening the live ambulance fleet. The recommended ambulance should be selected based on availability, patient severity, distance, ETA, and route optimization.",
+    executed: true,
+  };
+}
   /* ── Track Ambulance / Fleet ── */
   if (t.match(/track.*ambulance|ambulance.*fleet|show.*fleet|fleet.*status|dispatch.*ambulance/)) {
     actions.toggleFleet();

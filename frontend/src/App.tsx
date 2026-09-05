@@ -770,7 +770,7 @@ export default function App() {
           />
 
           {/* ICU presentation overlays */}
-          {icuDemoOn && !icuRealistic && (
+          {icuDemoOn &&  (
             <IcuDemoFeed demo={icuDemo} />
           )}
 

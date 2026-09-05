@@ -381,36 +381,142 @@ export function FleetDashboard({ fleet, onFollow }: { fleet: ReturnType<typeof u
         <div className="mt-0.5 text-[8px] text-slate-400">AI hospital suitability scoring · recommender</div>
       </button>
 
-      {/* Ambulance list */}
-      <div className="max-h-44 overflow-y-auto border border-white/10 bg-[#050d17]/95 shadow-xl backdrop-blur-xl">
-        {units.map((a) => {
-          const sel = selectedUnit?.id === a.id;
-          return (
-            <button
-              key={a.id}
-              onClick={() => handleSelect(sel ? null : a)}
-              className={`flex w-full items-center gap-2 border-b border-white/8 px-2.5 py-2 text-left transition ${sel ? "bg-cyan-400/10" : "hover:bg-white/[0.05]"}`}
-            >
-              <span className="text-base">{STATUS_ICONS[a.status]}</span>
-              <span className="flex-1">
-                <span className="font-mono text-[10px] font-bold text-white">{a.label}</span>
-                <span className="ml-2 font-mono text-[8px] capitalize text-slate-400">{a.status.replace("_", " ")}</span>
-              </span>
-              <span className="font-mono text-[9px] text-slate-300">
-                {a.position[0].toFixed(0)}, {a.position[1].toFixed(0)}
-              </span>
-              {a.speed > 0 && <span className="font-mono text-[8px] text-cyan-300">{a.speed} km/h</span>}
-              {a.etaMinutes > 0 && <span className="font-mono text-[8px] text-amber-300">ETA {a.etaMinutes}s</span>}
-              {a.patientSeverity && (
-                <span className={`ml-1 rounded px-1 py-px text-[7px] font-bold ${a.patientSeverity === "critical" ? "bg-rose-500/30 text-rose-200" : a.patientSeverity === "moderate" ? "bg-amber-500/30 text-amber-200" : "bg-emerald-500/30 text-emerald-200"}`}>
-                  {a.patientSeverity}
-                </span>
-              )}
-            </button>
-          );
-        })}
-      </div>
+{/* Ambulance list */}
+<div className="max-h-64 space-y-1.5 overflow-y-auto border border-white/10 bg-[#050d17]/95 p-1.5 shadow-xl backdrop-blur-xl">
+  {units.map((a) => {
+    const sel = selectedUnit?.id === a.id;
 
+    const statusLabel =
+      a.status === "on_mission"
+        ? "EN ROUTE"
+        : a.status === "returning"
+        ? "RETURNING"
+        : a.status === "maintenance"
+        ? "MAINTENANCE"
+        : "READY";
+
+    const statusClass =
+      a.status === "on_mission"
+        ? "border-cyan-400/30 bg-cyan-400/10 text-cyan-200"
+        : a.status === "returning"
+        ? "border-violet-400/30 bg-violet-400/10 text-violet-200"
+        : a.status === "maintenance"
+        ? "border-slate-400/30 bg-slate-400/10 text-slate-300"
+        : "border-emerald-400/30 bg-emerald-400/10 text-emerald-200";
+
+    return (
+      <button
+        key={a.id}
+        onClick={() => handleSelect(sel ? null : a)}
+        className={`w-full border p-2.5 text-left transition ${
+          sel
+            ? "border-cyan-400/50 bg-cyan-400/[0.10] shadow-lg"
+            : "border-white/8 bg-white/[0.025] hover:border-cyan-400/20 hover:bg-white/[0.05]"
+        }`}
+      >
+        {/* Top row */}
+        <div className="flex items-center gap-2">
+          <span className="text-lg">
+            {STATUS_ICONS[a.status]}
+          </span>
+
+          <div className="min-w-0 flex-1">
+            <div className="flex items-center gap-2">
+              <span className="font-mono text-[11px] font-black text-white">
+                {a.label}
+              </span>
+
+              <span
+                className={`border px-1.5 py-0.5 font-mono text-[7px] font-bold tracking-wider ${statusClass}`}
+              >
+                {statusLabel}
+              </span>
+            </div>
+
+            <div className="mt-0.5 flex items-center gap-2 font-mono text-[7px] text-slate-500">
+              <span>GPS ● LIVE</span>
+              <span>
+                POS {a.position[0].toFixed(0)}, {a.position[1].toFixed(0)}
+              </span>
+            </div>
+          </div>
+
+          {/* ETA */}
+          {a.etaMinutes > 0 ? (
+            <div className="text-right">
+              <div className="font-mono text-[7px] text-slate-500">
+                ETA
+              </div>
+              <div className="font-mono text-[13px] font-black text-amber-300">
+                {a.etaMinutes}s
+              </div>
+            </div>
+          ) : (
+            <div className="text-right">
+              <div className="font-mono text-[7px] text-slate-500">
+                STATUS
+              </div>
+              <div className="font-mono text-[9px] font-bold text-emerald-300">
+                READY
+              </div>
+            </div>
+          )}
+        </div>
+
+        {/* Telemetry row */}
+        <div className="mt-2 grid grid-cols-3 gap-1">
+          <div className="border border-white/8 bg-black/20 px-1.5 py-1">
+            <div className="text-[6px] text-slate-500">
+              SPEED
+            </div>
+            <div className="font-mono text-[9px] text-cyan-200">
+              {a.speed > 0 ? `${a.speed} km/h` : "—"}
+            </div>
+          </div>
+
+          <div className="border border-white/8 bg-black/20 px-1.5 py-1">
+            <div className="text-[6px] text-slate-500">
+              FUEL
+            </div>
+            <div className="font-mono text-[9px] text-emerald-200">
+              {a.fuel}%
+            </div>
+          </div>
+
+          <div className="border border-white/8 bg-black/20 px-1.5 py-1">
+            <div className="text-[6px] text-slate-500">
+              ROUTE
+            </div>
+            <div className="font-mono text-[9px] text-violet-200">
+              {a.routeOptimized ? "AI OPT" : "STANDARD"}
+            </div>
+          </div>
+        </div>
+
+        {/* Patient / mission row */}
+        {a.patientSeverity && (
+          <div className="mt-1.5 flex items-center justify-between border border-white/8 bg-black/20 px-2 py-1">
+            <span className="font-mono text-[7px] text-slate-500">
+              PATIENT SEVERITY
+            </span>
+
+            <span
+              className={`font-mono text-[8px] font-bold ${
+                a.patientSeverity === "critical"
+                  ? "text-rose-300"
+                  : a.patientSeverity === "moderate"
+                  ? "text-amber-300"
+                  : "text-emerald-300"
+              }`}
+            >
+              {a.patientSeverity.toUpperCase()}
+            </span>
+          </div>
+        )}
+      </button>
+    );
+  })}
+</div>
       {/* Selected unit detail */}
       {selectedUnit && (
         <div className="border border-cyan-400/30 bg-[#050d17]/95 p-3 shadow-xl backdrop-blur-xl">

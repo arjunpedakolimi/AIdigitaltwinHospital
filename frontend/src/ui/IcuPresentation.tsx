@@ -110,6 +110,89 @@ export function IcuDemoPanel({ demo }: { demo: IcuDemoState }) {
 
           <div className="border-b border-white/5 p-4">
             <div className="mb-1.5 flex items-center justify-between"><span className="font-mono text-[9px] tracking-[0.16em] text-slate-400">LIVE TELEMETRY · ICU-04</span><span className="font-mono text-[8px]" style={{ color: meta.color }}>NEWS {v.news}</span></div>
+
+{demo.mlRisk && (
+  <div className="mt-3 border border-rose-400/30 bg-rose-500/[0.06] p-3">
+    <div className="flex items-center justify-between">
+      <span className="font-mono text-[9px] tracking-[0.18em] text-cyan-300">
+        ML PATIENT RISK
+      </span>
+
+      <span className="font-mono text-[8px] text-emerald-300">
+        LIVE MODEL
+      </span>
+    </div>
+
+    <div className="mt-2 flex items-end justify-between">
+      <div>
+        <div className="font-mono text-[22px] font-black text-rose-300">
+          {demo.mlRisk.risk_level}
+        </div>
+
+        <div className="font-mono text-[8px] text-slate-400">
+          AI-estimated patient deterioration risk
+        </div>
+      </div>
+
+      <div className="text-right">
+        <div className="font-mono text-[22px] font-black text-white">
+          {demo.mlRisk.risk_probability.toFixed(1)}%
+        </div>
+
+        <div className="font-mono text-[8px] text-slate-500">
+          MODEL PROBABILITY
+        </div>
+  {demo.mlRisk.risk_level === "HIGH" && (
+  <div className="mt-3 border border-rose-500/50 bg-rose-500/[0.10] p-2">
+    <div className="font-mono text-[9px] font-bold tracking-[0.14em] text-rose-300">
+      🚨 CRITICAL ML ALERT
+    </div>
+
+    <div className="mt-1 font-mono text-[10px] font-bold text-white">
+      HIGH RISK — {demo.mlRisk.risk_probability.toFixed(1)}%
+    </div>
+
+   <div className="mt-1 text-[9px] leading-relaxed text-rose-200">
+  Immediate clinical review required for {demo.selectedBed}.
+</div>
+
+<div className="mt-2 border-t border-rose-400/20 pt-2 font-mono text-[8px] text-slate-300">
+  Trigger:
+  <span className="ml-1 text-rose-200">
+    HR {v.hr} | BP {v.sbp}/{v.dbp} | SpO₂ {v.spo2}% | RR {v.rr}/min
+  </span>
+</div>   
+
+  </div>
+)}
+      </div>
+    </div>
+
+    <div className="mt-3 border border-cyan-400/20 bg-cyan-400/[0.04] p-2">
+      <div className="font-mono text-[8px] tracking-[0.14em] text-cyan-300">
+        MISTRAL AI EXPLANATION
+      </div>
+
+      <p className="mt-1 whitespace-pre-line text-[9px] leading-relaxed text-slate-300">
+        {demo.mlRisk.explanation}
+      </p>
+    </div>
+  </div>
+)}
+
+<div className="border border-white/8 bg-black/50">
+  <EcgMonitor
+    hr={v.hr}
+    amplitude={
+      demo.risk === "critical"
+        ? 1.1
+        : demo.risk === "high"
+          ? 0.84
+          : 0.62
+    }
+    color={meta.color}
+  />
+</div>
             <div className="border border-white/8 bg-black/50"><EcgMonitor hr={v.hr} amplitude={demo.risk === "critical" ? 1.1 : demo.risk === "high" ? 0.84 : 0.62} color={meta.color} /></div>
             <div className="mt-2 grid grid-cols-3 gap-1.5">
               <Vital label="Heart Rate" value={v.hr} unit="bpm" accent={meta.color} alert={v.hr > 120} />
@@ -173,7 +256,22 @@ export function IcuDemoPanel({ demo }: { demo: IcuDemoState }) {
 
           {showAgentic && (
             <div className="border-b border-white/5 p-4">
-              <div className="mb-2 font-mono text-[9px] tracking-[0.18em] text-fuchsia-300">AGENTIC AI / PRIORITY PLAN</div>
+              <div className="mb-2 font-mono text-[9px] tracking-[0.18em] text-fuchsia-300">AGENTIC AI / PRIORITY PLAN</div> 
+{demo.mlRisk?.risk_level === "HIGH" && (
+  <div className="mb-2 border border-rose-400/30 bg-rose-500/[0.06] p-2">
+    <div className="font-mono text-[8px] tracking-[0.14em] text-rose-300">
+      ⚡ ML HIGH-RISK SIGNAL
+    </div>
+
+    <div className="mt-1 font-mono text-[10px] font-bold text-white">
+      {demo.mlRisk.risk_probability.toFixed(1)}% DETERIORATION PROBABILITY
+    </div>
+
+    <div className="mt-1 text-[8px] leading-relaxed text-rose-200">
+      Agentic response workflow activated.
+    </div>
+  </div>
+)}
               <div className="space-y-1">
                 {ICU_AGENT_ACTIONS.map(([action, detail, doneAt], index) => {
                   const done = stage.id >= doneAt;
@@ -263,7 +361,113 @@ export function IcuDemoFinal({ show, demo, onReplay, onExit }: { show: boolean; 
         </div>
         <div className="mt-1 flex justify-between font-mono text-[8px] text-slate-500"><span>Granite survival model · 95% conf</span><span>updated live from twin</span></div>
 
-        {/* operability verdict */}
+{/* ML patient risk + Mistral explanation */}
+{demo.mlRisk && (
+
+  <div className="mt-3 border border-rose-400/30 bg-rose-500/[0.06] p-3">
+
+    <div className="flex items-center justify-between">
+      <span className="font-mono text-[9px] tracking-[0.18em] text-cyan-300">
+        ML PATIENT RISK
+      </span>
+
+      <span className="font-mono text-[8px] text-emerald-300">
+        LIVE MODEL
+      </span>
+    </div>
+
+    <div className="mt-2 flex items-end justify-between">
+      <div>
+        <div className="font-mono text-[22px] font-black text-rose-300">
+          {demo.mlRisk.risk_level}
+        </div>
+
+        <div className="font-mono text-[8px] text-slate-400">
+          AI-estimated patient deterioration risk
+        </div>
+      </div>
+
+      <div className="text-right">
+        <div className="font-mono text-[22px] font-black text-white">
+          {demo.mlRisk.risk_probability}%
+        </div>
+
+        <div className="font-mono text-[8px] text-slate-500">
+          MODEL PROBABILITY
+        </div>
+      </div>
+    </div>
+
+    <div className="mt-3 grid grid-cols-2 gap-1.5">
+
+      <div className="border border-white/10 bg-black/20 p-2">
+        <div className="font-mono text-[7px] text-slate-500">
+          HEART RATE
+        </div>
+        <div className="font-mono text-[12px] font-bold text-white">
+          {v.hr} BPM
+        </div>
+      </div>
+
+      <div className="border border-white/10 bg-black/20 p-2">
+        <div className="font-mono text-[7px] text-slate-500">
+          SpO₂
+        </div>
+        <div className="font-mono text-[12px] font-bold text-white">
+          {v.spo2}%
+        </div>
+      </div>
+
+      <div className="border border-white/10 bg-black/20 p-2">
+        <div className="font-mono text-[7px] text-slate-500">
+          SYSTOLIC BP
+        </div>
+        <div className="font-mono text-[12px] font-bold text-white">
+          {v.sbp}
+        </div>
+      </div>
+
+      <div className="border border-white/10 bg-black/20 p-2">
+        <div className="font-mono text-[7px] text-slate-500">
+          RESPIRATORY RATE
+        </div>
+        <div className="font-mono text-[12px] font-bold text-white">
+          {v.rr}/min
+        </div>
+      </div>
+
+    </div>
+
+    <div className="mt-3 border border-cyan-400/20 bg-cyan-400/[0.04] p-2">
+
+      <div className="font-mono text-[8px] tracking-[0.14em] text-cyan-300">
+        MISTRAL AI EXPLANATION
+      </div>
+
+      <p className="mt-1 text-[9px] leading-relaxed text-slate-300">
+        {demo.mlRisk.explanation}
+      </p>
+
+      <div className="mt-2 border border-rose-400/20 bg-rose-500/[0.04] p-2">
+
+        <div className="font-mono text-[8px] tracking-[0.12em] text-rose-300">
+          RECOMMENDED RESPONSE
+        </div>
+
+        <div className="mt-1 text-[9px] leading-snug text-slate-300">
+          High-risk patients should receive immediate clinician review
+          and appropriate critical-care resource preparation.
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+)} 
+       
+ {/* operability verdict */}
         <div className="mt-4 border p-3" style={{ borderColor: `${opMeta.color}55`, background: `${opMeta.color}0e` }}>
           <div className="flex items-center justify-between">
             <span className="font-mono text-[10px] tracking-[0.14em]" style={{ color: opMeta.color }}>OPERABILITY DECISION</span>
@@ -271,7 +475,7 @@ export function IcuDemoFinal({ show, demo, onReplay, onExit }: { show: boolean; 
               <span className="grid h-4 w-4 place-items-center rounded-full text-[9px] text-slate-950" style={{ background: opMeta.color }}>{opMeta.icon}</span>
               {opMeta.label}
             </span>
-          </div>
+          </div> 
           <div className="mt-2 grid grid-cols-2 gap-2">
             <div className="border border-white/10 bg-white/[0.03] p-2">
               <div className="font-mono text-[7px] text-slate-500">CAN WE OPERATE?</div>
