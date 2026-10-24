@@ -246,12 +246,12 @@ SOFTWARE.
 The architecture diagram illustrates the MediTwin frontend, FastAPI backend, patient-risk prediction model, Mistral AI explanation workflow, and hospital simulation components.
 
 **Architecture Diagram:** [View MediTwin System Architecture (PDF)](docs/MediTwin_Architecture.pdf)
+
 ## 14. Project Presentation
 
-**Expected file:** `docs/MediTwin_Presentation.pdf`
+The MediTwin project presentation covers the problem statement, healthcare use cases, proposed solution, system architecture, AI/ML workflow, implementation, responsible AI, limitations, and future scope.
 
-The presentation will cover the problem statement, healthcare use cases, proposed solution, technical architecture, AI/ML workflow, implementation, results, responsible AI, limitations, and future scope.
-
+**Project Presentation:** [View MediTwin Project Presentation (PDF)](docs/MediTwin_Presentation.pdf)
 ## 15. Responsible AI and Limitations
 
 MediTwin is an educational prototype and is not a clinically validated medical system.
@@ -283,7 +283,7 @@ These are proposed future improvements, not claims of current functionality.
 
 **GitHub Repository:** https://github.com/arjunpedakolimi/AIdigitaltwinHospital
 
-**Demo Video:** To be added.
+**Demo Video:
 
 **Architecture Diagram:** `docs/MediTwin_Architecture.pdf`
 
