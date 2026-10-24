@@ -213,12 +213,9 @@ Keep API keys and credentials in local environment files. Never publish secrets 
 
 ## 11. Demonstration Video
 
-**Demo Video:** To be added.
+**MediTwin Project Demo:** [Watch the Demo on YouTube](https://www.youtube.com/watch?v=RUfqos_x7Pw)
 
-The demonstration will cover the problem statement, architecture, patient-risk prediction, AI-generated explanation, 3D hospital visualization, and available hospital simulation features.
-
-The video must be uploaded to YouTube as an **Unlisted** video. Add the final video link here before submission.
-
+The video demonstrates the MediTwin project, its hospital digital twin interface, patient-risk prediction workflow, AI-generated explanations, and available hospital simulation features.
 ## 12. Open-Source License
 MIT License
 
@@ -283,12 +280,6 @@ These are proposed future improvements, not claims of current functionality.
 **Institution:** PSG Institute of Technology and Engineering (PSG ITech)
 
 **GitHub Repository:** https://github.com/arjunpedakolimi/AIdigitaltwinHospital
-
-**Demo Video:
-
-**Architecture Diagram:** `docs/MediTwin_Architecture.pdf`
-
-**Presentation:** `docs/MediTwin_Presentation.pdf`
 
 ## 18. Conclusion
 
