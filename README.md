@@ -244,10 +244,7 @@ SOFTWARE.
 
 ## 13. Architecture Diagram
 
-**Expected file:** `docs/MediTwin_Architecture.pdf`
-
-The architecture diagram will illustrate the frontend, backend, patient-risk model, Mistral AI explanation workflow, and hospital simulation components.
-
+**Architecture Diagram:** [View MediTwin System Architecture (PDF)](docs/MediTwin_Architecture.pdf)
 ## 14. Project Presentation
 
 **Expected file:** `docs/MediTwin_Presentation.pdf`
